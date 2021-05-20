@@ -31,8 +31,6 @@
 
 [Coins](#coins)
 
-[Social Policy](#social-policy)
-
 [Appendix](#appendix)
 
 ### Game setup
@@ -88,7 +86,7 @@ Should we play with all hut/village tiles:
   * If a player has at least one great person token matching the card’s type that is not blockaded, the card ability can be used. If a player does not have at least one great person token matching the card’s type that is not blockaded, then the card ability cannot be used for as long as the token is blockaded.
 * Culture cards
 * Technology card resource abilities
-  * Limited to once per use
+  * Limited to once per turn
 * Wonder cards
   * Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
@@ -106,6 +104,7 @@ Should we play with all hut/village tiles:
 * Start of turn abilities
   * Do not include squares blockaded by an enemy army or scout figure
   * Social policy card
+    * Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once.
   * Great person card (if playing with this optional rule)
   * Wonder card
   * Government
@@ -276,7 +275,6 @@ Upgrading a city into a metropolis:
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
-
 ### Combat
 * Default combat unit hand size is 3
 * +2 for each friendly army figure in the square beyond the first
@@ -315,6 +313,8 @@ After both players have played all of their battle forces, the battle is over. F
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
+Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later).
+
 1 Loot Effects
 * Steal up to three points of trade from the loser’s trade dial.
 * Steal up to three culture tokens from the loser.
@@ -332,9 +332,6 @@ When a great person marker is killed (normally by a culture event or the destruc
 
 ### Coins
 Coins gained from squares on the map – whether from a natural gold deposit in the mountains or from a building placed in a square – are only kept as long as the player retains control of the square (i.e., the square is contained in the outskirts of one of the player’s cities or one of the player’s scouts remains in the square to gather from it). If an enemy figure blockades the square containing the coin, it is lost while the enemy figure remains there (see page 27). Similarly, if a building granting a coin to a player is destroyed, the coin is lost.
-
-### Social Policy:
-). Losing Social Policies Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later). Switching Social Policies Normally, after a social policy is adopted, it cannot be changed. This makes the decisions of which social policies to adopt very important. There are certain effects, such as the new Bureaucracy tech (level II), that allow a civilization to switch a currently adopted social policy to a different social policy. When switching social policies, a player may either flip a currently Social Policy Cards Each social policy card has a title and one or more abilities. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. Start of Turn Gain 1 @ for each of your cities and 1 @ for each of your city-states. ExPansionism Start of Turn Spend 6 @ to learn a level I tech. Start of Turn Spend 11 @ to learn a level II tech. rationalism 10 adopted social policy to its reverse side, or switch out a currently adopted social policy card for a different card that he is not currently using
 
 ### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
