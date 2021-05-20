@@ -2,7 +2,9 @@
 ## Rulebook
 
 # Index
-[Start of game](#start-of-game)
+[Game Setup](#game-setup)
+
+[Your civilization setup](#your-civilization-setup)
 
 [Optional Rules](#optional-rules)
 
@@ -44,31 +46,32 @@
 
 [Appendix](#appendix)
 
-### Start of game
-* Pick a starting social policy
+### Game setup
 * Agree on optional rules
 * Agree on house rules
-* Give each player one artillery, one infantry, and one mounted unit.
 * Place one of each market resource token per player near the market board, returning any extras to the box
-* Place capital
+* Build the wonder deck
+  * Randomly Deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
+  
+### Player Setup
+* Pick a civilization
+* Set your starting government
+* Learn your starting tech
 * Gain civilization bonus
+* Pick a starting social policy
+* Set economy coin dial to 0
+* Place capital
+* Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
 * Place a single army figure in your city's outskirts
 * Place a single scout figure in your city's outskirts
-* Learn your civ's starting tech
-* Set starting government
-* Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
-* Set economy coin dial to 0 (It is possible for some players to receive a coin from a map
-  square or great person during setup. If this is the case, the player
-  sets their economy dial to the number equal to the number of
-  coins they have, instead.)
-* Build the wonder deck
-  * Shuffle and deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
+* Take one artillery military unit card
+* Take one infantry military unit card
+* Take one mounted military unit card
 
 ### Optional Rules:
-* Investment deck
-  * All players must agree at the start of the game whether to play with this
-* Great person deck
-  * All players must agree at the start of the game whether to play with this
+* All players must agree at the start of the game whether to play with these optional rules
+  * Investment deck
+  * Great person deck
   
 ### Potential House Rules
 * Not necessarily have we all agreed on these
@@ -116,12 +119,12 @@
   * Change to anarchy for a turn (then next turn you can change to any government)
   * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 * Invest a coin (if playing with investments)
-  * Coins printed on the map, printed on tech cards, or printed on buildings cannot be invested
   * Can only invest coin tokens
-  * Lower your number of coins by 1
-  * Gain an investment marker
+  * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+  * Lower your economy/coin dial by 1
   * This coin no longer counts towards your 15 coin victory condition
-  * Investments cannot be discarded from play by other players.
+  * Gain an investment marker
+  * Investments cannot be discarded from play by other players
 
 ### Trade Phase
 * Turn phase 2
