@@ -23,14 +23,6 @@
 
 [Technology research Phase](#technology-research-phase)
 
-[Military Unit Cards](#military-unit-cards)
-
-[Scout Figure](#scout-figure)
-
-[Army Figure](#army-figure)
-
-[Blockade](#blockade)
-
 [Combat](#combat)
 
 [Post-combat](#post-combat)
@@ -133,8 +125,8 @@ Should we play with all hut/village tiles:
 ### Trade Phase
 * Everyone should do this phase at the same time
 * Collect trade from all cities and record it in your trade dial
-* Include squares controlled by your scout that are not in your outskirts
-* Do not include squares blockaded by an enemy army or scout figure
+  * Include squares controlled by your scout that are not in your outskirts
+  * Do not include squares blockaded by an enemy army or scout figure
 * Trade with other players
   * Points of trade
   * Unspent culture tokens
@@ -195,15 +187,14 @@ faceup in the market to replace it, along with its
 accompanying wonder marker. This rule was omitted
 from the first printing of the rulebook by accident.
 Even an obsolete Wonder must be replaced if you want to build a new Wonder in a city that already has one.
-Devote to the Arts
-Gain 1 culture
-Gain 1 additional culture for each culture token in your outskirts
-Gain 1 additional culture for each culture token your scout has if not in your outskirts)
-Harvest a single resource in your city’s outskirts
-Note that a player cannot harvest a given
-resource if the market is out of that type of resource, and a city
-may only harvest one resource per action.
-Start a building program
+* Devote to the Arts
+  * Gain 1 culture
+  * Gain 1 additional culture if your city is a metropolis
+  * Gain 1 additional culture for each culture token in your outskirts
+  * Gain 1 additional culture for each culture token your scout has if not in your outskirts)
+* Harvest a single resource in your city’s outskirts
+  * Limited by the finite number of resources
+* Start a building program
 Place a building program marker on the city
 A city cannot have more than one building program marker on it at a time
 The marker stays on the city until a figure, unit, building, or wonder is produced
@@ -231,19 +222,9 @@ is destroyed, of course). A city may only have one
 fortification marker on it at a time, and a fortified city
 cannot also have a caravan marker placed on it.
 Disband a scout
-If a player disbands a scout, they may choose to send a
-caravan to the city that the scout figure was disbanded
-in. To do so, the player takes a fortification/caravan
-marker and places it on the city center, caravan side up.
-A caravan marker indicates that the city is benefitting
-from a burst of productivity. When a player takes a
-build action in a city with a caravan marker, they may
-discard the caravan marker to have the city produce 2
-extra ! that turn.
+If a player disbands a scout, they may choose to send a caravan to the city that the scout figure was disbanded in. To do so, the player takes a fortification/caravan marker and places it on the city center, caravan side up. A caravan marker indicates that the city is benefitting from a burst of productivity. When a player takes a build action in a city with a caravan marker, they may discard the caravan marker to have the city produce 2 extra ! that turn.
 8
-A city may only have one caravan marker on it at a
-time, and a city with a caravan cannot also have a
-fortification marker placed on it.
+A city may only have one caravan marker on it at a time, and a city with a caravan cannot also have a fortification marker placed on it.
 
 ### Movement Phase
 * Friendly figures may pass through but they cannot end their movement in a city center
@@ -255,57 +236,21 @@ Move each of their figures (armies and scouts) up to a number of squares equal t
 Movement may cause battles to occur and facedown map tiles to be revealed
 Move all of your figures before it passes to the next player
 Figures cannot move diagonally
-When discovering, flat part of triangle touches the figure that exposed it
-An army figure that enters a square containing a hut
-or village marker must immediately end its movement and is
-considered to be exploring the hut or village.
-Scouts cannot enter a square containing enemy figures. If
-an army enters a square containing any enemy figures, its
-movement immediately ends. If the square contains only enemy
-scouts, the scouts are immediately killed and the attacking player
-collects loot as though they had won a battle (see page 25). If
-the square contains at least one enemy army, a battle occurs (see
-page 23). If the square contains a mix of both enemy armies and
-scouts, a battle occurs, but if the losing side in the battle has any
-scouts in the square, they are killed along with the armies; loot is
-then collected as normal.
-Instead of the figure moving for
-that square of movement, the map tile is turned faceup.
+When discovering, flat part of triangle touches the figure that exposed it An army figure that enters a square containing a hut or village marker must immediately end its movement and is considered to be exploring the hut or village.
+Scouts cannot enter a square containing enemy figures. If an army enters a square containing any enemy figures, its movement immediately ends. If the square contains only enemy scouts, the scouts are immediately killed and the attacking player collects loot as though they had won a battle (see page 25). If the square contains at least one enemy army, a battle occurs (see page 23). If the square contains a mix of both enemy armies and scouts, a battle occurs, but if the losing side in the battle has any scouts in the square, they are killed along with the armies; loot is then collected as normal.
+Instead of the figure moving for that square of movement, the map tile is turned faceup.
 Once a figure has begun its move, it must complete its move before any other figure may move.
-A player may move several of their figures as a group if they
-all begin the Movement Phase in the same square. Doing so
-can offer extra strength in battle (see page 23) or allow armies
-to protect scouts (see page 20). Figures that begin in the same
-square are not required to move together.
-A player may move their figures through their own city centers,
-but they may not end any figure’s movement in their city center.
-Scouts may enter enemy city outskirts, but they cannot enter
-enemy city centers. Armies may enter enemy city outskirts.
-They may also enter an enemy city center, but doing so
-immediately results in an attack on the city (see page 23).
+A player may move several of their figures as a group if they all begin the Movement Phase in the same square. Doing so can offer extra strength in battle (see page 23) or allow armies to protect scouts (see page 20). Figures that begin in the same square are not required to move together.
+A player may move their figures through their own city centers, but they may not end any figure’s movement in their city center. Scouts may enter enemy city outskirts, but they cannot enter enemy city centers. Armies may enter enemy city outskirts. They may also enter an enemy city center, but doing so immediately results in an attack on the city (see page 23).
 Military bonuses and wonders abilities can be blockaded, even by a scout only, but it doesn’t send such abilities or bonus to the scouts’ owner. It does send the culture icons on the wonders.
 In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
-Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.
+Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.Blockade: When a square in a city’s outskirts contains an enemy figure. The presence of the enemy figure prevents the use of that square by the city it is part of the outskirts of.
 
 ### Technology Research Phase
 * Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
 * Turn phase 5
 * parallel
-Each player may learn one new tech by spending trade
-They then add their newly learned tech to their tech pyramid
-When a player learns a tech unlocking an upgraded
-building, they immediately flip over any of the corresponding
-basic buildings that they’ve already produced in their cities.
-Researching a tech spends all of the player’s remaining trade,
-no matter how much trade they had before researching. The
-only exception to this rule is for players who possess coins.
-Coins allow a player to retain 1 trade after researching for
-each coin the player possesses. Having coins never increases a
-player’s current trade; it only allows a player to retain trade they
-already have.
-A player does not need to know the tech that unlocks the
-basic form of a building in order to learn the tech that unlocks
-the upgraded form of that building.
+Each player may learn one new tech by spending trade They then add their newly learned tech to their tech pyramid When a player learns a tech unlocking an upgraded building, they immediately flip over any of the corresponding basic buildings that they’ve already produced in their cities. Researching a tech spends all of the player’s remaining trade, no matter how much trade they had before researching. The only exception to this rule is for players who possess coins. Coins allow a player to retain 1 trade after researching for each coin the player possesses. Having coins never increases a player’s current trade; it only allows a player to retain trade they already have. A player does not need to know the tech that unlocks the basic form of a building in order to learn the tech that unlocks the upgraded form of that building.
 The Railroad technology card should have a coin icon.
 The Metal Casting technology card should not have a coin icon.
 When you research a tech that grants you a coin, you gain it immediately for the sake of paying trades for that research.
@@ -331,26 +276,6 @@ Upgrading a city into a metropolis:
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
-### Military Unit Cards
-If a unit deck is empty, units of that type are not available to be produced until some are killed and returned to the deck. If players go through the entire deck of a type of unit and arrive at units that have been returned faceup to the bottom of the deck, they must turn the deck over and shuffle it.
-
-This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
-
-### Scout figure
-Scouts are of vital importance to a player’s civilization. One of their critical roles is to send home trade, production, culture, coins, and resources from distant locations. Each turn, beginning the turn after it was placed on the map, a scout gathers the contents of the square it occupies. The player declares which of their cities the scout is “sending” the square to during the Start of Turn Phase, and all of the icons in that square (including trade, production, culture, coins, and resources) are then considered to be in that city’s outskirts for the rest of the turn. Consequently, the city benefits from any trade, production, or other icons in the square for the turn
-
-A scout in the outskirt of a city can transfer that square to another city, but the original city can’t use the icons at the same time.
-
-Two scouts in the same square can’t gather twice the resources, hammers, etc.
-
-Can a scout gather icons and/or resources from a square in another city’s outskirts? What if the square contains a building or a wonder? A: A scout can gather resources from a square in another city’s outskirts, even if that square contains a building or wonder. If the scout sends those icons and resources to a different city, the original city cannot also use those icons and resources.
-
-### Army figure
-
-### Blockade
-Blockade: When a square in a city’s outskirts contains an enemy figure. The presence of the enemy figure prevents the use of that square by the city it is part of the outskirts of.
-
-: If a player that is blockading a barracks moves his army figure off of that barracks to attack a city center, does the defender gain the benefit of the barracks? A: Yes. When the army figure leaves the barracks square and enters the city center, the barracks is no longer blockaded and may be used by the defender during the battle
 
 ### Combat
 * Default combat unit hand size is 3
@@ -371,11 +296,13 @@ During the “Engaging in Battle” step of combat, players alternate taking bat
 3. Opportunity to use an ability
 4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
 
-When an army figure moves into a square
-containing a village marker, an enemy army figure, or an
-enemy city, a battle takes place.
+When an army figure moves into a square containing a village marker, an enemy army figure, or an enemy city, a battle takes place.
 
+* Finite resource
+  This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
+  
 Calculating Combat Bonuses
+* Do not include squares blockaded by an enemy army or scout figure
 * +2 for every Barracks the player has built
 * +4 for every Academy the player has built
 * +4 for every Great General the player has on the map
@@ -384,46 +311,24 @@ Calculating Combat Bonuses
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
 ### Post-combat
-After both players have played all of their battle forces, the battle
-is over. First, all wounds are removed from the surviving units in
-the battle. Then, each player tallies up the strength of all of their
-surviving units, adding in the value of the combat bonus card (if
-they have it). The player with the highest total wins the battle,
-with ties going to the defender.
-Winner’s Figure Losses
-The winner then loses one army figure in the square for every
-two units of theirs that were killed in the battle. A player’s last
-army figure in the square can never be lost this way
+After both players have played all of their battle forces, the battle is over. First, all wounds are removed from the surviving units in the battle. Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
 1 Loot Effects
-* Steal up to three points of trade from the loser’s
-  trade dial.
+* Steal up to three points of trade from the loser’s trade dial.
 * Steal up to three culture tokens from the loser.
-* Steal any one resource token from the loser
-  (facedown hut and village tokens may be chosen, but
-  the winner does not get to see what they are before
-  choosing).
-* Force the loser to discard a coin token of the
-  winner’s choice. This cannot affect investments.
+* Steal any one resource token from the loser (facedown hut and village tokens may be chosen, but the winner does not get to see what they are before choosing).
+* Force the loser to discard a coin token of the winner’s choice. This cannot affect investments.
 
 2 Loot Effects
 * 2 1-loot effects (the same or different)
-* Learn one of the loser’s known techs that the winner
-  does not know, without having to pay the trade cost.
-  The winner must have a legal spot in their tech
-  pyramid to do so.
-* Steal one of the loser’s culture event cards. The
-  winner only gets to look at the card backs when
-  choosing.
-* Steal one of the loser’s coin tokens and place it on
-  the winner’s civilization sheet. This cannot affect
-  investments.
+* Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
+* Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
+* Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
    
 ### Great Person
 When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
-
 
 ### Coins
 Coins gained from squares on the map – whether from a natural gold deposit in the mountains or from a building placed in a square – are only kept as long as the player retains control of the square (i.e., the square is contained in the outskirts of one of the player’s cities or one of the player’s scouts remains in the square to gather from it). If an enemy figure blockades the square containing the coin, it is lost while the enemy figure remains there (see page 27). Similarly, if a building granting a coin to a player is destroyed, the coin is lost.
