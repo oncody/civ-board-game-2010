@@ -74,12 +74,15 @@ Not necessarily have we all agreed on these
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Should we play with all hut/village tiles:
-    1. City-states - seems strong but not OP 
-    1. Wealth (gain a coin) - Maybe the coin stays on the map and isn't a coin token so people can contest it
-    1. Friendly barbarian (gain a military unit card) - seems OP
-    1. Friendly workers: +4 extra production - seems OP
-    1. Native art: gain 3-6 extra culture - seems OP
-    1. Teacher: learn a tech 1 for free - seems OP
+
+    | Tile | Cody's thoughts |
+    | --- | --- |
+    | City-states | seems strong but not OP |
+    | Coin | Maybe the coin stays on the map and isn't a coin token so people can contest it |
+    | Military unit | OP |
+    | +4 production | OP |
+    | +3-6 extra culture | OP |
+    | Learn tech 1 for free | OP |
 
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
@@ -139,16 +142,23 @@ Total up your production
 Perform one of the following action:
 1. Build an army figure 
     * Costs 4 production 
-    * The only figures that can fight battles and explore huts and villages
     * Place this unit in a legal square in your city's outskirts where you built this unit
         * If this square contains an enemy unit, a battle immediately takes place
     
 1. Build a scout figure
     * Costs 6 production
-    * May be used to build new cities, gather extra trade, production, or other resources for a city
     * Place this unit in a legal square in your city's outskirts where you built this unit
         * If this square contains an enemy unit, a battle immediately takes place
-    
+
+1. Build a military unit card
+   
+    | Tier | Production Cost |
+    | --- | --- |
+    | Tier 1 | 5 production |
+    | Tier 2 | 7 production |
+    | Tier 3 | 9 production |
+    | Tier 4 | 11 production |
+   
 ## Movement Phase
 * Friendly figures may pass through, but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
