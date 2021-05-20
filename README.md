@@ -100,7 +100,7 @@ One at a time, each player can do as many of these actions as they want in any o
     * Move any other friendly figures in this square to a legal adjacent square
     * Adopt a new social policy
 
-2. Place any great person tiles currently in reserve on your civilization sheet in the outskirts of one of your cities
+2. Play a great person tile from your reserve
    
 3. Change government
     * Change to a government you unlocked last turn
