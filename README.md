@@ -92,6 +92,7 @@ One at a time, each player can do as many of these actions as they want
   * Sacrifice your scout
   * Move any other friendly figures in this square to a legal adjacent square
   * Adopt a new social policy
+* Place any great person tiles currently in reserve on your civilization sheet in the outskirts of one of your cities
 * Change government
   * Change to a government you unlocked last turn
   * Change to anarchy for a turn (on your next turn you can change to any government)
@@ -124,22 +125,31 @@ Players take turns doing this phase
 Culture Track Advancement
   * Can be done at any time during this phase
   * Can be done as many times as you want
-  * Pay culture tokens and trade
+  * Pay culture tokens and trade to advance on the culture track
     * To advance to a tier 1 square, pay 3 culture tokens
     * To advance to a tier 2 square, pay 5 culture tokens and 3 trade
     * To advance to a tier 3 square, pay 7 culture and 6 trade
-  * If the square you advanced to has a star on it, then it is a great person square
-    * If you are playing with the optional great person deck
-      * Draw a random great person card
-      * Draw a matching great person tile and add it to the outskirts of one of your cities
-    * If you are not playing with the optional great person deck
-      * Draw a random great person tile and add it to the outskirts of one of your cities 
-  * If the square you advanced to does not have a star on it, then it is a normal culture square
+  * If the square you advanced to is a normal culture track square and has columns on it
     * Draw a culture event card
     * Starting culture event hand size is 2
     * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
-    * Culture event cards are kept secret from the other players until you play them
+    * Culture event cards are kept secret from other players until you play them
     * Culture event cards say at the top of the card which phase you can play these cards in
+  * If the square you advanced to has a star on it, then it is a great person square
+    * If you are playing with the optional great person deck
+      * Draw a random great person card
+        * Great person cards are kept secret from other players until you play them
+        * Great person cards say in what phase you can play them
+        * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map. For example, in order to use the ability of “William Shakespeare,” the player must have at least one artist great person marker on the map.
+      * Draw a great person tile that matches the great person card you drew
+        * Either add this great person tile to the outskirts of one of your cities
+        * Or hold this tile in reserve by placing it on your civilization sheets
+          * You can put this into play during the start of turn
+    * If you are not playing with the optional great person deck
+      * Draw a random great person tile
+        * Either add this great person tile to the outskirts of one of your cities
+        * Or hold this tile in reserve by placing it on your civilization sheets
+          * You can put this into play during the start of turn
   
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 A player may choose to replace one of their existing buildings or
