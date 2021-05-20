@@ -1,5 +1,4 @@
-# Sid Meier's Civilization: The Board Game (2010)
-## Rulebook
+# Sid Meier's Civilization: The Board Game (2010) Rulebook
 
 # Index
 
@@ -13,28 +12,23 @@
 
 [Optional Rules](#optional-rules)
 
-[Potential House Rules](#house-rules)
+[House Rules](#house-rules)
 
-[Potentially anytime abilities](#potentially-anytime-abilities)
+[Start of Turn Phase](#start-of-turn-phase)
 
-[Start of turn phase](#start-of-turn-phase)
+[Trade Phase](#trade-phase)
 
-[Trade phase](#trade-phase)
+[City Management Phase](#city-management-phase)
 
-[City management Phase](#city-management-phase)
-
-[Technology research Phase](#technology-research-phase)
+[Technology Research Phase](#technology-research-phase)
 
 [Combat](#combat)
 
 [Post-combat](#post-combat)
 
-[Coins](#coins)
-
 [Appendix](#appendix)
 
-
-### Game overview
+### Game Overview
 Civilization is a turn-based strategy game where you play a civilization and balance your economic and military power. There is a map and you will need to expand your geographic domain strategically to emerge victorious.
 
 ### Victory Conditions
@@ -42,31 +36,30 @@ Civilization is a turn-based strategy game where you play a civilization and bal
 * Culture Victory - Advance to the end of the culture track
 * Technology Victory - Research a level 5 technology card
 * Economic Victory - Reach 15 coins
-  * If playing with investments, invested coins do not count towards an economic victory
+  * Invested coins do not count towards an economic victory
 
-### Game setup
+### Game Setup
 - [ ] Agree on optional rules
 - [ ] Agree on house rules
-- [ ] Place one of each market resource token per player near the market board, returning any extras to the box
+- [ ] Place one of each market resource token per player near the market board
 - [ ] Build the wonder deck with 4 of each type of wonder with the basic ones on top
 
 ### Player Setup
 - [ ] Pick a civilization
-- [ ] Set your starting government
-- [ ] Learn your starting tech
+- [ ] Set your government to your civilization's starting government
+- [ ] Find your civilization's starting technology and add it to the bottom of your tech tree
 - [ ] Pick a starting social policy
 - [ ] Set economy coin dial to 0
 - [ ] Place capital
 - [ ] Gain civilization bonus
 - [ ] Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
-- [ ] Place a single army figure in your city's outskirts
-- [ ] Place a single scout figure in your city's outskirts
+- [ ] Place a single army figure in a legal square in your city's outskirts
+- [ ] Place a single scout figure in a legal square in your city's outskirts
 - [ ] Take one artillery military unit card
 - [ ] Take one infantry military unit card
 - [ ] Take one mounted military unit card
 
-### Optional Rules:
-All players must agree at the start of the game whether to play with these optional rules:
+### Optional Rules
 - [ ] Investment deck
 - [ ] Great person deck
   
@@ -85,27 +78,17 @@ Should we play with all hut/village tiles:
 - [ ] Native art: gain 3-6 extra culture - seems OP
 - [ ] Teacher: learn a tech 1 for free - seems OP
 
-
-### Potentially anytime abilities:
-* Great person cards 
-    * Can only be used if a matching great person token is not blockaded
-* Culture cards
-* Technology card resource abilities
-  * Limited to once per turn
-* Wonder cards
-  * Cannot be used if the matching token is blockaded
-
 ### Start of Turn Phase
-* Advance first player token
-  * Skip this the first turn of the game
-* Making a new city
+* Advance first player token (skip this the first turn of the game)
+* Convert a scout to a new city
   * Starting city limit is 2
-  * The square cannot be on water
-  * Must be eight revealed squares around it
-  * Cannot be adjacent to a hut or village token
+  * Cannot build a city on water
+  * There must be eight revealed squares around it
+  * Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
   * Cannot be adjacent to an enemy figure
   * Its outskirts must not overlap with any other city’s outskirts
-  * If there are any friendly figures in the square where a city is being built besides the scout being sacrificed, the player immediately moves them to an adjacent square that they can legally end their movement in
+  * Sacrifice your scout
+  * Move any other friendly figures in this square to a legal adjacent square
 * Start of turn abilities
   * Do not include squares blockaded by an enemy army or scout figure
   * Social policy card
@@ -360,9 +343,6 @@ returned to the box and may not be rebuilt for the remainder of
 the game.
 
 When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
-
-### Coins
-Coins gained from squares on the map – whether from a natural gold deposit in the mountains or from a building placed in a square – are only kept as long as the player retains control of the square (i.e., the square is contained in the outskirts of one of the player’s cities or one of the player’s scouts remains in the square to gather from it). If an enemy figure blockades the square containing the coin, it is lost while the enemy figure remains there (see page 27). Similarly, if a building granting a coin to a player is destroyed, the coin is lost.
 
 ### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
