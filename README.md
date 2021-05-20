@@ -23,8 +23,6 @@
 
 [Technology research Phase](#technology-research-phase)
 
-[Cities and Metropolises](#cities-and-metropolises)
-
 [Military Unit Cards](#military-unit-cards)
 
 [Scout Figure](#scout-figure)
@@ -110,10 +108,11 @@ Should we play with all hut/village tiles:
 * Making a new city
   * Starting city limit is 2
   * The square cannot be on water
-* Must be eight revealed squares around it
-* Cannot be adjacent to a hut or village token
-* Cannot be adjacent to an enemy figure
-* Its outskirts must not overlap with any other city’s outskirts
+  * Must be eight revealed squares around it
+  * Cannot be adjacent to a hut or village token
+  * Cannot be adjacent to an enemy figure
+  * Its outskirts must not overlap with any other city’s outskirts
+  * If there are any friendly figures in the square where a city is being built besides the scout being sacrificed, the player immediately moves them to an adjacent square that they can legally end their movement in
 * Start of turn abilities
   * Do not include squares blockaded by an enemy army or scout figure
   * Social policy card
@@ -249,6 +248,7 @@ time, and a city with a caravan cannot also have a
 fortification marker placed on it.
 
 ### Movement Phase
+* Friendly figures may pass through but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
 * Turn phase 4
@@ -318,16 +318,6 @@ build when it appears that one of their cities is in danger of being
 attacked. A wall provides +4 to a player’s strength total when
 defending that city and forces the attacker to play a unit first in
 the battle (see pages 23–24)
-
-### Cities and metropolises
-Friendly figures may pass through but they cannot end their movement in a city center
-
-If there are any friendly figures in the square where a city
-is being built besides the scout being sacrificed, the player
-immediately moves them to an adjacent square that they can
-legally end their movement in.
-
-
 
 Upgrading a city into a metropolis:
 * A metropolis has two extra squares in its city outskirts.
