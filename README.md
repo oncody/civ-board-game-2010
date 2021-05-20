@@ -107,18 +107,20 @@
   * Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
 ### Start of Turn Phase
-* Turn phase 1
-* One at a time
 * Advance first player token
-* Skip the first turn of the game
+  * Skip the first turn of the game
 * Start of turn abilities
-* Do not include squares blockaded by an enemy army or scout figure
-* Convert a scout into a city and adopt a new social policy
+  * Do not include squares blockaded by an enemy army or scout figure
+  * Social policy card
+  * Great person card (if playing with this optional rule)
+  * Wonder card
+  * Government
+  * Convert a scout into a city and adopt a new social policy
 * Change government
   * Change to a government unlocked last turn
   * Change to anarchy for a turn (then next turn you can change to any government)
   * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
-* Invest a coin (if playing with investments)
+* Invest a coin (if playing with this optional rule)
   * Can only invest coin tokens
   * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
   * Lower your economy/coin dial by 1
@@ -127,8 +129,7 @@
   * Investments cannot be discarded from play by other players
 
 ### Trade Phase
-* Turn phase 2
-* Parallel
+* Everyone should do this phase at teh same time
 * Collect trade from all cities and record it in your trade dial
 * Include squares controlled by your scout that are not in your outskirts
 * Do not include squares blockaded by an enemy army or scout figure
