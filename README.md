@@ -27,8 +27,6 @@
 
 [Post-combat](#post-combat)
 
-[Great Person](#great-person)
-
 [Coins](#coins)
 
 [Appendix](#appendix)
@@ -138,6 +136,12 @@ At any point during their City Management Phase, a player may choose to spend so
 * Starting culture hand size is 2
 
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
+A player may choose to replace one of their existing buildings or
+wonders when placing a new building or wonder (it is possible
+for a wonder to replace a building and vice versa). The new
+building or wonder must be able to be legally placed in the
+square once the old building or wonder is removed. Players may
+not replace a building or wonder belonging to another player
 
 For each city:
 Total up your production
@@ -245,7 +249,25 @@ Military bonuses and wonders abilities can be blockaded, even by a scout only, b
 In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
 Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.Blockade: When a square in a city’s outskirts contains an enemy figure. The presence of the enemy figure prevents the use of that square by the city it is part of the outskirts of.
 
+An army figure that enters a square containing a hut
+or village marker must immediately end its movement and is
+considered to be exploring the hut or village.
+
+Killing a lone enemy scout definitely gives you loot. I think it also counts as a battle. If
+an army enters a square containing any enemy figures, its
+movement immediately ends. If the square contains only enemy
+scouts, the scouts are immediately killed and the attacking player
+collects loot as though they had won a battle (see page 25).
+
+
+Scouts cannot enter a square containing enemy figures.
+
 ### Technology Research Phase
+
+The Tech Pyramid
+
+Explain how much a technology csots
+
 * Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
 * Turn phase 5
 * parallel
@@ -283,7 +305,6 @@ Upgrading a city into a metropolis:
 
 slaughtering scouts generates loot
 All wounds go away at the end of the battle.
-You don’t get a coin here when you defeat an enemy Scout without battle (although you do get loot for doing this).
 The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
 The battle ends after 2 subsequent turns where no player play neither a card neither an ability
@@ -299,8 +320,8 @@ When an army figure moves into a square containing a village marker, an enemy ar
 * Finite resource
   This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
   
-Calculating Combat Bonuses
-* Do not include squares blockaded by an enemy army or scout figure
+Combat Bonuses
+* Except cities, Do not include squares blockaded by an enemy army or scout figure
 * +2 for every Barracks the player has built
 * +4 for every Academy the player has built
 * +4 for every Great General the player has on the map
@@ -326,8 +347,11 @@ Each time a civilization’s social policy maximum decreases, its player chooses
 * Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
 * Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
 * Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
-   
-### Great Person
+
+. If it is a wonder, the wonder marker and card are
+returned to the box and may not be rebuilt for the remainder of
+the game.
+
 When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ### Coins
@@ -341,7 +365,3 @@ Coins gained from squares on the map – whether from a natural gold deposit in 
 [Wisdom and Warfare Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/wisdom%20and%20warfare/new/CI03_WW_Rulebook.pdf)
 
 [Errata/FAQ](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/news/Civilization%20FAQ_v2.0.pdf)
-
-[Unofficial Errata v1](https://boardgamegeek.com/thread/829522/civilization-bible-rulings-and-clarifications)
-
-[Unofficial Errata v2](https://boardgamegeek.com/thread/1111649/civilization-summary-official-and-unofficial-rules)
