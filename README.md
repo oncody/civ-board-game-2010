@@ -84,30 +84,30 @@ Advance first player token (skip this the first turn of the game)
 One at a time, each player can do as many of these actions as they want in any order
 
 1. Convert a scout to a new city
-* Starting city limit is 2
-* Cannot build a city on water
-* There must be eight revealed squares around it
-* Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
-* Cannot be adjacent to an enemy figure
-* Its outskirts must not overlap with any other city’s outskirts
-* Sacrifice your scout
-* Move any other friendly figures in this square to a legal adjacent square
-* Adopt a new social policy
+    * Starting city limit is 2
+    * Cannot build a city on water
+    * There must be eight revealed squares around it
+    * Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
+    * Cannot be adjacent to an enemy figure
+    * Its outskirts must not overlap with any other city’s outskirts
+    * Sacrifice your scout
+    * Move any other friendly figures in this square to a legal adjacent square
+    * Adopt a new social policy
 
 2. Place any great person tiles currently in reserve on your civilization sheet in the outskirts of one of your cities
    
 3. Change government
-* Change to a government you unlocked last turn
-* Change to anarchy for a turn (on your next turn you can change to any government)
-* Change to any government you have unlocked (requires you to have been in anarchy for a turn)
+    * Change to a government you unlocked last turn
+    * Change to anarchy for a turn (on your next turn you can change to any government)
+    * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 
 4. Invest a coin (if playing with this optional rule)
-* Can only invest coin tokens
-* Can not invest coins printed on the map, printed on tech cards, or printed on buildings
-* Lower your economy coin dial by 1
-* This coin no longer counts towards your 15 coin victory condition
-* Gain an investment marker
-* Investments cannot be discarded from play by other players
+    * Can only invest coin tokens
+    * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+    * Lower your economy coin dial by 1
+    * This coin no longer counts towards your 15 coin victory condition
+    * Gain an investment marker
+    * Investments cannot be discarded from play by other players
 
 ## Trade Phase
 Everyone should do this phase at the same time
