@@ -2,9 +2,11 @@
 ## Rulebook
 
 # Index
+[Victory Conditions](#victory-conditions)
+
 [Game Setup](#game-setup)
 
-[Your civilization setup](#your-civilization-setup)
+[Player Setup](#player-setup)
 
 [Optional Rules](#optional-rules)
 
@@ -45,6 +47,13 @@
 [Social Policy](#social-policy)
 
 [Appendix](#appendix)
+
+### Victory Conditions
+* Military Victory - Defeat an enemy capital in battle
+* Culture Victory - Advance to the end of the culture track
+* Technology Victory - Research a level 5 technology card
+* Economic Victory - Reach 15 coins
+  * If playing with investments, invested coins do not count towards an economic victory
 
 ### Game setup
 * Agree on optional rules
@@ -129,7 +138,7 @@
   * Investments cannot be discarded from play by other players
 
 ### Trade Phase
-* Everyone should do this phase at teh same time
+* Everyone should do this phase at the same time
 * Collect trade from all cities and record it in your trade dial
 * Include squares controlled by your scout that are not in your outskirts
 * Do not include squares blockaded by an enemy army or scout figure
@@ -140,10 +149,7 @@
   * Culture Event cards
 
 ### City Management Phase
-* Turn phase 3
-* One at a time
-
-At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board.
+At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board. A player can advance any number of times on the culture track in a turn. If they land on a normal square, they draw a card, respecting hand limits. If they land on a star, then they draw a great person and if they are playing with great person cards, then they draw a great person card and a matching great person tile.
 
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 
