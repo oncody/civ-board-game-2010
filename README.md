@@ -329,103 +329,46 @@ immediately moves them to an adjacent square that they can
 legally end their movement in.
 
 Making a new city:
-Can only build 2 cities. 3 with irrigation.
-Cannot be water
-Must be eight revealed squares around it
-Cannot be adjacent to a hut or village token
-Cannot be adjacent to an enemy figure
-Its outskirts must not overlap with any other city’s outskirts
+* Can only build 2 cities. 3 with irrigation.
+* Cannot be water
+* Must be eight revealed squares around it
+* Cannot be adjacent to a hut or village token
+* Cannot be adjacent to an enemy figure
+* Its outskirts must not overlap with any other city’s outskirts
 
 Upgrading a city into a metropolis:
-A metropolis has two extra squares in its city
-outskirts.
-• When devoted to the arts, a metropolis produces a
-base of 2 culture instead of 1.
-• A metropolis receives an extra +2 combat bonus
-when a player is defending it.
-• A metropolis may extend partially into water and
-doesn’t count as water for movement, so its owner
-can use it as a makeshift bridge.
-
-The metropolis marker must occupy the square that
-the capital marker occupied plus one of its four nondiagonally adjacent squares (this square is called its
-expansion square).
-• The expansion square must not contain any enemy
-figures.
-• If the expansion square contains any friendly
-figures, the player immediately moves them to
-an adjacent square that they can legally end their
-movement in.
-• If the expansion square contains a wonder, great
-person, or building, then the square’s previous
-contents are overbuilt, as described in the core
-rulebook.
-• An expansion square may be a water square. If so,
-the square is no longer considered to be water for
-purposes of movement.
-• The metropolis’s new outskirts cannot overlap
-another city’s outskirts, nor can the outskirts extend
-off the map or into unexplored territory
-
-If the expansion square contains any friendly
-figures, the player immediately moves them to
-an adjacent square that they can legally end their
-movement in.
+* A metropolis has two extra squares in its city outskirts.
+* When devoted to the arts, a metropolis produces a base of 2 culture instead of 1.
+* A metropolis receives an extra +2 combat bonus when a player is defending it.
+* A metropolis may extend partially into water and doesn’t count as water for movement, so its owner can use it as a makeshift bridge.
+* The metropolis marker must occupy the square that the capital marker occupied plus one of its four nondiagonally adjacent squares (this square is called its expansion square).
+* The expansion square must not contain any enemy figures.
+* If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
+* If the expansion square contains a wonder, great person, or building, then the square’s previous contents are overbuilt, as described in the core rulebook.
+* An expansion square may be a water square. If so, the square is no longer considered to be water for purposes of movement.
+* The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
+* If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
 ### Military Unit Cards
-If a unit deck is empty, units of that type are not
-available to be produced until some are killed and returned to the
-deck. If players go through the entire deck of a type of unit and
-arrive at units that have been returned faceup to the bottom of
-the deck, they must turn the deck over and shuffle it.
+If a unit deck is empty, units of that type are not available to be produced until some are killed and returned to the deck. If players go through the entire deck of a type of unit and arrive at units that have been returned faceup to the bottom of the deck, they must turn the deck over and shuffle it.
 
-This relationship is shown on the unit cards by their trump
-symbols. For example, infantry units are particularly effective
-against mounted units (e.g., pikemen versus knights), so infantry
-units have the mounted unit symbol as their trump symbol.
-When a unit attacks or is attacked by a unit that it has pictured
-on its card as a trump symbol, it trumps that unit, dealing its
-damage before the other unit can do so. If this damage kills the
-trumped unit, the trumped unit deals no damage back to the unit
-trumping it, since it is already dead before it can deal its damage.
+This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
 
 ### Scout figure
-Scouts are of vital importance to a player’s civilization. One of
-their critical roles is to send home trade, production, culture,
-coins, and resources from distant locations. Each turn, beginning
-the turn after it was placed on the map, a scout gathers the
-contents of the square it occupies. The player declares which of
-their cities the scout is “sending” the square to during the Start
-of Turn Phase, and all of the icons in that square (including
-trade, production, culture, coins, and resources) are then
-considered to be in that city’s outskirts for the rest of the turn.
-Consequently, the city benefits from any trade, production, or
-other icons in the square for the turn.;l.;.,
+Scouts are of vital importance to a player’s civilization. One of their critical roles is to send home trade, production, culture, coins, and resources from distant locations. Each turn, beginning the turn after it was placed on the map, a scout gathers the contents of the square it occupies. The player declares which of their cities the scout is “sending” the square to during the Start of Turn Phase, and all of the icons in that square (including trade, production, culture, coins, and resources) are then considered to be in that city’s outskirts for the rest of the turn. Consequently, the city benefits from any trade, production, or other icons in the square for the turn
+
 A scout in the outskirt of a city can transfer that square to another city, but the original city can’t use the icons at the same time.
 
 Two scouts in the same square can’t gather twice the resources, hammers, etc.
 
-Can a scout gather icons and/or resources from a square
-in another city’s outskirts? What if the square contains a
-building or a wonder?
-A: A scout can gather resources from a square in another city’s
-outskirts, even if that square contains a building or wonder. If
-the scout sends those icons and resources to a different city,
-the original city cannot also use those icons and resources.
+Can a scout gather icons and/or resources from a square in another city’s outskirts? What if the square contains a building or a wonder? A: A scout can gather resources from a square in another city’s outskirts, even if that square contains a building or wonder. If the scout sends those icons and resources to a different city, the original city cannot also use those icons and resources.
 
 ### Army figure
 
 ### Blockade
-Blockade: When a square in a city’s outskirts contains an enemy
-figure. The presence of the enemy figure prevents the use of that
-square by the city it is part of the outskirts of.
+Blockade: When a square in a city’s outskirts contains an enemy figure. The presence of the enemy figure prevents the use of that square by the city it is part of the outskirts of.
 
-: If a player that is blockading a barracks moves his army
-figure off of that barracks to attack a city center, does the
-defender gain the benefit of the barracks?
-A: Yes. When the army figure leaves the barracks square and
-enters the city center, the barracks is no longer blockaded and
-may be used by the defender during the battle./,lmjlk;
+: If a player that is blockading a barracks moves his army figure off of that barracks to attack a city center, does the defender gain the benefit of the barracks? A: Yes. When the army figure leaves the barracks square and enters the city center, the barracks is no longer blockaded and may be used by the defender during the battle
 
 ### Combat
 slaughtering scouts generates loot
@@ -435,32 +378,14 @@ The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
 The battle ends after 2 subsequent turns where no player play neither a card neither an ability
 Battle Turns
-During the “Engaging in Battle” step of combat, players
-alternate taking battle turns, starting with the defender. Only the
-player currently taking his battle turn can use abilities (such as
-those found on tech cards or culture event cards) or play units. A
-player’s battle turn consists of:
+During the “Engaging in Battle” step of combat, players alternate taking battle turns, starting with the defender. Only the player currently taking his battle turn can use abilities (such as those found on tech cards or culture event cards) or play units. A player’s battle turn consists of:
 1. Opportunity to use an ability
 2. Play a unit
 3. Opportunity to use an ability
-4. Battle turn ends
-   After a player plays his last unit, he does not take any more
-   battle turns.
-   Can a player win a battle if he has no units in the battle,
-   but he has a high enough military bonus to win?
-   A: Yes
-   Can a player use resource abilities from tech cards during
-   his “turn” in combat if he has no units left in his hand?
-   A: Yes
+4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
    
 ### Post-combat
-If the loser had one or more figures in the square:
-The winner gains 1 loot.
-If the loser was defending one of their non-capital
-cities: The winner gains 2 loot.
-If the loser was defending their capital city: The
-winner immediately wins the game with a military
-victory.
+If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
 1 Loot Effects
 * Steal up to three points of trade from the loser’s
@@ -487,78 +412,16 @@ victory.
   investments.
    
 ### Great Person
-When a great person marker is killed (normally by a
-culture event or the destruction of a city), the player
-must check to see whether they now have too many
-great person cards of that type. A player may only have
-one great person card for each great person marker of
-that type they possess (including markers on the map
-and those held in reserve), regardless of whether the
-cards are faceup or facedown. Thus, a player with two
-artist great person markers may have no more than two
-great artist cards total. If a player has too many of the
-same type of great person card, they must randomly
-discard cards of that type (one at a time) until they no
-longer have too many.
+When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ### Wonder
-Certain techs (Monarchy and Gunpowder) allow a player to
-obsolete a wonder. When a wonder is obsoleted, turn its wonder
-card facedown, but leave its wonder marker on the map. The
-wonder’s special ability is negated and cannot be used for the
-rest of the game. However, the wonder marker still produces
-culture when the city it is in is devoted to the arts.
+Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
 
 ### Coins
-Coins gained from squares on the map – whether from a natural
-gold deposit in the mountains or from a building placed in a
-square – are only kept as long as the player retains control of the
-square (i.e., the square is contained in the outskirts of one of the
-player’s cities or one of the player’s scouts remains in the square
-to gather from it). If an enemy figure blockades the square
-containing the coin, it is lost while the enemy figure remains
-there (see page 27). Similarly, if a building granting a coin to a
-player is destroyed, the coin is lost.
+Coins gained from squares on the map – whether from a natural gold deposit in the mountains or from a building placed in a square – are only kept as long as the player retains control of the square (i.e., the square is contained in the outskirts of one of the player’s cities or one of the player’s scouts remains in the square to gather from it). If an enemy figure blockades the square containing the coin, it is lost while the enemy figure remains there (see page 27). Similarly, if a building granting a coin to a player is destroyed, the coin is lost.
 
 ### Social Policy:
-After a civilization
-has adopted a social policy, it cannot adopt another
-social policy from that same card (to use the reverse
-side of the card, the social policy must be switched).
-Losing Social Policies
-Each time a civilization’s social policy maximum
-decreases, its player chooses a social policy card it
-currently has and returns it to its pile of unused social
-policies (any policy on the card can be re-adopted later).
-Switching Social Policies
-Normally, after a social policy is adopted, it cannot
-be changed. This makes the decisions of which social
-policies to adopt very important. There are certain
-effects, such as the new Bureaucracy tech (level II), that
-allow a civilization to switch a currently adopted social
-policy to a different social policy. When switching
-social policies, a player may either flip a currently
-Social Policy Cards
-Each social policy card has a title and one or
-more abilities. Each “Start of Turn” ability on a
-social policy card can only be used once per turn.
-If a card has two abilities, both can be used once.
-Start of Turn
-Gain 1 @ for each of
-your cities and 1 @ for
-each of your city-states.
-ExPansionism
-Start of Turn
-Spend 6 @ to learn
-a level I tech.
-Start of Turn
-Spend 11 @ to learn
-a level II tech.
-rationalism
-10
-adopted social policy to its reverse side, or switch out a
-currently adopted social policy card for a different card
-that he is not currently using
+After a civilization has adopted a social policy, it cannot adopt another social policy from that same card (to use the reverse side of the card, the social policy must be switched). Losing Social Policies Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later). Switching Social Policies Normally, after a social policy is adopted, it cannot be changed. This makes the decisions of which social policies to adopt very important. There are certain effects, such as the new Bureaucracy tech (level II), that allow a civilization to switch a currently adopted social policy to a different social policy. When switching social policies, a player may either flip a currently Social Policy Cards Each social policy card has a title and one or more abilities. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. Start of Turn Gain 1 @ for each of your cities and 1 @ for each of your city-states. ExPansionism Start of Turn Spend 6 @ to learn a level I tech. Start of Turn Spend 11 @ to learn a level II tech. rationalism 10 adopted social policy to its reverse side, or switch out a currently adopted social policy card for a different card that he is not currently using
 
 ### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
