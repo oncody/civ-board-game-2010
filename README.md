@@ -372,8 +372,33 @@ During the “Engaging in Battle” step of combat, players alternate taking bat
 2. Play a unit
 3. Opportunity to use an ability
 4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
+
+When an army figure moves into a square
+containing a village marker, an enemy army figure, or an
+enemy city, a battle takes place.
+
+Calculating Combat Bonuses
+* +2 for every Barracks the player has built
+* +4 for every Academy the player has built
+* +4 for every Great General the player has on the map
+* +6 if defending a non-capital city
+* +12 if defending a capital city
+* +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
+
    
 ### Post-combat
+
+After both players have played all of their battle forces, the battle
+is over. First, all wounds are removed from the surviving units in
+the battle. Then, each player tallies up the strength of all of their
+surviving units, adding in the value of the combat bonus card (if
+they have it). The player with the highest total wins the battle,
+with ties going to the defender.
+Winner’s Figure Losses
+The winner then loses one army figure in the square for every
+two units of theirs that were killed in the battle. A player’s last
+army figure in the square can never be lost this way
+
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
 1 Loot Effects
