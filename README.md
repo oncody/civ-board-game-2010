@@ -94,21 +94,14 @@
   * +3 hand size if defending a city or capital.
 * Starting city limit is 2 (but can be increased to 3 with irrigation)
 
-  
 ### Potentially anytime abilities:
-Great person cards
-If a player has at least one great person token
-matching the card’s type that is not blockaded, the card
-ability can be used. If a player does not have at least one great
-person token matching the card’s type that is not blockaded,
-then the card ability cannot be used for as long as the token is
-blockaded.
-
+* Great person cards 
+  * If a player has at least one great person token matching the card’s type that is not blockaded, the card ability can be used. If a player does not have at least one great person token matching the card’s type that is not blockaded, then the card ability cannot be used for as long as the token is blockaded.
 * Culture cards
 * Resource abilities
-* Limited to once per use
+  * Limited to once per use
 * Wonder cards
-* Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
+  * Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
 ### Start of Turn Phase
 * Turn phase 1
@@ -118,39 +111,35 @@ blockaded.
 * Start of turn abilities
 * Do not include squares blockaded by an enemy army or scout figure
 * Convert a scout into a city and adopt a new social policy
-
-Change government
-Change to a government unlocked last turn
-Change to anarchy for a turn (then next turn you can change to any government)
-Change to any government you have unlocked (requires you to have been in anarchy for a turn)
-Invest a coin (if playing with investments)
-Coins printed on the map, printed on tech cards, or printed on buildings cannot be invested
-Can only invest coin tokens
-Lower your number of coins by 1
-Gain an investment marker
-This coin no longer counts towards your 15 coin victory condition
-Investments cannot be discarded from play by other players.
+* Change government
+  * Change to a government unlocked last turn
+  * Change to anarchy for a turn (then next turn you can change to any government)
+  * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
+* Invest a coin (if playing with investments)
+  * Coins printed on the map, printed on tech cards, or printed on buildings cannot be invested
+  * Can only invest coin tokens
+  * Lower your number of coins by 1
+  * Gain an investment marker
+  * This coin no longer counts towards your 15 coin victory condition
+  * Investments cannot be discarded from play by other players.
 
 ### Trade Phase
 * Turn phase 2
 * Parallel
 * Collect trade from all cities and record it in your trade dial
-Include squares controlled by your scout that are not in your outskirts
-Do not include squares blockaded by an enemy army or scout figure
-Trade resources with other players
-Points of trade
-Unspent culture tokens
-Resource tokens
-Culture Event cards
+* Include squares controlled by your scout that are not in your outskirts
+* Do not include squares blockaded by an enemy army or scout figure
+* Trade with other players
+  * Points of trade
+  * Unspent culture tokens
+  * Resource tokens
+  * Culture Event cards
 
 ### City Management Phase
 * Turn phase 3
 * One at a time
 
-At any point during their City Management Phase, a player may
-choose to spend some or all of their culture tokens to advance
-their culture level marker up the culture track on the market
-Board.
+At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board.
 
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 
