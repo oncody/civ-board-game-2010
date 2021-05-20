@@ -78,7 +78,10 @@ Should we play with all hut/village tiles:
 - [ ] Teacher: learn a tech 1 for free - seems OP
 
 ### Start of Turn Phase
-* Advance first player token (skip this the first turn of the game)
+Advance first player token (skip this the first turn of the game)
+
+One at a time, each player can do as many of these actions as they want
+
 * Convert a scout to a new city
   * Starting city limit is 2
   * Cannot build a city on water
@@ -102,7 +105,8 @@ Should we play with all hut/village tiles:
   * Investments cannot be discarded from play by other players
 
 ### Trade Phase
-* Everyone should do this phase at the same time
+Everyone should do this phase at the same time
+
 * Gather trade
   * Add the number of trade icons in all of your cities' outskirts
     * The square a scout is on is considered part of one of your city's outskirts (you can never get double income from a square though)
@@ -115,10 +119,28 @@ Should we play with all hut/village tiles:
   * Culture event cards
 
 ### City Management Phase
-At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board. A player can advance any number of times on the culture track in a turn. If they land on a normal square, they draw a card, respecting hand limits. If they land on a star, then they draw a great person and if they are playing with great person cards, then they draw a great person card and a matching great person tile.
-* If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
-* Starting culture hand size is 2
+Players take turns doing this phase
 
+Culture Track Advancement
+  * Can be done at any time during this phase
+  * Can be done as many times as you want
+  * Pay culture tokens and trade
+    * To advance to a tier 1 square, pay 3 culture tokens
+    * To advance to a tier 2 square, pay 5 culture tokens and 3 trade
+    * To advance to a tier 3 square, pay 7 culture and 6 trade
+  * If the square you advanced to has a star on it, then it is a great person square
+    * If you are playing with the optional great person deck
+      * Draw a random great person card
+      * Draw a matching great person tile and add it to the outskirts of one of your cities
+    * If you are not playing with the optional great person deck
+      * Draw a random great person tile and add it to the outskirts of one of your cities 
+  * If the square you advanced to does not have a star on it, then it is a normal culture square
+    * Draw a culture event card
+    * Starting culture event hand size is 2
+    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
+    * Culture event cards are kept secret from the other players until you play them
+    * Culture event cards say at the top of the card which phase you can play these cards in
+  
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 A player may choose to replace one of their existing buildings or
 wonders when placing a new building or wonder (it is possible
