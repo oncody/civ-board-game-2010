@@ -2,7 +2,6 @@
 ## Rulebook
 
 # Index
-[Victory Conditions](#victory-conditions)
 
 [Game Setup](#game-setup)
 
@@ -11,6 +10,8 @@
 [Optional Rules](#optional-rules)
 
 [Potential House Rules](#potential-house-rules)
+
+[Victory Conditions](#victory-conditions)
 
 [Cheat Sheet](#cheat-sheet)
 
@@ -48,53 +49,54 @@
 
 [Appendix](#appendix)
 
+### Game setup
+- [ ] Agree on optional rules
+- [ ] Agree on house rules
+- [ ] Place one of each market resource token per player near the market board, returning any extras to the box
+- [ ] Build the wonder deck - Randomly Deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
+
+### Player Setup
+- [ ] Pick a civilization
+- [ ] Set your starting government
+- [ ] Learn your starting tech
+- [ ] Pick a starting social policy
+- [ ] Set economy coin dial to 0
+- [ ] Place capital
+- [ ] Gain civilization bonus
+- [ ] Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
+- [ ] Place a single army figure in your city's outskirts
+- [ ] Place a single scout figure in your city's outskirts
+- [ ] Take one artillery military unit card
+- [ ] Take one infantry military unit card
+- [ ] Take one mounted military unit card
+
+### Optional Rules:
+All players must agree at the start of the game whether to play with these optional rules
+- [ ] Investment deck
+- [ ] Great person deck
+  
+### Potential House Rules
+Not necessarily have we all agreed on these
+- [ ] If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
+- [ ] Don’t play with relic squares
+- [ ] Maybe not play with as many water tiles 
+  
+Should we play with all hut/village tiles:
+- [ ] City-states
+- [ ] Wealth (gain a coin)
+- [ ] Friendly barbarian (gain a military unit card)
+- [ ] Friendly workers: produce 4 extra
+- [ ] Native art: gain 3-6 extra culture
+- [ ] Teacher: learn a tech 1 for free
+- [ ] Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2 more to build an army figure.
+
 ### Victory Conditions
 * Military Victory - Defeat an enemy capital in battle
 * Culture Victory - Advance to the end of the culture track
 * Technology Victory - Research a level 5 technology card
 * Economic Victory - Reach 15 coins
   * If playing with investments, invested coins do not count towards an economic victory
-
-### Game setup
-* Agree on optional rules
-* Agree on house rules
-* Place one of each market resource token per player near the market board, returning any extras to the box
-* Build the wonder deck
-  * Randomly Deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
   
-### Player Setup
-* Pick a civilization
-* Set your starting government
-* Learn your starting tech
-* Gain civilization bonus
-* Pick a starting social policy
-* Set economy coin dial to 0
-* Place capital
-* Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
-* Place a single army figure in your city's outskirts
-* Place a single scout figure in your city's outskirts
-* Take one artillery military unit card
-* Take one infantry military unit card
-* Take one mounted military unit card
-
-### Optional Rules:
-* All players must agree at the start of the game whether to play with these optional rules
-  * Investment deck
-  * Great person deck
-  
-### Potential House Rules
-* Not necessarily have we all agreed on these
-* If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
-* Don’t play with relic squares
-* Maybe not play with as many water tiles
-* Should we play with all hut/village tiles:
-  * City-states
-  * Wealth (gain a coin)
-  * Friendly barbarian (gain a military unit card)
-  * Friendly workers: produce 4 extra
-  * Native art: gain 3-6 extra culture
-  * Teacher: learn a tech 1 for free
-
 ### Cheat Sheet
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
