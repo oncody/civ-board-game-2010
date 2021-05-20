@@ -55,7 +55,7 @@
 - [ ] Take one mounted military unit card
 
 ### Optional Rules:
-All players must agree at the start of the game whether to play with these optional rules
+All players must agree at the start of the game whether to play with these optional rules:
 - [ ] Investment deck
 - [ ] Great person deck
   
@@ -63,16 +63,16 @@ All players must agree at the start of the game whether to play with these optio
 Not necessarily have we all agreed on these
 - [ ] If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 - [ ] Don’t play with relic squares
-- [ ] Maybe not play with as many water tiles 
+- [ ] Maybe not play with as many water tiles
+- [ ] Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
   
 Should we play with all hut/village tiles:
-- [ ] City-states
-- [ ] Wealth (gain a coin)
-- [ ] Friendly barbarian (gain a military unit card)
-- [ ] Friendly workers: produce 4 extra
-- [ ] Native art: gain 3-6 extra culture
-- [ ] Teacher: learn a tech 1 for free
-- [ ] Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2 more to build an army figure.
+- [ ] City-states - seems strong but not OP
+- [ ] Wealth (gain a coin) - Maybe the coin stays on the map and isnt a coin token so people can contest it
+- [ ] Friendly barbarian (gain a military unit card) - seems OP
+- [ ] Friendly workers: +4 extra production - seems OP
+- [ ] Native art: gain 3-6 extra culture - seems OP
+- [ ] Teacher: learn a tech 1 for free - seems OP
 
 ### Victory Conditions
 * Military Victory - Defeat an enemy capital in battle
@@ -83,12 +83,12 @@ Should we play with all hut/village tiles:
 
 ### Potentially anytime abilities:
 * Great person cards 
-  * If a player has at least one great person token matching the card’s type that is not blockaded, the card ability can be used. If a player does not have at least one great person token matching the card’s type that is not blockaded, then the card ability cannot be used for as long as the token is blockaded.
+    * Can only be used if a matching great person token is not blockaded
 * Culture cards
 * Technology card resource abilities
   * Limited to once per turn
 * Wonder cards
-  * Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
+  * Cannot be used if the matching token is blockaded
 
 ### Start of Turn Phase
 * Advance first player token
