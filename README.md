@@ -1,6 +1,10 @@
 # Sid Meier's Civilization: The Board Game (2010)
 ## Rulebook
 
+# Index
+[Start of game](#start-of-game)
+[Appendix](#appendix)
+
 ### Start of game:
 * Pick a starting social policy
 * Agree on optional rules
