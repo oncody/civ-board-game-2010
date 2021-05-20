@@ -13,8 +13,6 @@
 
 [Victory Conditions](#victory-conditions)
 
-[Cheat Sheet](#cheat-sheet)
-
 [Potentially anytime abilities](#potentially-anytime-abilities)
 
 [Start of turn phase](#start-of-turn-phase)
@@ -96,30 +94,26 @@ Should we play with all hut/village tiles:
 * Technology Victory - Research a level 5 technology card
 * Economic Victory - Reach 15 coins
   * If playing with investments, invested coins do not count towards an economic victory
-  
-### Cheat Sheet
-* Starting travel speed for army and scout figures is 2
-* Starting stacking limit for army and scout figures is 2
-* Starting culture hand size is 2
-  * If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
-* Default hand size is 3 unit cards
-  * +2 hand size for each friendly army figure in the square beyond the first
-  * +1 hand size if governed by Fundamentalism
-  * +3 hand size if defending a city or capital.
-* Starting city limit is 2 (but can be increased to 3 with irrigation)
 
 ### Potentially anytime abilities:
 * Great person cards 
   * If a player has at least one great person token matching the card’s type that is not blockaded, the card ability can be used. If a player does not have at least one great person token matching the card’s type that is not blockaded, then the card ability cannot be used for as long as the token is blockaded.
 * Culture cards
-* Resource abilities
+* Technology card resource abilities
   * Limited to once per use
 * Wonder cards
   * Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
 ### Start of Turn Phase
 * Advance first player token
-  * Skip the first turn of the game
+  * Skip this the first turn of the game
+* Making a new city
+  * Starting city limit is 2
+  * The square cannot be on water
+* Must be eight revealed squares around it
+* Cannot be adjacent to a hut or village token
+* Cannot be adjacent to an enemy figure
+* Its outskirts must not overlap with any other city’s outskirts
 * Start of turn abilities
   * Do not include squares blockaded by an enemy army or scout figure
   * Social policy card
@@ -152,6 +146,8 @@ Should we play with all hut/village tiles:
 
 ### City Management Phase
 At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board. A player can advance any number of times on the culture track in a turn. If they land on a normal square, they draw a card, respecting hand limits. If they land on a star, then they draw a great person and if they are playing with great person cards, then they draw a great person card and a matching great person tile.
+* If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
+* Starting culture hand size is 2
 
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 
@@ -253,6 +249,8 @@ time, and a city with a caravan cannot also have a
 fortification marker placed on it.
 
 ### Movement Phase
+* Starting travel speed for army and scout figures is 2
+* Starting stacking limit for army and scout figures is 2
 * Turn phase 4
 * One at a time
 Move each of their figures (armies and scouts) up to a number of squares equal to the player’s travel speed.
@@ -329,13 +327,7 @@ is being built besides the scout being sacrificed, the player
 immediately moves them to an adjacent square that they can
 legally end their movement in.
 
-Making a new city:
-* Can only build 2 cities. 3 with irrigation.
-* Cannot be water
-* Must be eight revealed squares around it
-* Cannot be adjacent to a hut or village token
-* Cannot be adjacent to an enemy figure
-* Its outskirts must not overlap with any other city’s outskirts
+
 
 Upgrading a city into a metropolis:
 * A metropolis has two extra squares in its city outskirts.
@@ -372,6 +364,11 @@ Blockade: When a square in a city’s outskirts contains an enemy figure. The pr
 : If a player that is blockading a barracks moves his army figure off of that barracks to attack a city center, does the defender gain the benefit of the barracks? A: Yes. When the army figure leaves the barracks square and enters the city center, the barracks is no longer blockaded and may be used by the defender during the battle
 
 ### Combat
+* Default combat unit hand size is 3
+* +2 for each friendly army figure in the square beyond the first
+* +1 if governed by Fundamentalism
+* +3 if defending a city or capital
+
 slaughtering scouts generates loot
 All wounds go away at the end of the battle.
 You don’t get a coin here when you defeat an enemy Scout without battle (although you do get loot for doing this).
