@@ -4,9 +4,46 @@
 # Index
 [Start of game](#start-of-game)
 
+[Potential House Rules](#potential-house-rules)
+
+[Optional Rules](#optional-rules)
+
+[Cheat Sheet](#cheat-sheet)
+
+[Potentially anytime abilities](#potentially-anytime-abilities)
+
+[Start of turn phase](#start-of-turn-phase)
+
+[Trade phase](#trade-phase)
+
+[City management Phase](#city-management-phase)
+
+[Technology research Phase](#technology-research-phase)
+
+[Cities and Metropolises](#cities-and-metropolises)
+
+[Military Unit Cards](#military-unit-cards)
+
+[Scout Figure](#scout-figure)
+
+[Army Figure](#army-figure)
+
+[Blockade](#blockade)
+
+[Combat](#combat)
+
+[Great Person](#great-person)
+
+[Wonder](#wonder)
+
+[Coins](#coins)
+
+[Social Policy](#social-policy)
+
 [Appendix](#appendix)
 
-### Start of game:
+
+### Start of game
 * Pick a starting social policy
 * Agree on optional rules
 * Agree on house rules
@@ -34,7 +71,8 @@ following steps.
    then the top four cards are turned faceup and
    placed in the wonder market spaces.
    
-### Potential House Rules (not necessarily have we all agreed on this):
+### Potential House Rules
+* Not necessarily have we all agreed on this
 * If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 * Don’t play with relic squares
 * Maybe not play with as many water tiles?
@@ -111,18 +149,20 @@ person token matching the card’s type that is not blockaded,
 then the card ability cannot be used for as long as the token is
 blockaded.
 
-Culture cards
-Resource abilities
-Limited to once per use
-Wonder cards
-Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
+* Culture cards
+* Resource abilities
+* Limited to once per use
+* Wonder cards
+* Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
-### Turn Phase 1: Start of Turn (One at a time)
-Advance first player token
-Skip the first turn of the game
-Start of turn abilities
-Do not include squares blockaded by an enemy army or scout figure
-Convert a scout into a city and adopt a new social policy
+### Start of Turn Phase
+* Turn phase 1
+* One at a time
+* Advance first player token
+* Skip the first turn of the game
+* Start of turn abilities
+* Do not include squares blockaded by an enemy army or scout figure
+* Convert a scout into a city and adopt a new social policy
 
 Change government
 Change to a government unlocked last turn
@@ -136,8 +176,10 @@ Gain an investment marker
 This coin no longer counts towards your 15 coin victory condition
 Investments cannot be discarded from play by other players.
 
-### Turn Phase 2: Trade (Parallel)
-Collect trade from all cities and record it in your trade dial
+### Trade Phase
+* Turn phase 2
+* Parallel
+* Collect trade from all cities and record it in your trade dial
 Include squares controlled by your scout that are not in your outskirts
 Do not include squares blockaded by an enemy army or scout figure
 Trade resources with other players
@@ -146,7 +188,9 @@ Unspent culture tokens
 Resource tokens
 Culture Event cards
 
-### Turn Phase 3: City Management (One at a time)
+### City Management Phase
+* Turn phase 3
+* One at a time
 
 At any point during their City Management Phase, a player may
 choose to spend some or all of their culture tokens to advance
@@ -252,7 +296,9 @@ A city may only have one caravan marker on it at a
 time, and a city with a caravan cannot also have a
 fortification marker placed on it.
 
-### Turn Phase 4: Movement (One at a time)
+### Movement Phase
+* Turn phase 4
+* One at a time
 Move each of their figures (armies and scouts) up to a number of squares equal to the player’s travel speed.
 Movement may cause battles to occur and facedown map tiles to be revealed
 Move all of your figures before it passes to the next player
@@ -289,7 +335,9 @@ Military bonuses and wonders abilities can be blockaded, even by a scout only, b
 In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
 Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.
 
-### Turn Phase 5: Technology Research (Parallel)
+### Technology Research Phase
+* Turn phase 5
+* parallel
 Each player may learn one new tech by spending trade
 They then add their newly learned tech to their tech pyramid
 When a player learns a tech unlocking an upgraded
