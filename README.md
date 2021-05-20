@@ -47,6 +47,19 @@
 * Pick a starting social policy
 * Agree on optional rules
 * Agree on house rules
+*  give each player one artillery, one infantry, and one mounted unit.
+* Place one of each market resource token per player near the market board, returning any extras to the box
+* Place capital
+* Gain civilization bonus
+* Place a single army figure in your city's outskirts
+* Place a single scout figure in your city's outskirts
+* Learn your civ's starting tech
+* Set starting government
+* Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
+* Set economy coin dial to 0 (It is possible for some players to receive a coin from a map
+  square or great person during setup. If this is the case, the player
+  sets their economy dial to the number equal to the number of
+  coins they have, instead.)
 * Build the wonder deck
 
 Building the Wonder Deck
