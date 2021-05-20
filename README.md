@@ -4,9 +4,9 @@
 # Index
 [Start of game](#start-of-game)
 
-[Potential House Rules](#potential-house-rules)
-
 [Optional Rules](#optional-rules)
+
+[Potential House Rules](#potential-house-rules)
 
 [Cheat Sheet](#cheat-sheet)
 
@@ -63,7 +63,13 @@
   coins they have, instead.)
 * Build the wonder deck
   * Shuffle and deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
-   
+
+### Optional Rules:
+* Investment deck
+  * All players must agree at the start of the game whether to play with this
+* Great person deck
+  * All players must agree at the start of the game whether to play with this
+  
 ### Potential House Rules
 * Not necessarily have we all agreed on these
 * If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
@@ -76,12 +82,6 @@
   * Friendly workers: produce 4 extra
   * Native art: gain 3-6 extra culture
   * Teacher: learn a tech 1 for free
-
-### Optional Rules:
-* Investment deck
-  * All players must agree at the start of the game whether to play with this
-* Great person deck
-  * All players must agree at the start of the game whether to play with this
 
 ### Cheat Sheet
 * Starting travel speed for army and scout figures is 2
@@ -385,7 +385,6 @@ Calculating Combat Bonuses
 * +12 if defending a capital city
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
-   
 ### Post-combat
 
 After both players have played all of their battle forces, the battle
