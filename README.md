@@ -37,8 +37,6 @@
 
 [Great Person](#great-person)
 
-[Wonder](#wonder)
-
 [Coins](#coins)
 
 [Social Policy](#social-policy)
@@ -55,7 +53,7 @@
 - [ ] Pick a civilization
 - [ ] Set your starting government
 - [ ] Learn your starting tech
-- [ ] Pick a starting social policy
+- [ ] Pick a starting social policy - After a civilization has adopted a social policy, it cannot adopt another social policy from that same card unless you switch that social policy
 - [ ] Set economy coin dial to 0
 - [ ] Place capital
 - [ ] Gain civilization bonus
@@ -290,6 +288,7 @@ In order to engage to a battle with a stack of 2 or more armies, they must be al
 Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.
 
 ### Technology Research Phase
+* Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
 * Turn phase 5
 * parallel
 Each player may learn one new tech by spending trade
@@ -385,7 +384,6 @@ Calculating Combat Bonuses
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
 ### Post-combat
-
 After both players have played all of their battle forces, the battle
 is over. First, all wounds are removed from the surviving units in
 the battle. Then, each player tallies up the strength of all of their
@@ -426,14 +424,12 @@ If the loser had one or more figures in the square: The winner gains 1 loot. If 
 ### Great Person
 When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
-### Wonder
-Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
 
 ### Coins
 Coins gained from squares on the map – whether from a natural gold deposit in the mountains or from a building placed in a square – are only kept as long as the player retains control of the square (i.e., the square is contained in the outskirts of one of the player’s cities or one of the player’s scouts remains in the square to gather from it). If an enemy figure blockades the square containing the coin, it is lost while the enemy figure remains there (see page 27). Similarly, if a building granting a coin to a player is destroyed, the coin is lost.
 
 ### Social Policy:
-After a civilization has adopted a social policy, it cannot adopt another social policy from that same card (to use the reverse side of the card, the social policy must be switched). Losing Social Policies Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later). Switching Social Policies Normally, after a social policy is adopted, it cannot be changed. This makes the decisions of which social policies to adopt very important. There are certain effects, such as the new Bureaucracy tech (level II), that allow a civilization to switch a currently adopted social policy to a different social policy. When switching social policies, a player may either flip a currently Social Policy Cards Each social policy card has a title and one or more abilities. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. Start of Turn Gain 1 @ for each of your cities and 1 @ for each of your city-states. ExPansionism Start of Turn Spend 6 @ to learn a level I tech. Start of Turn Spend 11 @ to learn a level II tech. rationalism 10 adopted social policy to its reverse side, or switch out a currently adopted social policy card for a different card that he is not currently using
+). Losing Social Policies Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later). Switching Social Policies Normally, after a social policy is adopted, it cannot be changed. This makes the decisions of which social policies to adopt very important. There are certain effects, such as the new Bureaucracy tech (level II), that allow a civilization to switch a currently adopted social policy to a different social policy. When switching social policies, a player may either flip a currently Social Policy Cards Each social policy card has a title and one or more abilities. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. Start of Turn Gain 1 @ for each of your cities and 1 @ for each of your city-states. ExPansionism Start of Turn Spend 6 @ to learn a level I tech. Start of Turn Spend 11 @ to learn a level II tech. rationalism 10 adopted social policy to its reverse side, or switch out a currently adopted social policy card for a different card that he is not currently using
 
 ### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
