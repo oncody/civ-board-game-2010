@@ -1,7 +1,6 @@
 # Sid Meier's Civilization: The Board Game (2010) Rulebook
 
-# Index
-
+## Index
 [Game Overview](#game-overview)
 
 [Victory Conditions](#victory-conditions)
@@ -28,61 +27,92 @@
 
 [Appendix](#appendix)
 
-### Game Overview
+## Game Overview
 Civilization is a turn-based strategy game where you play a civilization and balance your economic and military power. There is a map and you will need to expand your geographic domain strategically to emerge victorious.
 
-### Victory Conditions
+## Victory Conditions
+The first player to achieve one of these four victory conditions wins the game:
+
 * Military Victory - Defeat an enemy capital in battle
+  
 * Culture Victory - Advance to the end of the culture track
+  
 * Technology Victory - Research a level 5 technology card
+  
 * Economic Victory - Reach 15 coins
 
-### Game Setup
-- [ ] Agree on optional rules
-- [ ] Agree on house rules
-- [ ] Place one of each market resource token per player near the market board
-- [ ] Build the wonder deck with 4 of each type of wonder with the basic ones on top
+## Game Setup
+1. Agree on optional rules
+   
+1. Agree on house rules
+   
+1. Place one of each market resource token per player near the market board
+   
+1. Build the wonder deck with 4 of each type of wonder with the basic ones on top
 
-### Player Setup
-- [ ] Pick a civilization
-- [ ] Set your government to your civilization's starting government
-- [ ] Find your civilization's starting technology and add it to the bottom of your tech tree
-- [ ] Pick a starting social policy
-- [ ] Set economy coin dial to 0
-- [ ] Place capital
-- [ ] Gain civilization bonus
-- [ ] Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
-- [ ] Place a single army figure in a legal square in your city's outskirts
-- [ ] Place a single scout figure in a legal square in your city's outskirts
-- [ ] Take one artillery military unit card
-- [ ] Take one infantry military unit card
-- [ ] Take one mounted military unit card
+## Player Setup
+1. Pick a civilization
+   
+1. Set your government to your civilization's starting government
+   
+1. Find your civilization's starting technology and add it to the bottom of your tech tree
+   
+1. Pick a starting social policy
+   
+1. Set economy coin dial to 0
+   
+1. Place capital
+   
+1. Gain civilization bonus
+   
+1. Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
+   
+1. Place a single army figure in a legal square in your city's outskirts
+   
+1. Place a single scout figure in a legal square in your city's outskirts
+   
+1. Take one artillery military unit card
+   
+1. Take one infantry military unit card
+   
+1. Take one mounted military unit card
 
-### Optional Rules
-- [ ] Investment deck
-- [ ] Great person deck
+## Optional Rules
+* Investment deck
+
+* Great person deck
   
-### House Rules
+## House Rules
 Not necessarily have we all agreed on these
-- [ ] If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
-- [ ] Don’t play with relic squares
-- [ ] Maybe not play with as many water tiles
-- [ ] Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
+
+If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
+
+Don’t play with relic squares
+
+Maybe not play with as many water tiles
+
+Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
   
 Should we play with all hut/village tiles:
-- [ ] City-states - seems strong but not OP
-- [ ] Wealth (gain a coin) - Maybe the coin stays on the map and isnt a coin token so people can contest it
-- [ ] Friendly barbarian (gain a military unit card) - seems OP
-- [ ] Friendly workers: +4 extra production - seems OP
-- [ ] Native art: gain 3-6 extra culture - seems OP
-- [ ] Teacher: learn a tech 1 for free - seems OP
 
-### Start of Turn Phase
+* City-states - seems strong but not OP
+  
+* Wealth (gain a coin) - Maybe the coin stays on the map and isn't a coin token so people can contest it
+  
+* Friendly barbarian (gain a military unit card) - seems OP
+  
+* Friendly workers: +4 extra production - seems OP
+  
+* Native art: gain 3-6 extra culture - seems OP
+  
+* Teacher: learn a tech 1 for free - seems OP
+
+## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
 
 One at a time, each player can do as many of these actions as they want
 
-* Convert a scout to a new city
+1. Convert a scout to a new city
   * Starting city limit is 2
   * Cannot build a city on water
   * There must be eight revealed squares around it
@@ -92,12 +122,15 @@ One at a time, each player can do as many of these actions as they want
   * Sacrifice your scout
   * Move any other friendly figures in this square to a legal adjacent square
   * Adopt a new social policy
-* Place any great person tiles currently in reserve on your civilization sheet in the outskirts of one of your cities
-* Change government
+
+2. Place any great person tiles currently in reserve on your civilization sheet in the outskirts of one of your cities
+   
+3. Change government
   * Change to a government you unlocked last turn
   * Change to anarchy for a turn (on your next turn you can change to any government)
   * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
-* Invest a coin (if playing with this optional rule)
+
+4. Invest a coin (if playing with this optional rule)
   * Can only invest coin tokens
   * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
   * Lower your economy coin dial by 1
@@ -105,7 +138,7 @@ One at a time, each player can do as many of these actions as they want
   * Gain an investment marker
   * Investments cannot be discarded from play by other players
 
-### Trade Phase
+## Trade Phase
 Everyone should do this phase at the same time
 
 * Gather trade
@@ -118,8 +151,9 @@ Everyone should do this phase at the same time
   * Culture tokens
   * Resource tokens
   * Culture event cards
+    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
 
-### City Management Phase
+## City Management Phase
 Players take turns doing this phase
 
 Culture Track Advancement
@@ -140,7 +174,7 @@ Culture Track Advancement
       * Draw a random great person card
         * Great person cards are kept secret from other players until you play them
         * Great person cards say in what phase you can play them
-        * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map. For example, in order to use the ability of “William Shakespeare,” the player must have at least one artist great person marker on the map.
+        * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
       * Draw a great person tile that matches the great person card you drew
         * Either add this great person tile to the outskirts of one of your cities
         * Or hold this tile in reserve by placing it on your civilization sheets
@@ -152,6 +186,7 @@ Culture Track Advancement
           * You can put this into play during the start of turn
   
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
+
 A player may choose to replace one of their existing buildings or
 wonders when placing a new building or wonder (it is possible
 for a wonder to replace a building and vice versa). The new
@@ -160,7 +195,7 @@ square once the old building or wonder is removed. Players may
 not replace a building or wonder belonging to another player
 
 For each city:
-Total up your production
+* Total up your production
 Do not include squares blockaded by an enemy army or scout figure
 You can rush production as many times as you want
 Gain 1 production for 3 trade points spent
@@ -245,7 +280,7 @@ If a player disbands a scout, they may choose to send a caravan to the city that
 8
 A city may only have one caravan marker on it at a time, and a city with a caravan cannot also have a fortification marker placed on it.
 
-### Movement Phase
+## Movement Phase
 * Friendly figures may pass through but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
@@ -278,7 +313,7 @@ collects loot as though they had won a battle (see page 25).
 
 Scouts cannot enter a square containing enemy figures.
 
-### Technology Research Phase
+## Technology Research Phase
 
 The Tech Pyramid
 
@@ -313,7 +348,7 @@ Upgrading a city into a metropolis:
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
-### Combat
+## Combat
 * Default combat unit hand size is 3
 * +2 for each friendly army figure in the square beyond the first
 * +1 if governed by Fundamentalism
@@ -345,7 +380,7 @@ Combat Bonuses
 * +12 if defending a capital city
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
-### Post-combat
+## Post-combat
 After both players have played all of their battle forces, the battle is over. First, all wounds are removed from the surviving units in the battle. Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
@@ -370,7 +405,7 @@ the game.
 
 When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
-### Appendix:
+## Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
 
 [Fame and Fortune Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/fame-and-fortune/civ-fame-and-fortune-rules.pdf)
