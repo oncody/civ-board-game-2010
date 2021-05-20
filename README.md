@@ -3,15 +3,17 @@
 
 # Index
 
+[Game Overview](#game-overview)
+
+[Victory Conditions](#victory-conditions)
+
 [Game Setup](#game-setup)
 
 [Player Setup](#player-setup)
 
 [Optional Rules](#optional-rules)
 
-[Potential House Rules](#potential-house-rules)
-
-[Victory Conditions](#victory-conditions)
+[Potential House Rules](#house-rules)
 
 [Potentially anytime abilities](#potentially-anytime-abilities)
 
@@ -31,17 +33,28 @@
 
 [Appendix](#appendix)
 
+
+### Game overview
+Civilization is a turn-based strategy game where you play a civilization and balance your economic and military power. There is a map and you will need to expand your geographic domain strategically to emerge victorious.
+
+### Victory Conditions
+* Military Victory - Defeat an enemy capital in battle
+* Culture Victory - Advance to the end of the culture track
+* Technology Victory - Research a level 5 technology card
+* Economic Victory - Reach 15 coins
+  * If playing with investments, invested coins do not count towards an economic victory
+
 ### Game setup
 - [ ] Agree on optional rules
 - [ ] Agree on house rules
 - [ ] Place one of each market resource token per player near the market board, returning any extras to the box
-- [ ] Build the wonder deck - Randomly Deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
+- [ ] Build the wonder deck with 4 of each type of wonder with the basic ones on top
 
 ### Player Setup
 - [ ] Pick a civilization
 - [ ] Set your starting government
 - [ ] Learn your starting tech
-- [ ] Pick a starting social policy - After a civilization has adopted a social policy, it cannot adopt another social policy from that same card unless you switch that social policy
+- [ ] Pick a starting social policy
 - [ ] Set economy coin dial to 0
 - [ ] Place capital
 - [ ] Gain civilization bonus
@@ -57,7 +70,7 @@ All players must agree at the start of the game whether to play with these optio
 - [ ] Investment deck
 - [ ] Great person deck
   
-### Potential House Rules
+### House Rules
 Not necessarily have we all agreed on these
 - [ ] If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 - [ ] Don’t play with relic squares
@@ -72,12 +85,6 @@ Should we play with all hut/village tiles:
 - [ ] Native art: gain 3-6 extra culture - seems OP
 - [ ] Teacher: learn a tech 1 for free - seems OP
 
-### Victory Conditions
-* Military Victory - Defeat an enemy capital in battle
-* Culture Victory - Advance to the end of the culture track
-* Technology Victory - Research a level 5 technology card
-* Economic Victory - Reach 15 coins
-  * If playing with investments, invested coins do not count towards an economic victory
 
 ### Potentially anytime abilities:
 * Great person cards 
