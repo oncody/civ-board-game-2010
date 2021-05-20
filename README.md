@@ -2,9 +2,11 @@
 ##Rulebook
 
 ###Start of game:
-Pick a starting social policy
-Agree on optional rules
-Build the wonder deck
+* Pick a starting social policy
+* Agree on optional rules
+* Agree on house rules
+* Build the wonder deck
+
 Building the Wonder Deck
 Now that the number of wonders available has
 increased, players will need to build the wonder
@@ -28,34 +30,33 @@ following steps.
    placed in the wonder market spaces.
    
 ###Potential House Rules (not necessarily have we all agreed on this):
-If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
-Don’t play with relic squares
-Maybe not play with as many water tiles?
-Should we play with all hut/village tiles:
-City state
-Wealth (gain a coin)
-Friendly barbarian (gain a military unit card)
-Friendly workers: produce 4 extra
-Native art: gain 3-6 extra culture
-Teacher: learn a tech 1 for free
+* If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
+* Don’t play with relic squares
+* Maybe not play with as many water tiles?
+* Should we play with all hut/village tiles:
+  * City state
+  * Wealth (gain a coin)
+  * Friendly barbarian (gain a military unit card)
+  * Friendly workers: produce 4 extra
+  * Native art: gain 3-6 extra culture
+  * Teacher: learn a tech 1 for free
 
 ###Optional Rules:
-Investment deck
-All players must agree at the start of the game whether or not to use this deck.
-Great person deck
-All players must agree at the start of the game whether or not to use this deck
+* Investment deck
+  * All players must agree at the start of the game whether or not to use this deck.
+* Great person deck
+  * All players must agree at the start of the game whether or not to use this deck
 
 ###Cheat Sheet
-Starting travel speed for army and scout figures is 2
-Starting stacking limit for army and scout figures is 2
-Starting culture hand size is 2
-If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
-Default hand size is 3 unit cards
-+2 hand size for each friendly army figure in the square beyond the first
-+1 hand size if governed by Fundamentalism
-+3 hand size if defending a city or capital.
-Starting city limit is 2 (but can be increased to 3 with irrigation)
-
+* Starting travel speed for army and scout figures is 2
+* Starting stacking limit for army and scout figures is 2
+* Starting culture hand size is 2
+* If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
+* Default hand size is 3 unit cards
+  * +2 hand size for each friendly army figure in the square beyond the first
+  * +1 hand size if governed by Fundamentalism
+  * +3 hand size if defending a city or capital.
+* Starting city limit is 2 (but can be increased to 3 with irrigation)
 
 The winner immediately spends the loot they received
 to purchase effects from the following table. A winner
@@ -65,7 +66,6 @@ the same effect multiple times. For instance, a player
 receiving 2 loot could purchase a 2-loot effect, two
 different 1-loot effects, or the same 1-loot effect twice.
 
-
 If the loser had one or more figures in the square:
 The winner gains 1 loot.
 If the loser was defending one of their non-capital
@@ -74,32 +74,29 @@ If the loser was defending their capital city: The
 winner immediately wins the game with a military
 victory.
 
-
 1 Loot Effects
-• Steal up to three points of trade from the loser’s
+* Steal up to three points of trade from the loser’s
 trade dial.
-• Steal up to three culture tokens from the loser.
-• Steal any one resource token from the loser
+* Steal up to three culture tokens from the loser.
+* Steal any one resource token from the loser
 (facedown hut and village tokens may be chosen, but
 the winner does not get to see what they are before
 choosing).
-• Force the loser to discard a coin token of the
+* Force the loser to discard a coin token of the
 winner’s choice. This cannot affect investments.
+  
 2 Loot Effects
-• Learn one of the loser’s known techs that the winner
+* Learn one of the loser’s known techs that the winner
 does not know, without having to pay the trade cost.
 The winner must have a legal spot in their tech
 pyramid to do so.
-• Steal one of the loser’s culture event cards. The
+* Steal one of the loser’s culture event cards. The
 winner only gets to look at the card backs when
 choosing.
-• Steal one of the loser’s coin tokens and place it on
+* Steal one of the loser’s coin tokens and place it on
 the winner’s civilization sheet. This cannot affect
 investments.
-
-
-
-
+  
 ###Potentially anytime abilities:
 Great person cards
 If a player has at least one great person token
@@ -109,14 +106,11 @@ person token matching the card’s type that is not blockaded,
 then the card ability cannot be used for as long as the token is
 blockaded.
 
-
 Culture cards
 Resource abilities
 Limited to once per use
 Wonder cards
 Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
-
-
 
 ###Turn Phase 1: Start of Turn (One at a time)
 Advance first player token
@@ -124,7 +118,6 @@ Skip the first turn of the game
 Start of turn abilities
 Do not include squares blockaded by an enemy army or scout figure
 Convert a scout into a city and adopt a new social policy
-
 
 Change government
 Change to a government unlocked last turn
@@ -138,7 +131,6 @@ Gain an investment marker
 This coin no longer counts towards your 15 coin victory condition
 Investments cannot be discarded from play by other players.
 
-
 ###Turn Phase 2: Trade (Parallel)
 Collect trade from all cities and record it in your trade dial
 Include squares controlled by your scout that are not in your outskirts
@@ -149,7 +141,6 @@ Unspent culture tokens
 Resource tokens
 Culture Event cards
 
-
 ###Turn Phase 3: City Management (One at a time)
 
 At any point during their City Management Phase, a player may
@@ -157,9 +148,7 @@ choose to spend some or all of their culture tokens to advance
 their culture level marker up the culture track on the market
 Board.
 
-
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
-
 
 For each city:
 Total up your production
@@ -258,8 +247,6 @@ A city may only have one caravan marker on it at a
 time, and a city with a caravan cannot also have a
 fortification marker placed on it.
 
-
-
 ###Turn Phase 4: Movement (One at a time)
 Move each of their figures (armies and scouts) up to a number of squares equal to the player’s travel speed.
 Movement may cause battles to occur and facedown map tiles to be revealed
@@ -297,7 +284,6 @@ Military bonuses and wonders abilities can be blockaded, even by a scout only, b
 In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
 Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.
 
-
 ###Turn Phase 5: Technology Research (Parallel)
 Each player may learn one new tech by spending trade
 They then add their newly learned tech to their tech pyramid
@@ -319,16 +305,12 @@ The Metal Casting technology card should not have a coin icon.
 When you research a tech that grants you a coin, you gain it immediately for the sake of paying trades for that research.
 When you invest a coin that was over a tech, you can freely refill the tech
 
-
 When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology. For example, a player with 1 coin on his economic dial that researches Bureaucracy, will immediately increase his economic dial by 1, and so will retain 2 trades.
 City Walls are an excellent defensive measure for a player to
 build when it appears that one of their cities is in danger of being
 attacked. A wall provides +4 to a player’s strength total when
 defending that city and forces the attacker to play a unit first in
 the battle (see pages 23–24)
-
-
-
 
 ###Cities and metropolises
 Friendly figures may pass through but they cannot end their movement in a city center
@@ -382,10 +364,6 @@ figures, the player immediately moves them to
 an adjacent square that they can legally end their
 movement in.
 
-
-
-
-
 ###Military Unit Cards
 If a unit deck is empty, units of that type are not
 available to be produced until some are killed and returned to the
@@ -402,8 +380,6 @@ on its card as a trump symbol, it trumps that unit, dealing its
 damage before the other unit can do so. If this damage kills the
 trumped unit, the trumped unit deals no damage back to the unit
 trumping it, since it is already dead before it can deal its damage.
-
-
 
 ###Scout figure
 Scouts are of vital importance to a player’s civilization. One of
@@ -429,10 +405,7 @@ outskirts, even if that square contains a building or wonder. If
 the scout sends those icons and resources to a different city,
 the original city cannot also use those icons and resources.
 
-
-
 ###Army figure
-
 
 ###Blockade
 Blockade: When a square in a city’s outskirts contains an enemy
@@ -445,8 +418,6 @@ defender gain the benefit of the barracks?
 A: Yes. When the army figure leaves the barracks square and
 enters the city center, the barracks is no longer blockaded and
 may be used by the defender during the battle./,lmjlk;
-
-
 
 ###Combat
 slaughtering scouts generates loot
@@ -473,11 +444,8 @@ player’s battle turn consists of:
    Can a player use resource abilities from tech cards during
    his “turn” in combat if he has no units left in his hand?
    A: Yes
-
-
-
+   
 ###Great Person
-
 When a great person marker is killed (normally by a
 culture event or the destruction of a city), the player
 must check to see whether they now have too many
@@ -494,7 +462,6 @@ longer have too many.
 
 
 ###Wonder
-
 Certain techs (Monarchy and Gunpowder) allow a player to
 obsolete a wonder. When a wonder is obsoleted, turn its wonder
 card facedown, but leave its wonder marker on the map. The
@@ -515,9 +482,6 @@ there (see page 27). Similarly, if a building granting a coin to a
 player is destroyed, the coin is lost.
 
 ###Social Policy:
-
-
-
 After a civilization
 has adopted a social policy, it cannot adopt another
 social policy from that same card (to use the reverse
@@ -559,22 +523,14 @@ that he is not currently using
 
 
 ###Appendix:
+[Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
 
+[Fame and Fortune Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/fame-and-fortune/civ-fame-and-fortune-rules.pdf)
 
-Rulebook: https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf
+[Wisdom and Warfare Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/wisdom%20and%20warfare/new/CI03_WW_Rulebook.pdf)
 
-Fame and Fortune Rulebook:
-https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/fame-and-fortune/civ-fame-and-fortune-rules.pdf
+[Errata/FAQ](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/news/Civilization%20FAQ_v2.0.pdf)
 
-Wisdom and Warfare Rulebook
-https://images-cdn.fantasyflightgames.com/ffg_content/civilization/wisdom%20and%20warfare/new/CI03_WW_Rulebook.pdf
+[Unofficial Errata v1](https://boardgamegeek.com/thread/829522/civilization-bible-rulings-and-clarifications)
 
-Errata/FAQ: https://images-cdn.fantasyflightgames.com/ffg_content/civilization/news/Civilization%20FAQ_v2.0.pdf
-
-Unofficial Errata v1:
-https://boardgamegeek.com/thread/829522/civilization-bible-rulings-and-clarifications
-
-Unofficial Errata v2:
-https://boardgamegeek.com/thread/1111649/civilization-summary-official-and-unofficial-rules
-
-
+[Unofficial Errata v2](https://boardgamegeek.com/thread/1111649/civilization-summary-official-and-unofficial-rules)
