@@ -32,6 +32,8 @@
 
 [Combat](#combat)
 
+[Post-combat](#post-combat)
+
 [Great Person](#great-person)
 
 [Wonder](#wonder)
@@ -42,12 +44,11 @@
 
 [Appendix](#appendix)
 
-
 ### Start of game
 * Pick a starting social policy
 * Agree on optional rules
 * Agree on house rules
-*  give each player one artillery, one infantry, and one mounted unit.
+* Give each player one artillery, one infantry, and one mounted unit.
 * Place one of each market resource token per player near the market board, returning any extras to the box
 * Place capital
 * Gain civilization bonus
@@ -64,10 +65,10 @@
   * Shuffle and deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
    
 ### Potential House Rules
-* Not necessarily have we all agreed on this
+* Not necessarily have we all agreed on these
 * If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 * Don’t play with relic squares
-* Maybe not play with as many water tiles?
+* Maybe not play with as many water tiles
 * Should we play with all hut/village tiles:
   * City-states
   * Wealth (gain a coin)
@@ -93,37 +94,6 @@
   * +3 hand size if defending a city or capital.
 * Starting city limit is 2 (but can be increased to 3 with irrigation)
 
-If the loser had one or more figures in the square:
-The winner gains 1 loot.
-If the loser was defending one of their non-capital
-cities: The winner gains 2 loot.
-If the loser was defending their capital city: The
-winner immediately wins the game with a military
-victory.
-
-1 Loot Effects
-* Steal up to three points of trade from the loser’s
-trade dial.
-* Steal up to three culture tokens from the loser.
-* Steal any one resource token from the loser
-(facedown hut and village tokens may be chosen, but
-the winner does not get to see what they are before
-choosing).
-* Force the loser to discard a coin token of the
-winner’s choice. This cannot affect investments.
-  
-2 Loot Effects
-* 2 1-loot effects (the same or different)
-* Learn one of the loser’s known techs that the winner
-does not know, without having to pay the trade cost.
-The winner must have a legal spot in their tech
-pyramid to do so.
-* Steal one of the loser’s culture event cards. The
-winner only gets to look at the card backs when
-choosing.
-* Steal one of the loser’s coin tokens and place it on
-the winner’s civilization sheet. This cannot affect
-investments.
   
 ### Potentially anytime abilities:
 Great person cards
@@ -483,6 +453,39 @@ player’s battle turn consists of:
    his “turn” in combat if he has no units left in his hand?
    A: Yes
    
+### Post-combat
+If the loser had one or more figures in the square:
+The winner gains 1 loot.
+If the loser was defending one of their non-capital
+cities: The winner gains 2 loot.
+If the loser was defending their capital city: The
+winner immediately wins the game with a military
+victory.
+
+1 Loot Effects
+* Steal up to three points of trade from the loser’s
+  trade dial.
+* Steal up to three culture tokens from the loser.
+* Steal any one resource token from the loser
+  (facedown hut and village tokens may be chosen, but
+  the winner does not get to see what they are before
+  choosing).
+* Force the loser to discard a coin token of the
+  winner’s choice. This cannot affect investments.
+
+2 Loot Effects
+* 2 1-loot effects (the same or different)
+* Learn one of the loser’s known techs that the winner
+  does not know, without having to pay the trade cost.
+  The winner must have a legal spot in their tech
+  pyramid to do so.
+* Steal one of the loser’s culture event cards. The
+  winner only gets to look at the card backs when
+  choosing.
+* Steal one of the loser’s coin tokens and place it on
+  the winner’s civilization sheet. This cannot affect
+  investments.
+   
 ### Great Person
 When a great person marker is killed (normally by a
 culture event or the destruction of a city), the player
@@ -498,7 +501,6 @@ same type of great person card, they must randomly
 discard cards of that type (one at a time) until they no
 longer have too many.
 
-
 ### Wonder
 Certain techs (Monarchy and Gunpowder) allow a player to
 obsolete a wonder. When a wonder is obsoleted, turn its wonder
@@ -506,7 +508,6 @@ card facedown, but leave its wonder marker on the map. The
 wonder’s special ability is negated and cannot be used for the
 rest of the game. However, the wonder marker still produces
 culture when the city it is in is devoted to the arts.
-
 
 ### Coins
 Coins gained from squares on the map – whether from a natural
@@ -558,7 +559,6 @@ rationalism
 adopted social policy to its reverse side, or switch out a
 currently adopted social policy card for a different card
 that he is not currently using
-
 
 ### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
