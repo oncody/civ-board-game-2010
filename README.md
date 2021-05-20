@@ -61,28 +61,7 @@
   sets their economy dial to the number equal to the number of
   coins they have, instead.)
 * Build the wonder deck
-
-Building the Wonder Deck
-Now that the number of wonders available has
-increased, players will need to build the wonder
-deck a little differently in step 3 of the General
-Setup of the core game. To do so, carry out the
-following steps.
-1. Shuffle the modern wonders, and then deal
-   four of them, facedown, into a deck. Return
-   the remaining modern wonders to the box
-   without looking at them.
-2. Repeat this process with the medieval
-   wonders, dealing the four medieval wonders
-   on top of the modern wonders dealt out in
-   step 1.
-3. Finally, repeat the process one last time with
-   the ancient wonders, dealing the four ancient
-   wonders on top of the medieval wonders.
-   Once the wonder deck has been built, Egypt (if
-   playing) receives the top card of the deck, and
-   then the top four cards are turned faceup and
-   placed in the wonder market spaces.
+  * Shuffle and deal 4 of each type of wonder with the basic wonders on top of the deck, the middle wonders in the middle, and the advanced wonders on the bottom
    
 ### Potential House Rules
 * Not necessarily have we all agreed on this
@@ -90,7 +69,7 @@ following steps.
 * Don’t play with relic squares
 * Maybe not play with as many water tiles?
 * Should we play with all hut/village tiles:
-  * City state
+  * City-states
   * Wealth (gain a coin)
   * Friendly barbarian (gain a military unit card)
   * Friendly workers: produce 4 extra
@@ -99,28 +78,20 @@ following steps.
 
 ### Optional Rules:
 * Investment deck
-  * All players must agree at the start of the game whether or not to use this deck.
+  * All players must agree at the start of the game whether to play with this
 * Great person deck
-  * All players must agree at the start of the game whether or not to use this deck
+  * All players must agree at the start of the game whether to play with this
 
 ### Cheat Sheet
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
 * Starting culture hand size is 2
-* If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
+  * If a player exceeds their culture hand size, then they must immediately discard down to their hand size before any culture event cards may be played
 * Default hand size is 3 unit cards
   * +2 hand size for each friendly army figure in the square beyond the first
   * +1 hand size if governed by Fundamentalism
   * +3 hand size if defending a city or capital.
 * Starting city limit is 2 (but can be increased to 3 with irrigation)
-
-The winner immediately spends the loot they received
-to purchase effects from the following table. A winner
-receiving more than one loot may purchase as many
-effects as they can afford, and they may purchase
-the same effect multiple times. For instance, a player
-receiving 2 loot could purchase a 2-loot effect, two
-different 1-loot effects, or the same 1-loot effect twice.
 
 If the loser had one or more figures in the square:
 The winner gains 1 loot.
@@ -142,6 +113,7 @@ choosing).
 winner’s choice. This cannot affect investments.
   
 2 Loot Effects
+* 2 1-loot effects (the same or different)
 * Learn one of the loser’s known techs that the winner
 does not know, without having to pay the trade cost.
 The winner must have a legal spot in their tech
