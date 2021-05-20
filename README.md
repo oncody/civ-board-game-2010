@@ -60,33 +60,28 @@ The first player to achieve one of these four victory conditions wins the game:
 1. Take one mounted military unit card
 
 ## Optional Rules
-* Investment deck
-* Great person deck
+1. Investment deck
+1. Great person deck
   
 ## House Rules
 Not necessarily have we all agreed on these
 
-If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
-
-Don’t play with relic squares
-
-Maybe not play with as many water tiles
-
-Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
-  
-Should we play with all hut/village tiles:
-
-* City-states - seems strong but not OP
-* Wealth (gain a coin) - Maybe the coin stays on the map and isn't a coin token so people can contest it
-* Friendly barbarian (gain a military unit card) - seems OP
-* Friendly workers: +4 extra production - seems OP
-* Native art: gain 3-6 extra culture - seems OP
-* Teacher: learn a tech 1 for free - seems OP
+1. If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
+1. Don’t play with relic squares
+1. Maybe not play with as many water tiles
+1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
+1. Should we play with all hut/village tiles:
+    1. City-states - seems strong but not OP 
+    1. Wealth (gain a coin) - Maybe the coin stays on the map and isn't a coin token so people can contest it
+    1. Friendly barbarian (gain a military unit card) - seems OP
+    1. Friendly workers: +4 extra production - seems OP
+    1. Native art: gain 3-6 extra culture - seems OP
+    1. Teacher: learn a tech 1 for free - seems OP
 
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
 
-One at a time, each player can do as many of these actions as they want
+One at a time, each player can do as many of these actions as they want in any order
 
 1. Convert a scout to a new city
 * Starting city limit is 2
