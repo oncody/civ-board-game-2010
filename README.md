@@ -36,7 +36,6 @@ Civilization is a turn-based strategy game where you play a civilization and bal
 * Culture Victory - Advance to the end of the culture track
 * Technology Victory - Research a level 5 technology card
 * Economic Victory - Reach 15 coins
-  * Invested coins do not count towards an economic victory
 
 ### Game Setup
 - [ ] Agree on optional rules
@@ -89,36 +88,31 @@ Should we play with all hut/village tiles:
   * Its outskirts must not overlap with any other city’s outskirts
   * Sacrifice your scout
   * Move any other friendly figures in this square to a legal adjacent square
-* Start of turn abilities
-  * Do not include squares blockaded by an enemy army or scout figure
-  * Social policy card
-    * Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once.
-  * Great person card (if playing with this optional rule)
-  * Wonder card
-  * Government
-  * Convert a scout into a city and adopt a new social policy
+  * Adopt a new social policy
 * Change government
-  * Change to a government unlocked last turn
-  * Change to anarchy for a turn (then next turn you can change to any government)
+  * Change to a government you unlocked last turn
+  * Change to anarchy for a turn (on your next turn you can change to any government)
   * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 * Invest a coin (if playing with this optional rule)
   * Can only invest coin tokens
   * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
-  * Lower your economy/coin dial by 1
+  * Lower your economy coin dial by 1
   * This coin no longer counts towards your 15 coin victory condition
   * Gain an investment marker
   * Investments cannot be discarded from play by other players
 
 ### Trade Phase
 * Everyone should do this phase at the same time
-* Collect trade from all cities and record it in your trade dial
-  * Include squares controlled by your scout that are not in your outskirts
-  * Do not include squares blockaded by an enemy army or scout figure
+* Gather trade
+  * Add the number of trade icons in all of your cities' outskirts
+    * The square a scout is on is considered part of one of your city's outskirts (you can never get double income from a square though)
+  * Do not add trade icons on any square that is blockaded by your opponent
+  * Increment your trade dial equal to the total number of trade icons
 * Trade with other players
   * Points of trade
-  * Unspent culture tokens
+  * Culture tokens
   * Resource tokens
-  * Culture Event cards
+  * Culture event cards
 
 ### City Management Phase
 At any point during their City Management Phase, a player may choose to spend some or all of their culture tokens to advance their culture level marker up the culture track on the market Board. A player can advance any number of times on the culture track in a turn. If they land on a normal square, they draw a card, respecting hand limits. If they land on a star, then they draw a great person and if they are playing with great person cards, then they draw a great person card and a matching great person tile.
