@@ -1,7 +1,7 @@
-#Sid Meier's Civilization: The Board Game (2010)
-##Rulebook
+# Sid Meier's Civilization: The Board Game (2010)
+## Rulebook
 
-###Start of game:
+### Start of game:
 * Pick a starting social policy
 * Agree on optional rules
 * Agree on house rules
@@ -29,7 +29,7 @@ following steps.
    then the top four cards are turned faceup and
    placed in the wonder market spaces.
    
-###Potential House Rules (not necessarily have we all agreed on this):
+### Potential House Rules (not necessarily have we all agreed on this):
 * If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 * Don’t play with relic squares
 * Maybe not play with as many water tiles?
@@ -41,13 +41,13 @@ following steps.
   * Native art: gain 3-6 extra culture
   * Teacher: learn a tech 1 for free
 
-###Optional Rules:
+### Optional Rules:
 * Investment deck
   * All players must agree at the start of the game whether or not to use this deck.
 * Great person deck
   * All players must agree at the start of the game whether or not to use this deck
 
-###Cheat Sheet
+### Cheat Sheet
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
 * Starting culture hand size is 2
@@ -97,7 +97,7 @@ choosing.
 the winner’s civilization sheet. This cannot affect
 investments.
   
-###Potentially anytime abilities:
+### Potentially anytime abilities:
 Great person cards
 If a player has at least one great person token
 matching the card’s type that is not blockaded, the card
@@ -112,7 +112,7 @@ Limited to once per use
 Wonder cards
 Wonders are not immune to blockades either. While an enemy figure remains in the same square as a wonder’s marker, the special ability on the wonder’s card cannot be used and the culture produced by its marker cannot be collected.
 
-###Turn Phase 1: Start of Turn (One at a time)
+### Turn Phase 1: Start of Turn (One at a time)
 Advance first player token
 Skip the first turn of the game
 Start of turn abilities
@@ -131,7 +131,7 @@ Gain an investment marker
 This coin no longer counts towards your 15 coin victory condition
 Investments cannot be discarded from play by other players.
 
-###Turn Phase 2: Trade (Parallel)
+### Turn Phase 2: Trade (Parallel)
 Collect trade from all cities and record it in your trade dial
 Include squares controlled by your scout that are not in your outskirts
 Do not include squares blockaded by an enemy army or scout figure
@@ -141,7 +141,7 @@ Unspent culture tokens
 Resource tokens
 Culture Event cards
 
-###Turn Phase 3: City Management (One at a time)
+### Turn Phase 3: City Management (One at a time)
 
 At any point during their City Management Phase, a player may
 choose to spend some or all of their culture tokens to advance
@@ -247,7 +247,7 @@ A city may only have one caravan marker on it at a
 time, and a city with a caravan cannot also have a
 fortification marker placed on it.
 
-###Turn Phase 4: Movement (One at a time)
+### Turn Phase 4: Movement (One at a time)
 Move each of their figures (armies and scouts) up to a number of squares equal to the player’s travel speed.
 Movement may cause battles to occur and facedown map tiles to be revealed
 Move all of your figures before it passes to the next player
@@ -284,7 +284,7 @@ Military bonuses and wonders abilities can be blockaded, even by a scout only, b
 In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
 Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.
 
-###Turn Phase 5: Technology Research (Parallel)
+### Turn Phase 5: Technology Research (Parallel)
 Each player may learn one new tech by spending trade
 They then add their newly learned tech to their tech pyramid
 When a player learns a tech unlocking an upgraded
@@ -312,7 +312,7 @@ attacked. A wall provides +4 to a player’s strength total when
 defending that city and forces the attacker to play a unit first in
 the battle (see pages 23–24)
 
-###Cities and metropolises
+### Cities and metropolises
 Friendly figures may pass through but they cannot end their movement in a city center
 
 If there are any friendly figures in the square where a city
@@ -364,7 +364,7 @@ figures, the player immediately moves them to
 an adjacent square that they can legally end their
 movement in.
 
-###Military Unit Cards
+### Military Unit Cards
 If a unit deck is empty, units of that type are not
 available to be produced until some are killed and returned to the
 deck. If players go through the entire deck of a type of unit and
@@ -381,7 +381,7 @@ damage before the other unit can do so. If this damage kills the
 trumped unit, the trumped unit deals no damage back to the unit
 trumping it, since it is already dead before it can deal its damage.
 
-###Scout figure
+### Scout figure
 Scouts are of vital importance to a player’s civilization. One of
 their critical roles is to send home trade, production, culture,
 coins, and resources from distant locations. Each turn, beginning
@@ -405,9 +405,9 @@ outskirts, even if that square contains a building or wonder. If
 the scout sends those icons and resources to a different city,
 the original city cannot also use those icons and resources.
 
-###Army figure
+### Army figure
 
-###Blockade
+### Blockade
 Blockade: When a square in a city’s outskirts contains an enemy
 figure. The presence of the enemy figure prevents the use of that
 square by the city it is part of the outskirts of.
@@ -419,7 +419,7 @@ A: Yes. When the army figure leaves the barracks square and
 enters the city center, the barracks is no longer blockaded and
 may be used by the defender during the battle./,lmjlk;
 
-###Combat
+### Combat
 slaughtering scouts generates loot
 All wounds go away at the end of the battle.
 You don’t get a coin here when you defeat an enemy Scout without battle (although you do get loot for doing this).
@@ -445,7 +445,7 @@ player’s battle turn consists of:
    his “turn” in combat if he has no units left in his hand?
    A: Yes
    
-###Great Person
+### Great Person
 When a great person marker is killed (normally by a
 culture event or the destruction of a city), the player
 must check to see whether they now have too many
@@ -461,7 +461,7 @@ discard cards of that type (one at a time) until they no
 longer have too many.
 
 
-###Wonder
+### Wonder
 Certain techs (Monarchy and Gunpowder) allow a player to
 obsolete a wonder. When a wonder is obsoleted, turn its wonder
 card facedown, but leave its wonder marker on the map. The
@@ -470,7 +470,7 @@ rest of the game. However, the wonder marker still produces
 culture when the city it is in is devoted to the arts.
 
 
-###Coins
+### Coins
 Coins gained from squares on the map – whether from a natural
 gold deposit in the mountains or from a building placed in a
 square – are only kept as long as the player retains control of the
@@ -481,7 +481,7 @@ containing the coin, it is lost while the enemy figure remains
 there (see page 27). Similarly, if a building granting a coin to a
 player is destroyed, the coin is lost.
 
-###Social Policy:
+### Social Policy:
 After a civilization
 has adopted a social policy, it cannot adopt another
 social policy from that same card (to use the reverse
@@ -522,7 +522,7 @@ currently adopted social policy card for a different card
 that he is not currently using
 
 
-###Appendix:
+### Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
 
 [Fame and Fortune Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/fame-and-fortune/civ-fame-and-fortune-rules.pdf)
