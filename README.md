@@ -21,6 +21,8 @@
 
 [Technology Research Phase](#technology-research-phase)
 
+[Culture](#culture)
+
 [Combat](#combat)
 
 [Post-combat](#post-combat)
@@ -33,10 +35,10 @@ Civilization is a turn-based strategy game where you play a civilization and bal
 ## Victory Conditions
 The first player to achieve one of these four victory conditions wins the game:
 
-* Military Victory - Defeat an enemy capital in battle
-* Culture Victory - Advance to the end of the culture track
-* Technology Victory - Research a level 5 technology card
-* Economic Victory - Reach 15 coins
+1. Military Victory - Defeat an enemy capital in battle
+1. Culture Victory - Advance to the end of the culture track
+1. Technology Victory - Research a level 5 technology card
+1. Economic Victory - Reach 15 coins
 
 ## Game Setup
 1. Agree on optional rules
@@ -112,17 +114,17 @@ One at a time, each player can do as many of these actions as they want in any o
 ## Trade Phase
 Everyone should do this phase at the same time
 
-* Gather trade
-  * Add together the number of trade icons in all of your cities' outskirts
-    * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
-  * Do not add trade icons on any square that is blockaded by your opponent
-  * Increment your trade dial equal to the total number of trade icons
-* Trade with other players
-  * Points of trade
-  * Culture tokens
-  * Resource tokens
-  * Culture event cards
-    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
+1. Gather trade
+    * Add together the number of trade icons in all of your cities' outskirts
+        * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+    * Do not add trade icons on any square that is blockaded by your opponent
+    * Increment your trade dial equal to the total number of trade icons
+1. Trade with other players
+    * Points of trade
+    * Culture tokens
+    * Resource tokens
+    * Culture event cards
+        * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
 
 ## City Management Phase
 Players take turns doing this phase
@@ -130,31 +132,6 @@ Players take turns doing this phase
 Culture Track Advancement
   * Can be done at any time during this phase
   * Can be done as many times as you want
-  * Pay culture tokens and trade to advance on the culture track
-    * To advance to a tier 1 square, pay 3 culture tokens
-    * To advance to a tier 2 square, pay 5 culture tokens and 3 trade
-    * To advance to a tier 3 square, pay 7 culture and 6 trade
-  * If the square you advanced to is a normal culture track square and has columns on it
-    * Draw a culture event card
-    * Starting culture event hand size is 2
-    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
-    * Culture event cards are kept secret from other players until you play them
-    * Culture event cards say at the top of the card which phase you can play these cards in
-  * If the square you advanced to has a star on it, then it is a great person square
-    * If you are playing with the optional great person deck
-      * Draw a random great person card
-        * Great person cards are kept secret from other players until you play them
-        * Great person cards say in what phase you can play them
-        * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
-      * Draw a great person tile that matches the great person card you drew
-        * Either add this great person tile to the outskirts of one of your cities
-        * Or hold this tile in reserve by placing it on your civilization sheets
-          * You can put this into play during the start of turn
-    * If you are not playing with the optional great person deck
-      * Draw a random great person tile
-        * Either add this great person tile to the outskirts of one of your cities
-        * Or hold this tile in reserve by placing it on your civilization sheets
-          * You can put this into play during the start of turn
   
 You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
 
@@ -318,6 +295,33 @@ Upgrading a city into a metropolis:
 * An expansion square may be a water square. If so, the square is no longer considered to be water for purposes of movement.
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
+
+## Culture
+* Pay culture tokens and trade to advance on the culture track
+    * To advance to a tier 1 square, pay 3 culture tokens
+    * To advance to a tier 2 square, pay 5 culture tokens and 3 trade
+    * To advance to a tier 3 square, pay 7 culture and 6 trade
+* If the square you advanced to is a normal culture track square and has columns on it
+    * Draw a culture event card
+    * Starting culture event hand size is 2
+    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
+    * Culture event cards are kept secret from other players until you play them
+    * Culture event cards say at the top of the card which phase you can play these cards in
+* If the square you advanced to has a star on it, then it is a great person square
+    * If you are playing with the optional great person deck
+        * Draw a random great person card
+            * Great person cards are kept secret from other players until you play them
+            * Great person cards say in what phase you can play them
+            * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
+        * Draw a great person tile that matches the great person card you drew
+            * Either add this great person tile to the outskirts of one of your cities
+            * Or hold this tile in reserve by placing it on your civilization sheets
+                * You can put this into play during the start of turn
+    * If you are not playing with the optional great person deck
+        * Draw a random great person tile
+            * Either add this great person tile to the outskirts of one of your cities
+            * Or hold this tile in reserve by placing it on your civilization sheets
+                * You can put this into play during the start of turn
 
 ## Combat
 * Default combat unit hand size is 3
