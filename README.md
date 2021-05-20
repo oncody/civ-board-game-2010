@@ -109,8 +109,8 @@ One at a time, each player can do as many of these actions as they want
 Everyone should do this phase at the same time
 
 * Gather trade
-  * Add the number of trade icons in all of your cities' outskirts
-    * The square a scout is on is considered part of one of your city's outskirts (you can never get double income from a square though)
+  * Add together the number of trade icons in all of your cities' outskirts
+    * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
   * Do not add trade icons on any square that is blockaded by your opponent
   * Increment your trade dial equal to the total number of trade icons
 * Trade with other players
