@@ -72,6 +72,7 @@ Not necessarily have we all agreed on these
 1. Don’t play with relic squares
 1. Maybe not play with as many water tiles
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
+1. Scouts can steal combat bonuses from buildings and send them home
 1. Should we play with all hut/village tiles:
     1. City-states - seems strong but not OP 
     1. Wealth (gain a coin) - Maybe the coin stays on the map and isn't a coin token so people can contest it
@@ -129,107 +130,27 @@ Everyone should do this phase at the same time
 ## City Management Phase
 Players take turns doing this phase
 
-Culture Track Advancement
-  * Can be done at any time during this phase
-  * Can be done as many times as you want
-  
-You cannot build a Building or a Wonder, or place a Great Person Marker, on a square where stands an enemy figure.
+At any time during this phase, you may pay to advance on the culture track as many times as you want (See the [Culture](#culture) section)
 
-A player may choose to replace one of their existing buildings or
-wonders when placing a new building or wonder (it is possible
-for a wonder to replace a building and vice versa). The new
-building or wonder must be able to be legally placed in the
-square once the old building or wonder is removed. Players may
-not replace a building or wonder belonging to another player
+One at a time, for each of your cities do the following: 
 
-For each city:
-* Total up your production
-Do not include squares blockaded by an enemy army or scout figure
-You can rush production as many times as you want
-Gain 1 production for 3 trade points spent
-Build an army figure
-Costs 4 production
-Represent a civilization’s military forces
-The only figures that can fight battles and explore huts and villages
-Can blockade enemy squares
-Buildings
-Wonders
-Great people
-Great people cards
-Can a player build an army figure with a city action and
-place it in a square of that city’s outskirts that contains
-enemy figures? Does this initiate a battle?
-A: Yes. The battle takes place immediately
-Build a scout figure
-Costs 6 production
-Represent a civilization’s non-military forces
-May be used to build new cities
-gather extra trade, production, or other resources for a city
-Can blockade enemy squares
-Buildings
-Wonders
-Great people
-Great people cards
-Cannot enter squares containing huts or villages
-Are killed immediately any time they are attacked by an army, unless they have a friendly army escorting them.
-This counts as a battle and triggers loot
-Build a military unit card
-Costs 5-11 production
-Build a building (requires a tech to unlock it)
-Each city can only have a single building with a star in its outskirts
-Like units, buildings are limited to the number of components
-available. Once all buildings of a certain type have been
-produced, no more can be produced until one of the existing
-buildings of that type is destroyed.
-Build a wonder
-You can have only 1 Wonder in each city.
-Each time a wonder is purchased from the market, the
-next wonder in the deck must be drawn and placed
-faceup in the market to replace it, along with its
-accompanying wonder marker. This rule was omitted
-from the first printing of the rulebook by accident.
-Even an obsolete Wonder must be replaced if you want to build a new Wonder in a city that already has one.
-* Devote to the Arts
-  * Gain 1 culture
-  * Gain 1 additional culture if your city is a metropolis
-  * Gain 1 additional culture for each culture token in your outskirts
-  * Gain 1 additional culture for each culture token your scout has if not in your outskirts)
-* Harvest a single resource in your city’s outskirts
-  * Limited by the finite number of resources
-* Start a building program
-Place a building program marker on the city
-A city cannot have more than one building program marker on it at a time
-The marker stays on the city until a figure, unit, building, or wonder is produced
-The next time a city with a building program marker
-is used to produce a figure, unit, building, or wonder,
-discard the building program marker on the city and
-double the amount of ! the city has in its outskirts for
-the duration of the action. A city must use a building
-program marker when it produces. The city does not
-double any ! gained from other sources, such as
-culture event cards or governments. Any excess ! after
-the produce action is complete is wasted.
-Disband an army
-If a player disbands an army, they may choose to fortify
-the city that the army figure was disbanded in. To do so,
-the player takes a fortification/caravan marker and places
-it on the city center, fortification side up. A fortification
-marker indicates that temporary defenses have been built
-to protect the city. When a player defends a fortified city,
-they receive an extra +2 combat bonus.
-If a fortified city successfully defends itself against an
-attacker in combat, the fortification marker is discarded
-(and if the city isn’t successfully defended, the city
-is destroyed, of course). A city may only have one
-fortification marker on it at a time, and a fortified city
-cannot also have a caravan marker placed on it.
-Disband a scout
-If a player disbands a scout, they may choose to send a caravan to the city that the scout figure was disbanded in. To do so, the player takes a fortification/caravan marker and places it on the city center, caravan side up. A caravan marker indicates that the city is benefitting from a burst of productivity. When a player takes a build action in a city with a caravan marker, they may discard the caravan marker to have the city produce 2 extra ! that turn.
-8
-A city may only have one caravan marker on it at a time, and a city with a caravan cannot also have a fortification marker placed on it.
+Total up your production
 
+Perform one of the following action:
+1. Build an army figure 
+    * Costs 4 production 
+    * The only figures that can fight battles and explore huts and villages
+    * Place this unit in a legal square in your city's outskirts where you built this unit
+        * If this square contains an enemy unit, a battle immediately takes place
+    
+1. Build a scout figure
+    * Costs 6 production
+    * May be used to build new cities, gather extra trade, production, or other resources for a city
+    * Place this unit in a legal square in your city's outskirts where you built this unit
+        * If this square contains an enemy unit, a battle immediately takes place
+    
 ## Movement Phase
-* Friendly figures may pass through but they cannot end their movement in a city center
+* Friendly figures may pass through, but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
 * Starting stacking limit for army and scout figures is 2
 * Turn phase 4
@@ -329,7 +250,7 @@ Upgrading a city into a metropolis:
 * +1 if governed by Fundamentalism
 * +3 if defending a city or capital
 
-slaughtering scouts generates loot
+slaughtering scouts generates loot and I think counts as a battle
 All wounds go away at the end of the battle.
 The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
