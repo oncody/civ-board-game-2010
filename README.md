@@ -3,6 +3,7 @@
 
 # Index
 [Start of game](#start-of-game)
+
 [Appendix](#appendix)
 
 ### Start of game:
