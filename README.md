@@ -218,7 +218,7 @@ Starting figure stacking limit is 2
 
 Figures cannot move diagonally
 
-Any figure can blockade an enemy square by moving onto it and occupying it
+Any figure can blockade an enemy square by moving onto it and occupying it. A blockaded square cannot be used by its owner in any capacity.
 
 Figures can end their movement on their own buildings, wonders, and great person tiles.
 
@@ -270,6 +270,9 @@ Upgrading a city into a metropolis:
 * An expansion square may be a water square. If so, the square is no longer considered to be water for purposes of movement.
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
+
+* Technology card resource abilities
+  * Limited to once per turn
 
 ## Culture
 ### Culture Event Card
