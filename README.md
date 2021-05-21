@@ -238,7 +238,7 @@ Movement Rules:
 1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
 
 ### Blockade
-Any figure can blockade an enemy square by moving onto a square containing an enemy building, wonder, or noble. A building, wonder, or noble being blockaded by enemy figures cannot be used by its owner in any capacity. While a wonder is blockaded, its wonder card cannot be used. While a noble is blockaded, its noble card cannot be used.
+Any figure can blockade an enemy square by moving onto a square containing an enemy architecture. While blockaded, that architecture cannot be used in any capacity. While a wonder is blockaded, the wonder's card cannot be used. While a noble is blockaded, the noble's card cannot be used.
 
 ### Exploration
 Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
