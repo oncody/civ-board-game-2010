@@ -101,7 +101,7 @@ Requirements:
 
 1. Sacrifice your scout
 1. Move any other friendly figures in this square to a legal adjacent square
-1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once.
+1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
 
 ### Play a reserved great person tile
 Play a reserved great person tile on your civilization sheet into one of your city's outskirts
@@ -337,8 +337,6 @@ All wounds go away at the end of the battle.
 After both players have played all of their battle forces, the battle is over. First, all wounds are removed from the surviving units in the battle. Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
-
-Each time a civilization’s social policy maximum decreases, its player chooses a social policy card it currently has and returns it to its pile of unused social policies (any policy on the card can be re-adopted later).
 
 1 Loot Effects
 * Steal up to three points of trade from the loser’s trade dial.
