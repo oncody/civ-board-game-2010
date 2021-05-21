@@ -70,15 +70,15 @@ Not necessarily have we all agreed on these
 
 1. If two friendly army units start on different squares but move into the same square, then they can move together as a group long as both units possess more movement points
 1. Don’t play with relic squares
-1. Maybe not play with as many water tiles
+1. Maybe not play with as many water map tiles
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Can choose when to consume a building program
 1. You can build cities and metropolises on edges of the map (not next to unexplored map tiles)
 1. Defenders can choose at the start of battle whether to use the city fortification token or not
-1. Should we play with all hut/village tiles:
+1. Should we play with all hut/village tokens:
 
-| Tile | Cody's thoughts |
+| Hut/Village Token | Cody's thoughts |
 | --- | --- |
 | City-states | seems strong but not OP. you can contest it. Maybe remove the +4 combat bonus |
 | Coin | Maybe instead of it being a coin token, it just be a coin on the map so people can contest it |
@@ -90,7 +90,7 @@ Not necessarily have we all agreed on these
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game). This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
 
-### Build a city
+### Build City
 Requirements:
 1. Starting city limit is 2
 1. Cannot be built on water
@@ -98,21 +98,21 @@ Requirements:
 
 To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
 
-### Play a reserved great person tile
-Play a reserved great person tile on your civilization sheet into one of your city's outskirts
+### Play Great Person
+Play a reserved great person token on your civilization sheet into one of your city's outskirts
 
-### Change government
+### Change Government
 Change your government in one of the following ways:
 1. Change to a government you unlocked last turn
 1. Change to anarchy for a turn (on your next turn you can change to any government)
 1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 
-### Invest a coin (if playing with this optional rule)
+### Invest Coin
 Requirements:
 1. Can only invest coin tokens
 1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
 
-To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment tile on an investment card. Investments cannot be removed by other players
+To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment token on an investment card. Investments cannot be removed by other players
 
 ## Trade Phase
 Everyone does the following actions at the same time in any order
@@ -157,14 +157,14 @@ Add together the number of production icons in your city's outskirts that are no
 If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
 
 ### Perform only one of the following actions:
-#### Deploy an army figure
+#### Deploy Army
 Costs 4 production. Limited to 6 army figures. Place an army figure in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
-#### Deploy a scout figure
+#### Deploy Scout
 Costs 6 production. Limited to 2 scout figures. Place a scout figure in a legal square in your city's outskirts where you built this unit
 
-#### Recruit an artillery, infantry, or mounted military unit card
-Determine which type of military unit card you want to recruit. Pay the cost corresponding to what rank you are for that unit. Then add that military unit card to your military unit hand.
+#### Recruit Military
+Determine which type of military card you want to recruit. Pay the cost corresponding to what rank you are for that unit. Add that card to your military hand. There are only a limited number of military cards.
 
 | Rank | Production Cost |
 | --- | --- |
@@ -173,27 +173,26 @@ Determine which type of military unit card you want to recruit. Pay the cost cor
 | Rank 3 | 9 production |
 | Rank | 11 production |
 
-#### Recruit an aircraft military unit card
-This requires you to have the tech card flight unlocked. An aircraft unit costs 12 production. Add an aircraft military unit card to your military unit hand.
+#### Recruit Aircraft
+This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military unit hand.
 
-#### Build a building
+#### Construct Building
 Requirements:
 1. The technology to be unlocked corresponding to this building
 1. Cannot be built on top of an enemy figure 
 1. Each city can only have a single building with a star in its outskirts
-1. Building tiles are limited
 
-Place this building in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card. If you build a water building on a water tile, that tile is still considered to be a water tile for the sake of figure movement.
+Place this building in your city's outskirts. You may replace an existing building, wonder, or great person. If it's a wonder, you lose the wonder card. If it's a great person, you will lose a corresponding great person card. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
     
-#### Build a wonder
+#### Construct Wonder
 Requirements:
+1. Each city can only have 1 wonder
 1. Cannot be built on top of an enemy figure
-1. Each city can only have 1 wonder 
-1. A blockaded wonder tile prevents use of the corresponding wonder card
-1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
-1. When a wonder tile is destroyed, remove the corresponding wonder card
 
 Place this wonder in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card. Replace the wonder from the market.
+1. A blockaded wonder prevents use of the corresponding wonder card
+1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
+1. When a wonder tile is destroyed, remove the corresponding wonder card
 
 #### Art Devotion
 When you devote a city ot the arts, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
