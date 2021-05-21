@@ -312,8 +312,8 @@ To upgrade your capital the following conditions must be met:
 To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a building, wonder, or noble, then they will be lost. If it is a wonder or noble, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
 ## Culture
-### Event Card
-When you advance on the culture track, you will often gain culture event cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture event card
+### Culture Cards
+When you advance on the culture track, you will often gain culture cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture card
   
 ### Noble
 If you are playing with the optional noble deck, then draw a noble card and a matching noble token. Otherwise, just draw a random noble tile
@@ -338,7 +338,7 @@ The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
 The battle ends after 2 subsequent turns where no player play neither a card neither an ability
 Battle Turns
-During the “Engaging in Battle” step of combat, players alternate taking battle turns, starting with the defender. Only the player currently taking his battle turn can use abilities (such as those found on tech cards or culture event cards) or play units. A player’s battle turn consists of:
+During the “Engaging in Battle” step of combat, players alternate taking battle turns, starting with the defender. Only the player currently taking his battle turn can use abilities (such as those found on tech cards or culture cards) or play units. A player’s battle turn consists of:
 1. Opportunity to use an ability
 2. Play a unit
 3. Opportunity to use an ability
