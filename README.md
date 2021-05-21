@@ -334,20 +334,20 @@ Combat Bonuses
 
 All wounds go away at the end of the battle.
 
-After both players have played all of their battle forces, the battle is over. First, all wounds are removed from the surviving units in the battle. Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
+ Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
-### Single Loot Effects
+### Single-Loot Effects
 Choose one of the following:
 1. Steal up to three points of trade from the loser’s trade dial
 1. Steal up to three culture tokens from the loser
 1. Steal any one resource token from the loser (facedown hut and village tokens may be chosen, but the winner does not get to see what they are before choosing)
 1. Force the loser to discard a coin token of the winner’s choice. This cannot affect investments.
 
-### Double Loot Effects
+### Double-Loot Effects
 Choose one of the following:
-1. 2 single loot effects (the same or different)
+1. 2 single-loot effects (the same or different)
 1. Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
 1. Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
 1. Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
