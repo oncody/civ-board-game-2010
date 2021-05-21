@@ -210,23 +210,12 @@ Determine which type of military card you want to recruit. Pay the cost correspo
 This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military unit hand.
 
 #### Construct Building
-A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses.
+A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses. Every building requires a specific technology to be researched to unlock it. Each city can only have a single building with a star in its outskirts. Architecture cannot be built on a square containing an enemy figure.
 
-Requirements:
-1. Every building requires a specific technology to be researched to unlock it
-1. Each city can only have a single building with a star in its outskirts
-1. Cannot be built on top of an enemy figure
-
-Place this building in your city's outskirts. You may replace an existing architecture. If you replace a wonder, you lose the wonder card. If you replace a noble, reserve that noble on your civilization to be played later. You cannot use a noble's card while the noble is in reserve. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
+To construct a building, place this building in your city's outskirts. You may replace an existing architecture. If you replace a wonder, you lose the wonder card. If you replace a noble, reserve that noble on your civilization to be played later. You cannot use a noble's card while the noble is in reserve. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
     
 #### Construct Wonder
-A wonder is a type of architecture that you can purchase from the market. They are all unique and have special abilities.
-
-Requirements:
-1. Each city can only have 1 wonder
-1. Cannot be built on top of an enemy figure
-
-Place this wonder in your city's outskirts (you may replace an existing architecture) and gain the wonder's card. Replace the wonder from the market.
+A wonder is a type of architecture that you can purchase from the market. They are all unique and have special abilities. Each city can only have 1 wonder. Architecture cannot be built on a square containing an enemy figure. Place this wonder in your city's outskirts (you may replace an existing architecture) and gain the wonder's card. Replace the wonder from the market.
 
 Wonders are not buildings and abilities that affect buildings do not affect wonders unless explicitly stated. If a wonder is blockaded by an enemy figure, you cannot use the wonder's card. Obsoleting a wonder destroys the wonder card but leaves the wonder in play. When a wonder leaves play, also remove the wonder's card.
 
