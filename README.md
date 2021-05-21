@@ -263,6 +263,9 @@ attacked. A wall provides +4 to a player’s strength total when
 defending that city and forces the attacker to play a unit first in
 the battle (see pages 23–24)
 
+* Technology card resource abilities
+  * Limited to once per turn
+  
 ### Metropolis
 * When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
 * A metropolis receives an extra +2 combat bonus when a player is defending it
@@ -274,9 +277,6 @@ the battle (see pages 23–24)
 * An expansion square may be a water square. If so, the square is no longer considered to be water for purposes of movement.
 * The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
-
-* Technology card resource abilities
-  * Limited to once per turn
 
 ## Culture
 ### Culture Event Card
