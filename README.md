@@ -51,6 +51,10 @@
 
 [Combat](#combat)
 * [Combat Hand Size](#combat-hand-size)
+* [Combat Turn](#combat-turn)
+* [Unit Counter Table](#unit-counter-table)
+* [Combat Bonuses](#combat-bonuses)
+* [Combat Loot](#combat-loot)
 * [Minor Loot](#minor-loot)
 * [Major Loot](#major-loot)
 
