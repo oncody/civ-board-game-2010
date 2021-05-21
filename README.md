@@ -272,25 +272,22 @@ Upgrading a city into a metropolis:
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
 ## Culture
-Culture Event Card
-
-* Starting culture event hand size is 2
+### Culture Event Card
+* Starting hand size is 2
 * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
 * Culture event cards are kept secret from other players until you play them
 * Culture event cards say at the top of the card which phase you can play these cards in
   
-Great Person
-
+### Great Person
 1. If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile
 1. Otherwise, just draw a random great person tile
 
-Great Person Card
-
+#### Great Person Card
 * Great person cards are kept secret from other players until you play them
 * Great person cards say in what phase you can play them
 * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
 
-Great Person Tile
+#### Great Person Tile
 1. Either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
 
 ## Combat
