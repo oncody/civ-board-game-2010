@@ -74,6 +74,7 @@ Not necessarily have we all agreed on these
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Can choose when to consume a building program
+1. You can build cities on edges of the map (not next to unexplored map tiles)
 1. Should we play with all hut/village tiles:
 
 | Tile | Cody's thoughts |
@@ -264,10 +265,9 @@ attacked. A wall provides +4 to a player’s strength total when
 defending that city and forces the attacker to play a unit first in
 the battle (see pages 23–24)
 
-Upgrading a city into a metropolis:
-* A metropolis has two extra squares in its city outskirts.
-* When devoted to the arts, a metropolis produces a base of 2 culture instead of 1.
-* A metropolis receives an extra +2 combat bonus when a player is defending it.
+### Metropolis
+* When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
+* A metropolis receives an extra +2 combat bonus when a player is defending it
 * A metropolis may extend partially into water and doesn’t count as water for movement, so its owner can use it as a makeshift bridge.
 * The metropolis marker must occupy the square that the capital marker occupied plus one of its four nondiagonally adjacent squares (this square is called its expansion square).
 * The expansion square must not contain any enemy figures.
@@ -338,18 +338,19 @@ After both players have played all of their battle forces, the battle is over. F
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
 
-1 Loot Effects
-* Steal up to three points of trade from the loser’s trade dial.
-* Steal up to three culture tokens from the loser.
-* Steal any one resource token from the loser (facedown hut and village tokens may be chosen, but the winner does not get to see what they are before choosing).
-* Force the loser to discard a coin token of the winner’s choice. This cannot affect investments.
+### Single Loot Effects
+Choose one of the following:
+1. Steal up to three points of trade from the loser’s trade dial
+1. Steal up to three culture tokens from the loser
+1. Steal any one resource token from the loser (facedown hut and village tokens may be chosen, but the winner does not get to see what they are before choosing)
+1. Force the loser to discard a coin token of the winner’s choice. This cannot affect investments.
 
-2 Loot Effects
-* 2 1-loot effects (the same or different)
-* Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
-* Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
-* Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
-
+### Double Loot Effects
+Choose one of the following:
+1. 2 single loot effects (the same or different)
+1. Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
+1. Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
+1. Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
 
 
 ## Appendix:
