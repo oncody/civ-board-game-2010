@@ -244,11 +244,13 @@ This phase is done in turns. The first player fully completes this phase before 
 | Can fortify a city's defenses | Yes | No |
 
 Movement Rules:
-1. Starting figure travel speed is 2
-1. Starting figure stacking limit is 2
-1. Figures cannot move diagonally
-1. Figures can end their movement on friendly buildings, wonders, and nobles
-1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
+1. Base travel speed is 2
+1. Base stacking limit is 2
+1. Cannot move diagonally
+1. Can end their movement on friendly buildings, wonders, and nobles
+1. Can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
+1. Cannot move across water until the tech is researched
+1. Cannot end their movement on water until the tech is researched
 
 ### Armies
 Armies represent a civilization's military power. They can explore facedown map tiles, blockade architecture, explore huts and villages, fortify a city's defenses and attack enemy figures and cities. 
