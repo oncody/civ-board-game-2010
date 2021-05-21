@@ -332,13 +332,7 @@ Sometimes when you advance on the culture track you will gain a noble. If you ar
 Noble cards are kept secret from other players until you play them. They say what phase they can be played. A noble card cannot be played or used unless you have a matching noble in play (not reserved). If a noble is blockaded by an enemy, you cannot use its card. When a noble is replaced, add it to your reserve. When a noble is destroyed, also lose its card.
 
 ## Combat
-When a battle commences, both players shuffle and draw unit cards equal to their combat hand size. The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time until both players have played all of their units and are done using abilities.
-
-When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many wound tokens on it. If a unit ever has wound tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
-
-Once battle is done, each player calculates his combat score. To calculate your combat score, add the health value of all your surviving units and subtract it by the total number of wound tokens on your units. Then calculate your combat bonus below. Add your combat score to your combat bonus. Whichever player has the higher value wins that combat, with defender winning ties.
-
-After a battle is done, remove all wound tokens from units and return any units that survived to their owner hands. The loser loses all of their figures that took place in that battle. If the loser was defending a city, the city is destroyed along with all architecture in its outskirts. If the loser was defending their capital, the winner wins the game via a combat victory. For every two units the winner lost in battle, the winner loses one of their army figures (but never loses their last army unit).
+When a battle commences, both players shuffle and draw unit cards equal to their combat hand size.
 
 ### Combat Hand Size
 | Ability | Combat Cards |
@@ -348,12 +342,23 @@ After a battle is done, remove all wound tokens from units and return any units 
 | Each additional friendly army | +2 |
 | Defending a city center | +3 |
 
+The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time until both players have played all of their units and are done using abilities.
+
+### Combat Turn
+1. Use an ability
+1. Play a unit in a front
+1. Use an ability
+
+When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many wound tokens on it. If a unit ever has wound tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
+
 ### Unit Counter Table
 | Unit | Unit that it counters |
 | --- | --- |
 | Infantry | Cavalry |
 | Cavalry | Artillery |
 | Artillery | Infantry |
+
+Once battle is done, each player calculates his combat score. To calculate your combat score, add the health value of all your surviving units and subtract it by the total number of wound tokens on your units. Then calculate your combat bonus below. Add your combat score to your combat bonus. Whichever player has the higher value wins that combat, with defender winning ties.
 
 ### Combat Bonuses
 Architecture that is blockaded does not generate combat bonuses
@@ -368,17 +373,13 @@ Architecture that is blockaded does not generate combat bonuses
 | Capital city defense  | 12 |
 | Metropolis capital city defense  | 2 |
 
-### Combat Turn
-1. Use an ability
-1. Play a unit in a front
-1. Use an ability
+After a battle is done, remove all wound tokens from units and return any units that survived to their owner hands. The loser loses all of their figures that took place in that battle. If the loser was defending a city, the city is destroyed along with all architecture in its outskirts. If the loser was defending their capital, the winner wins the game via a combat victory. For every two units the winner lost in battle, the winner loses one of their army figures (but never loses their last army unit).
 
 ### Combat Loot
 | Loser | Reward |
 | --- | --- |
 | Only figures (not defending a city) | Minor Loot |
 | Defending non-capital city | Major Loot |
-The winner immediately spends the loot they received to purchase items from the table below. A winner receiving more than one loot may purchase as many effects as they can afford, and they may purchase the same effect multiple times. For instance, a player receiving 2 loot could purchase a 2-loot effect, two different 1-loot effects, or the same 1-loot effect twice.
 
 ### Minor Loot
 Choose one of the following:
