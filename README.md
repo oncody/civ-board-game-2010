@@ -63,7 +63,7 @@ The first player to achieve one of these four victory conditions wins the game:
 
 ## Optional Rules
 1. Investment deck
-1. Great person deck
+1. Noble deck
   
 ## House Rules
 Not necessarily have we all agreed on these
@@ -98,8 +98,8 @@ Requirements:
 
 To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
 
-### Play Great Person
-Play a reserved great person token on your civilization sheet into one of your city's outskirts
+### Play Noble
+Play a reserved noble on your civilization sheet into one of your city's outskirts
 
 ### Change Government
 Change your government in one of the following ways:
@@ -146,7 +146,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 | Square you advance to | Benefit |
 | --- | ---  |
 | Column Icon | Draw a culture event card |
-| Star Icon | Gain a great person |
+| Star Icon | Gain a noble |
 
 One at a time, for each of your cities do the following: 
 
@@ -178,18 +178,18 @@ This requires you to have the flight tech card unlocked. An aircraft costs 12 pr
 
 #### Construct Building
 Requirements:
-1. The technology to be unlocked corresponding to this building
-1. Cannot be built on top of an enemy figure 
+1. Every building requires a specific technology to be researched to unlock it
 1. Each city can only have a single building with a star in its outskirts
+1. Cannot be built on top of an enemy figure
 
-Place this building in your city's outskirts. You may replace an existing building, wonder, or great person. If it's a wonder, you lose the wonder card. If it's a great person, you will lose a corresponding great person card. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
+Place this building in your city's outskirts. You may replace an existing building, wonder, or noble. If it's a wonder, you lose the wonder card. If it's a noble, you will lose a corresponding noble card. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
     
 #### Construct Wonder
 Requirements:
 1. Each city can only have 1 wonder
 1. Cannot be built on top of an enemy figure
 
-Place this wonder in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card. Replace the wonder from the market.
+Place this wonder in your city's outskirts. You may replace an existing building, wonder, or noble. If it's a wonder, you lose the wonder card. If it's a noble, you will lose the noble card. Replace the wonder from the market.
 1. A blockaded wonder prevents use of the corresponding wonder card
 1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
 1. When a wonder tile is destroyed, remove the corresponding wonder card
@@ -211,7 +211,7 @@ Movement Rules:
 1. Starting figure stacking limit is 2
 1. Figures cannot move diagonally
 1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure
-1. Figures can end their movement on friendly buildings, wonders, and great person tiles
+1. Figures can end their movement on friendly buildings, wonders, and nobles
 
 ### Blockade
 Any figure can blockade an enemy square by moving onto it and occupying it. A blockaded square cannot be used by its owner in any capacity.
@@ -277,23 +277,23 @@ To upgrade your capital the following conditions must be met:
 1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
 1. The expansion square must not contain any enemy figures
 1. The expansion square may be a water square. 
-1. The expansion square may contain a wonder, great person, or a building, but they will be lost.
+1. The expansion square may contain a building, wonder, or noble, but they will be lost
 
-To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a wonder, great person, or building, then they will be lost. If it is a wonder or great person, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
+To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a building, wonder, or noble, then they will be lost. If it is a wonder or noble, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
 ## Culture
 ### Event Card
 When you advance on the culture track, you will often gain culture event cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture event card
   
-### Great Person
-If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile. Otherwise, just draw a random great person tile
+### Noble
+If you are playing with the optional noble deck, then draw a noble card and a matching noble token. Otherwise, just draw a random great person tile
 
-#### Great Person Card
+#### Noble Card
 * Great person cards are kept secret from other players until you play them
 * Great person cards say in what phase you can play them
 * A player cannot use a great person’s ability unless they have at least one matching great person tile on the map and not blockaded by an enemy unit
 
-#### Great Person Tile
+#### Noble Tile
 When you gain a great person tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
 
 When a great person tile is killed, the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person tile of that type they possess (including tiles on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
