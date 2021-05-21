@@ -48,6 +48,8 @@
 [Technology Research Phase](#technology-research-phase)
 
 [Culture](#culture)
+[Culture Cards](#culture-cards)
+[Nobles](#nobles)
 
 [Combat](#combat)
 
@@ -315,18 +317,8 @@ To build a metropolis, remove your capital and replace it with a metropolis. If 
 ### Culture Cards
 When you advance on the culture track, you will often gain culture cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture card
   
-### Noble
-If you are playing with the optional noble deck, then draw a noble card and a matching noble token. Otherwise, just draw a random noble tile
-
-#### Noble Card
-* Noble cards are kept secret from other players until you play them
-* Noble cards say in what phase you can play them
-* A player cannot use a noble's ability unless they have at least one matching noble on the map and not blockaded by an enemy unit
-
-#### Noble Tile
-When you gain a Noble tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
-
-When a noble tile is killed, the player must check to see whether they now have too many noble cards of that type. A player may only have one noble card for each noble tile of that type they possess (including tiles on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of noble card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
+### Nobles
+Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble card and a matching noble token. If you are not playing with the noble deck, then just draw a random noble tile. Noble cards are kept secret from other players until you play them. They say in what phase they can be played.  A player cannot use a noble's ability unless they have at least one matching non-blockaded noble on the map. When you gain a Noble, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later. A player may only have one noble card for each noble token they possess (on the map and in reserve), regardless of whether the noble cards are faceup or facedown. When a noble token is killed, the player must check to see whether they now have too many noble cards of that type.  If a player has too many, they must randomly discard cards of that type until they no longer have too many.
 
 ## Combat
 Default combat unit hand size is 3
