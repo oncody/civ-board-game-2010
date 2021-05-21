@@ -124,7 +124,7 @@ Advance first player token (skip this the first turn of the game). This phase is
 Requirements:
 1. Starting city limit is 2
 1. Cannot be built on water
-1. Its outskirts must contain eight revealed squares, must not overlap with any other city’s outskirts, and cannot contain an enemy figure, hut, or village token (it is valid once the hut or village token is removed from the map)
+1. Its outskirts must contain eight revealed squares, must not overlap with any other city’s outskirts, and cannot contain an enemy figure, hut token, or village token (it is valid once the hut or village token is removed from the map)
 
 To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. If your city has a gold coin printed on the map in one of its outskirts, then increase your coin tracker by 1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. 
 
@@ -184,7 +184,7 @@ One at a time, for each of your cities do the following:
 Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). You are able to spend this production only during this turn. Any unspent production at the end of this phase will be lost.
 
 #### Rush Production
-If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
+If you want to perform a city action, but you don't have enough production then you can rush production. You can convert 3 trade points to a single point of production, as many times as you want. 
 
 ### Perform only one of the following actions:
 #### Store Production
@@ -204,28 +204,31 @@ Determine which type of military card you want to recruit. Pay the cost correspo
 | Rank 1 | 5 production |
 | Rank 2 | 7 production |
 | Rank 3 | 9 production |
-| Rank | 11 production |
+| Rank 4 | 11 production |
 
 #### Recruit Aircraft
 This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military unit hand.
 
 #### Construct Building
+A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses.
+
 Requirements:
 1. Every building requires a specific technology to be researched to unlock it
 1. Each city can only have a single building with a star in its outskirts
 1. Cannot be built on top of an enemy figure
 
-Place this building in your city's outskirts. You may replace an existing building, wonder, or noble. If it's a wonder, you lose the wonder card. If it's a noble, you will lose a corresponding noble card. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
+Place this building in your city's outskirts. You may replace an existing architecture. If you replace a wonder, you lose the wonder card. If you replace a noble, reserve that noble on your civilization to be played later. You cannot use a noble's card while the noble is in reserve. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
     
 #### Construct Wonder
+A wonder is a type of architecture that you can purchase from the market. They are all unique and have special abilities.
+
 Requirements:
 1. Each city can only have 1 wonder
 1. Cannot be built on top of an enemy figure
 
-Place this wonder in your city's outskirts. You may replace an existing building, wonder, or noble. If it's a wonder, you lose the wonder card. If it's a noble, you will lose the noble card. Replace the wonder from the market.
-1. A blockaded wonder prevents use of the corresponding wonder card
-1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
-1. When a wonder tile is destroyed, remove the corresponding wonder card
+Place this wonder in your city's outskirts (you may replace an existing architecture) and gain the wonder's card. Replace the wonder from the market.
+
+Wonders are not buildings and abilities that affect buildings do not affect wonders unless explicitly stated. If a wonder is blockaded by an enemy figure, you cannot use the wonder's card. Obsoleting a wonder destroys the wonder card but leaves the wonder in play. When a wonder leaves play, also remove the wonder's card.
 
 #### Harvest Culture
 When you harvest culture, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
@@ -244,14 +247,23 @@ Movement Rules:
 1. Starting figure travel speed is 2
 1. Starting figure stacking limit is 2
 1. Figures cannot move diagonally
-1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure
 1. Figures can end their movement on friendly buildings, wonders, and nobles
+1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
 
 ### Blockade
-Any figure can blockade an enemy square by moving onto it and occupying it. A blockaded square cannot be used by its owner in any capacity.
+Any figure can blockade an enemy square by moving onto a square containing an enemy building, wonder, or noble. A building, wonder, or noble being blockaded by enemy figures cannot be used by its owner in any capacity. While a wonder is blockaded, its wonder card cannot be used. While a noble is blockaded, its noble card cannot be used.
 
 ### Exploration
 Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
+
+| Thing | Army | Scout |
+| --- | --- | --- |
+| Represents | Military | Economy |
+| Can enter huts | Military | Economy |
+| Can enter villages | Military | Economy |
+| Can enter enemy figures | Military | Economy |
+| Can enter enemy buildings, wonders, and nobles | Military | Economy |
+| Can enter enemy buildings, wonders, and nobles | Military | Economy |
 
 ### Armies
 This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy figures, and enemy units. Doing any of these causes your army figure to end your movement. 
@@ -285,10 +297,12 @@ Resources a scout can send home:
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
 ## Technology Phase
-This phase is done in secret by all players at the same time.
+This phase is done in secret by all players at the same time. Each player can learn up to one technology if they wish.
 
-Each player may learn one new tech by spending trade They then add their newly learned tech to their tech pyramid When a player learns a tech unlocking an upgraded building, they immediately flip over any of the corresponding basic buildings that they’ve already produced in their cities. Researching a tech spends all of the player’s remaining trade, no matter how much trade they had before researching. The only exception to this rule is for players who possess coins. Coins allow a player to retain 1 trade after researching for each coin the player possesses. Having coins never increases a player’s current trade; it only allows a player to retain trade they already have. A player does not need to know the tech that unlocks the basic form of a building in order to learn the tech that unlocks the upgraded form of that building.
-  
+To purchase a technology a player needs to have enough trade available to pay for it.
+
+Technology Cost
+
 The Railroad technology card should have a coin icon.
 
 The Metal Casting technology card should not have a coin icon.
@@ -324,7 +338,9 @@ To build a metropolis, remove your capital and replace it with a metropolis. If 
 When you advance on the culture track, you will often gain culture cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture card
   
 ### Nobles
-Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble card and a matching noble token. If you are not playing with the noble deck, then just draw a random noble tile. Noble cards are kept secret from other players until you play them. They say in what phase they can be played.  A player cannot use a noble's ability unless they have at least one matching non-blockaded noble on the map. When you gain a Noble, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later. A player may only have one noble card for each noble token they possess (on the map and in reserve), regardless of whether the noble cards are faceup or facedown. When a noble token is killed, the player must check to see whether they now have too many noble cards of that type.  If a player has too many, they must randomly discard cards of that type until they no longer have too many.
+Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble's card and a matching noble. If you are not playing with the noble deck, then just draw a random noble. When you gain a Noble, either immediately add it to a square that is not occupied by an enemy figure in your outskirts (you may replace an existing architecture) or reserve this tile on your civilization sheet to play later.
+
+Noble cards are kept secret from other players until you play them. They say in what phase they can be played. A player cannot use a noble's card unless they have at least one matching non-blockaded noble on the map.  A player may only have one noble card for each noble token they possess (on the map and in reserve), regardless of whether the noble cards are faceup or facedown. When a noble token is killed, the player must check to see whether they now have too many noble cards of that type.  If a player has too many, they must randomly discard cards of that type until they no longer have too many.
 
 ## Combat
 Default combat unit hand size is 3
