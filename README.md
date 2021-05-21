@@ -48,8 +48,8 @@
 [Technology Research Phase](#technology-research-phase)
 
 [Culture](#culture)
-[Culture Cards](#culture-cards)
-[Nobles](#nobles)
+* [Culture Cards](#culture-cards)
+* [Nobles](#nobles)
 
 [Combat](#combat)
 
