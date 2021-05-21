@@ -75,6 +75,7 @@ Not necessarily have we all agreed on these
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Can choose when to consume a building program
 1. You can build cities and metropolises on edges of the map (not next to unexplored map tiles)
+1. Defenders can choose at the start of battle whether to use the city fortification token or not
 1. Should we play with all hut/village tiles:
 
 | Tile | Cody's thoughts |
@@ -201,12 +202,12 @@ When you devote a city ot the arts, gain culture as follows. Gain 1 culture (2 i
 Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
     
 ####  Building Program
-Place a building program marker on the city (max 1 building program marker per city). The next time this city spends production, double the production generated and remove the token
+Place a building program tile on the city (max 1 building program tile per city). The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person. One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
 
-Requirements:
+Movement Rules:
 1. Starting figure travel speed is 2
 1. Starting figure stacking limit is 2
 1. Figures cannot move diagonally
@@ -235,13 +236,13 @@ If an army figure enters a square containing only enemy scouts, it ends its move
 If an army figure enters a square containing an enemy figure or enemy city, it ends its movement and engages in a battle with that player. If that square only contained enemy scouts, see the Massacre Scout above.
 
 #### City Fortification
-Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
+Have an army figure end its movement in a city center and then remove it from the board. Add a fortification tile on that city center (may of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scout Figure
 This figure exists to further your economy. It can create new cities (at the start of the turn) and it can send all income on the square beneath it home to a friendly cit. It cannot enter squares containing huts, villages, or enemy figures. 
 
 #### City Caravan
-Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan marker on that city center (max of 1 per city). When this city performs a city action that requires production, you may consume this caravan marker to gain an additional 2 production.
+Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
 ## Technology Research Phase
 The Tech Pyramid
@@ -282,7 +283,7 @@ To upgrade your capital the following conditions must be met:
 To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a wonder, great person, or building, then they will be lost. If it is a wonder or great person, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
 ## Culture
-### Culture Event Card
+### Event Card
 When you advance on the culture track, you will often gain culture event cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture event card
   
 ### Great Person
@@ -291,12 +292,12 @@ If you are playing with the optional great person deck, then draw a great person
 #### Great Person Card
 * Great person cards are kept secret from other players until you play them
 * Great person cards say in what phase you can play them
-* A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
+* A player cannot use a great person’s ability unless they have at least one matching great person tile on the map and not blockaded by an enemy unit
 
 #### Great Person Tile
 When you gain a great person tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
 
-When a great person tile is killed, the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person tile of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
+When a great person tile is killed, the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person tile of that type they possess (including tiles on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ## Combat
 Default combat unit hand size is 3
@@ -314,7 +315,7 @@ During the “Engaging in Battle” step of combat, players alternate taking bat
 3. Opportunity to use an ability
 4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
 
-When an army figure moves into a square containing a village marker, an enemy army figure, or an enemy city, a battle takes place.
+When an army figure moves into a square containing a village tile, an enemy army figure, or an enemy city, a battle takes place.
 
 * Finite resource
   This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
