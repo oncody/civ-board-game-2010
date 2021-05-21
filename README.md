@@ -112,7 +112,7 @@ Requirements:
 1. Can only invest coin tokens
 1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
 
-To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment marker on an investment card. Investments cannot be removed by other players
+To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment tile on an investment card. Investments cannot be removed by other players
 
 ## Trade Phase
 Everyone does the following actions at the same time in any order
@@ -274,7 +274,7 @@ Your capital can be upgraded to a larger metropolis by researching the agricultu
 1. A metropolis receives an extra +2 combat bonus when a player is defending it
 
 To upgrade your capital the following conditions must be met:
-1. The metropolis marker must contain the square the capital marker previously occupied
+1. The metropolis tile must contain the square the capital tile previously occupied
 1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
 1. The expansion square must not contain any enemy figures
 1. The expansion square may be a water square. 
