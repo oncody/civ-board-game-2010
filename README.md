@@ -78,8 +78,8 @@ Not necessarily have we all agreed on these
 
     | Tile | Cody's thoughts |
     | --- | --- |
-    | City-states | seems strong but not OP |
-    | Coin | Maybe the coin stays on the map and isn't a coin token so people can contest it |
+    | City-states | seems strong but not OP. you can contest it. Maybe remove the +4 combat bonus |
+    | Coin | Maybe instead of it being a coin token, it just be a coin on the map so people can contest it |
     | Military unit | OP |
     | +4 production | OP |
     | +3-6 extra culture | OP |
