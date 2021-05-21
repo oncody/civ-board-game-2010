@@ -15,7 +15,21 @@
 
 [Start of Turn Phase](#start-of-turn-phase)
 
+[Build City](#build-city)
+
+[Play Noble](#play-noble)
+
+[Change Government](#change-government)
+
+[Invest](#invest)
+
 [Trade Phase](#trade-phase)
+
+[Gather Trade](#gather-trade)
+
+[Trade](#trade)
+
+[City Management Phase](#city-management-phase)
 
 [City Management Phase](#city-management-phase)
 
@@ -107,7 +121,7 @@ Change your government in one of the following ways:
 1. Change to anarchy for a turn (on your next turn you can change to any government)
 1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 
-### Invest Coin
+### Invest
 Requirements:
 1. Can only invest coin tokens
 1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
@@ -120,8 +134,8 @@ Everyone does the following actions at the same time in any order
 ### Gather Trade
 Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
    
-### Trade with other players
-You can trade any of the following:
+### Trade
+You can trade and make non-binding promises with other players. You can trade any of the following with other players:
 1. Points of trade
 1. Culture tokens
 1. Resource tokens
@@ -286,17 +300,17 @@ To build a metropolis, remove your capital and replace it with a metropolis. If 
 When you advance on the culture track, you will often gain culture event cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture event card
   
 ### Noble
-If you are playing with the optional noble deck, then draw a noble card and a matching noble token. Otherwise, just draw a random great person tile
+If you are playing with the optional noble deck, then draw a noble card and a matching noble token. Otherwise, just draw a random noble tile
 
 #### Noble Card
-* Great person cards are kept secret from other players until you play them
-* Great person cards say in what phase you can play them
-* A player cannot use a great person’s ability unless they have at least one matching great person tile on the map and not blockaded by an enemy unit
+* Noble cards are kept secret from other players until you play them
+* Noble cards say in what phase you can play them
+* A player cannot use a noble's ability unless they have at least one matching noble on the map and not blockaded by an enemy unit
 
 #### Noble Tile
-When you gain a great person tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
+When you gain a Noble tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
 
-When a great person tile is killed, the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person tile of that type they possess (including tiles on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
+When a noble tile is killed, the player must check to see whether they now have too many noble cards of that type. A player may only have one noble card for each noble tile of that type they possess (including tiles on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of noble card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ## Combat
 Default combat unit hand size is 3
