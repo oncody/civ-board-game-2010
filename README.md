@@ -252,35 +252,42 @@ Upgrading a city into a metropolis:
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
 ## Culture
-* Pay culture tokens and trade to advance on the culture track
+Pay culture tokens and trade to advance on the culture track
 
-    | Tier | Culture Cost | Trade Cost |
-    | --- | --- | --- |
-    | Tier 1 | 3 Culture | 0 Trade |
-    | Tier 2 | 5 Culture | 3 Trade |
-    | Tier 3 | 7 Culture | 6 Trade |
+| Tier | Culture Cost | Trade Cost |
+| --- | --- | --- |
+| Tier 1 | 3 Culture | 0 Trade |
+| Tier 2 | 5 Culture | 3 Trade |
+| Tier 3 | 7 Culture | 6 Trade |
 
-* If the square you advanced to is a normal culture track square and has columns on it
-    * Draw a culture event card
-    * Starting culture event hand size is 2
-    * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
-    * Culture event cards are kept secret from other players until you play them
-    * Culture event cards say at the top of the card which phase you can play these cards in
-* If the square you advanced to has a star on it, then it is a great person square
-    * If you are playing with the optional great person deck
-        * Draw a random great person card
-            * Great person cards are kept secret from other players until you play them
-            * Great person cards say in what phase you can play them
-            * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
-        * Draw a great person tile that matches the great person card you drew
-            * Either add this great person tile to the outskirts of one of your cities
-            * Or hold this tile in reserve by placing it on your civilization sheets
-                * You can put this into play during the start of turn
-    * If you are not playing with the optional great person deck
-        * Draw a random great person tile
-            * Either add this great person tile to the outskirts of one of your cities
-            * Or hold this tile in reserve by placing it on your civilization sheets
-                * You can put this into play during the start of turn
+Advance your culture token on the culture track
+
+| Square you advance to | Benefit |
+| --- | ---  |
+| Column Icon | Draw a culture event card |
+| Star Icon | Gain a great person |
+
+Culture Event Card
+
+* Starting culture event hand size is 2
+* If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
+* Culture event cards are kept secret from other players until you play them
+* Culture event cards say at the top of the card which phase you can play these cards in
+  
+Great Person
+
+1. If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile
+1. Otherwise, just draw a random great person tile
+
+Great Person Card
+
+* Great person cards are kept secret from other players until you play them
+* Great person cards say in what phase you can play them
+* A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
+
+Great Person Tile
+1. Either add this great person tile to the outskirts of one of your cities immediately or 
+2. Reserve this tile on your civilization sheet to play later
 
 ## Combat
 * Default combat unit hand size is 3
