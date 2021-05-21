@@ -73,6 +73,7 @@ Not necessarily have we all agreed on these
 1. Maybe not play with as many water tiles
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
+1. Can choose when to consume a building program
 1. Should we play with all hut/village tiles:
 
     | Tile | Cody's thoughts |
@@ -136,7 +137,7 @@ One at a time, for each of your cities do the following:
 Gather Production:
 Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
-Perform one of the following action:
+Perform one of the following city actions:
 1. Build an army figure 
     * Costs 4 production 
     * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
@@ -155,10 +156,12 @@ Perform one of the following action:
     | Tier 4 | 11 production |
 
 1. Build a building (requires a tech to unlock it)
+    * Cannot be built on top of an enemy figure   
     * Each city can only have a single building with a star in its outskirts
     * Building tiles are limited
     
 1. Build a wonder
+    * Cannot be built on top of an enemy figure
     * Each city can only have 1 wonder 
     * Immediately replace the wonder from the market
 
@@ -167,7 +170,15 @@ Perform one of the following action:
     * Gain 1 additional culture if your city is a metropolis
     * Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure
         * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+
+1. Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
     
+1. Start a building program
+    * Place a building program marker on the city
+    * Max 1 building program marker on a city
+    * The next time this city spends production, double the production generated and remove the token
+
+
 ## Movement Phase
 * Friendly figures may pass through, but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
@@ -198,6 +209,10 @@ movement immediately ends. If the square contains only enemy
 scouts, the scouts are immediately killed and the attacking player
 collects loot as though they had won a battle (see page 25).
 
+
+1. Disband an army
+
+1. Disband a scout
 
 Scouts cannot enter a square containing enemy figures.
 
@@ -238,9 +253,13 @@ Upgrading a city into a metropolis:
 
 ## Culture
 * Pay culture tokens and trade to advance on the culture track
-    * To advance to a tier 1 square, pay 3 culture tokens
-    * To advance to a tier 2 square, pay 5 culture tokens and 3 trade
-    * To advance to a tier 3 square, pay 7 culture and 6 trade
+
+    | Tier | Culture Cost | Trade Cost |
+    | --- | --- | --- |
+    | Tier 1 | 3 Culture | 0 Trade |
+    | Tier 2 | 5 Culture | 3 Trade |
+    | Tier 3 | 7 Culture | 6 Trade |
+
 * If the square you advanced to is a normal culture track square and has columns on it
     * Draw a culture event card
     * Starting culture event hand size is 2
