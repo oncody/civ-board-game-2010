@@ -249,10 +249,10 @@ Movement Rules:
 1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
 
 ### Armies
-Armies represent a civilization's military power. They can explore facedown tiles, blockade architecture, explore huts, adfkljasl;kfjdsa;lfjasd; If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
+Armies represent a civilization's military power. They can explore facedown tiles, blockade architecture, explore huts and villages, fortify a city's defenses and attack enemy figures and cities. If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scouts
-When scouts are blockading an architecture, they can send home any resources printed on that building.
+Scouts represent an economical unit of a civilization. They can explore facedown tiles, blockade architecture, send resources home, construct cities, and bolster a city's production. Scouts always send the resources of the square they are occupying to a friendly city, effectively making that square included as part of that city's outskirts. When scouts are blockading architecture, they can send home any resources printed on that building too.
 
 Resources a scout can send home:
 1. Resources (Wheat, Silk, Incense, Iron)
@@ -308,7 +308,7 @@ To upgrade your capital the following conditions must be met:
 1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
 1. The expansion square must not contain any enemy figures
 1. The expansion square may be a water square. 
-1. The expansion square may contain an architecture
+1. The expansion square may contain architecture
 
 To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
