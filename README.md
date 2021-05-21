@@ -50,6 +50,7 @@
 * [Nobles](#nobles)
 
 [Combat](#combat)
+[Combat Hand Size](#combat-hand-size)
 
 [Post-combat](#post-combat)
 * [Single-loot Effects](#single-loot-effects)
@@ -85,9 +86,9 @@ The first player to achieve one of these four victory conditions wins the game:
 1. Set trade dial equal to trade in your city's outskirts (you'll gain trade again on the first turn)
 1. Place a single army figure in a legal square in your city's outskirts
 1. Place a single scout figure in a legal square in your city's outskirts
-1. Take one artillery military unit card
-1. Take one infantry military unit card
-1. Take one mounted military unit card
+1. Take one artillery card
+1. Take one infantry card
+1. Take one mounted card
 
 ## Optional Rules
 1. Investment deck
@@ -196,7 +197,7 @@ Costs 4 production. Limited to 6 army figures. Place an army figure in a legal s
 Costs 6 production. Limited to 2 scout figures. Place a scout figure in a legal square in your city's outskirts where you built this unit
 
 #### Recruit Military
-Determine which type of military card you want to recruit. Pay the cost corresponding to what rank you are for that unit. Add that card to your military hand. There are only a limited number of military cards.
+Determine which military card you want to recruit. Pay the cost corresponding to what rank you are for that unit. Add that card to your military hand. There are only a limited number of military cards.
 
 | Rank | Production Cost |
 | --- | --- |
@@ -206,7 +207,7 @@ Determine which type of military card you want to recruit. Pay the cost correspo
 | Rank 4 | 11 production |
 
 #### Recruit Aircraft
-This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military unit hand.
+This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military hand.
 
 #### Construct Building
 A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses. Every building requires a specific technology to be researched to unlock it. Each city can only have a single building with a star in its outskirts. Architecture cannot be built on a square containing an enemy figure.
@@ -289,10 +290,10 @@ This phase is done in secret by all players at the same time. Each player can le
 To purchase a technology a player needs to have enough trade available to pay for it.
 
 Technology Cost
-
-The Railroad technology card should have a coin icon.
-
+ 
+Errata:
 The Metal Casting technology card should not have a coin icon.
+The Railroad technology card should have a coin icon printed on it.
 
 When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology. 
 
@@ -333,10 +334,15 @@ Sometimes when you advance on the culture track you will gain a noble. If you ar
 Noble cards are kept secret from other players until you play them. They say what phase they can be played. A noble card cannot be played or used unless you have a matching noble in play (not reserved). If a noble is blockaded by an enemy, you cannot use its card. When a noble is replaced, add it to your reserve. When a noble is destroyed, also lose its card.
 
 ## Combat
-Default combat unit hand size is 3
-* +2 for each friendly army figure in the square beyond the first
-* +3 if defending a city or capital
-* +1 if governed by Fundamentalism
+When a battle commences, both players shuffle and draw unit cards equal to their combat hand size. 
+
+### Combat Hand Size
+| Ability | Combat Cards |
+| --- | --- |
+| Base | 3 |
+| Fundamentalism government | +1 |
+| Each additional friendly army | +2 |
+| Defending a city center | +3 |
 
 The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
