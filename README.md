@@ -38,8 +38,6 @@
 * [Exploration](#exploration)
 * [Huts](#huts)
 * [Villages](#villages)
-* [Undefended Scouts](#undefended-scouts)
-* [Initiating Combat](#initiating-combat)
 * [Fortify City](#fortify-city)
 * [Caravans](#caravans)
 
@@ -102,6 +100,7 @@ Not necessarily have we all agreed on these
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Can choose when to consume a building program
+1. Scouts can explore huts (but not villages)
 1. You can build cities and metropolises on edges of the map (not next to unexplored map tiles)
 1. Defenders can choose at the start of battle whether to use the city fortification token or not
 1. Should we play with all hut/village tokens:
@@ -210,7 +209,7 @@ This requires you to have the flight tech card unlocked. An aircraft costs 12 pr
 #### Construct Building
 A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses. Every building requires a specific technology to be researched to unlock it. Each city can only have a single building with a star in its outskirts. Architecture cannot be built on a square containing an enemy figure.
 
-To construct a building, place this building in your city's outskirts. You may replace an existing architecture. If you replace a wonder, you lose the wonder card. If you replace a noble, reserve that noble on your civilization to be played later. You cannot use a noble's card while the noble is in reserve. If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
+To construct a building, place this building in your city's outskirts (you may replace an existing architecture). If you build a water building on a water square, that square is still considered to be water for the sake of movement. Buildings are limited
     
 #### Construct Wonder
 A wonder is a type of architecture that you can purchase from the market. They are all unique and have special abilities. Each city can only have 1 wonder. Architecture cannot be built on a square containing an enemy figure. Place this wonder in your city's outskirts (you may replace an existing architecture) and gain the wonder's card. Replace the wonder from the market.
@@ -230,6 +229,18 @@ Harvest a single market resource in your city’s outskirts (if the market has a
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person. One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
 
+| Ability | Army | Scout |
+| --- | --- | --- |
+| Represents | Military | Economy |
+| Can explore facedown map tiles | Yes | Yes |
+| Can blockade architecture | Yes | Yes |
+| Can send resources home | No | Yes |
+| Can construct cities | No | Yes |
+| Can bolster a city's production | No | Yes |
+| Can explore huts and villages | Yes | No |
+| Can attack enemy figures and cities | Yes | No |
+| Can fortify a city's defenses | Yes | No |
+
 Movement Rules:
 1. Starting figure travel speed is 2
 1. Starting figure stacking limit is 2
@@ -237,38 +248,11 @@ Movement Rules:
 1. Figures can end their movement on friendly buildings, wonders, and nobles
 1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
 
-### Blockade
-Any figure can blockade an enemy square by moving onto a square containing an enemy architecture. While blockaded, that architecture cannot be used in any capacity. While a wonder is blockaded, the wonder's card cannot be used. While a noble is blockaded, the noble's card cannot be used.
-
-### Exploration
-Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
-
-| Ability | Army | Scout |
-| --- | --- | --- |
-| Represents | Military | Economy |
-| Can send resources home | No | Yes |
-| Can construct cities | No | Yes |
-| Can explore huts and villages | Yes | No |
-| Can blockade architecture | Yes | Yes |
-| Can attack enemy figures and cities | Yes | No |
-
-#### Huts
-If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
-
-#### Villages
-If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
-
-#### Undefended Scouts
-If an army figure enters a square containing only enemy scouts, it ends its movement. All of the defending scouts are killed and loot and other end-of-battle rewards are rewarded to the attacking player.
-
-#### Initiating Combat
-If an army figure enters a square containing an enemy figure or enemy city, it ends its movement and engages in a battle with that player. If that square only contained enemy scouts, see the Massacre Scout above.
-
-#### Fortify City
-If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
+### Armies
+Armies represent a civilization's military power. They can explore facedown tiles, blockade architecture, explore huts, adfkljasl;kfjdsa;lfjasd; If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scouts
-When scouts are blockading a building, wonder, or noble, they can send home any resources printed on that building.
+When scouts are blockading an architecture, they can send home any resources printed on that building.
 
 Resources a scout can send home:
 1. Resources (Wheat, Silk, Incense, Iron)
@@ -277,8 +261,19 @@ Resources a scout can send home:
 1. Production
 1. Culture
 
-#### Caravans
 If a scout figure ends its movement in a friendly city center, then remove it from the board to add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
+
+### Blockade
+Any figure can blockade an enemy square by moving onto a square containing an enemy architecture. While blockaded, that architecture cannot be used in any capacity. While a wonder is blockaded, the wonder's card cannot be used. While a noble is blockaded, the noble's card cannot be used.
+
+### Exploration
+Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
+
+#### Huts
+If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
+
+#### Villages
+If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
 
 ## Technology Phase
 This phase is done in secret by all players at the same time. Each player can learn up to one technology if they wish.
@@ -313,9 +308,12 @@ To upgrade your capital the following conditions must be met:
 1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
 1. The expansion square must not contain any enemy figures
 1. The expansion square may be a water square. 
-1. The expansion square may contain a building, wonder, or noble, but they will be lost
+1. The expansion square may contain an architecture
 
-To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a building, wonder, or noble, then they will be lost. If it is a wonder or noble, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
+To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
+
+## Architecture
+Architecture includes buildings, wonders, and nobles. When building architecture, you can replace existing architecture. If a building is replaced, it is returned to the market. If a wonder is replaced, both the wonder and its card are removed from the game forever. If a noble is replaced, reserve the noble on your civilization to be played later. While a noble is reserved, you cannot use its card.
 
 ## Culture
 ### Culture Cards
