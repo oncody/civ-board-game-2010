@@ -164,11 +164,13 @@ If you want to perform a city action but you don't have enough production from t
 
 ### Perform only one of the following actions:
 #### Produce an army figure
-* Costs 4 production 
+* Costs 4 production
+* Limited to 6 army figures
 * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
 #### Produce a scout figure
 * Costs 6 production
+* Limited to 2 scout figures
 * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
 
 #### Produce a military unit card
@@ -216,14 +218,23 @@ Starting figure stacking limit is 2
 
 Figures cannot move diagonally
 
-Any figure can blockade an enemy square by moving onto it and occupying it.
+Any figure can blockade an enemy square by moving onto it and occupying it
+
+Figures can end their movement on their own buildings, wonders, and great person tiles.
+
+Figures can move through their own city center, but they can only end their movement on it if they wish to sacrifice that figure.
 
 ### Army Figure
-This figure represents your military power and presence. This is the only figure that can enter squares containing hugs, villages, or enemy figures. This triggers a battle.
+This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these causes your army figure to end your movement and immediately triggers a battle.
+
+#### Army Sacrifice
+Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
 
 ### Scout Figure
 This figure exists to further your economy. It cannot enter squares containing huts, villages, or enemy figures. Scouts are killed immediately any time they are attacked by an army, unless they have a friendly army escorting them (this triggers end of battle effects such as loot).
 
+#### Scout Sacrifice
+Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan marker on that city center (max of 1 per city). When this city performs a city action that requires production, you may consume this caravan marker to gain an additional 2 production.
 
 ## Technology Research Phase
 
