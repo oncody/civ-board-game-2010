@@ -76,14 +76,14 @@ Not necessarily have we all agreed on these
 1. Can choose when to consume a building program
 1. Should we play with all hut/village tiles:
 
-    | Tile | Cody's thoughts |
-    | --- | --- |
-    | City-states | seems strong but not OP. you can contest it. Maybe remove the +4 combat bonus |
-    | Coin | Maybe instead of it being a coin token, it just be a coin on the map so people can contest it |
-    | Military unit | OP |
-    | +4 production | OP |
-    | +3-6 extra culture | OP |
-    | Learn tech 1 for free | OP |
+| Tile | Cody's thoughts |
+| --- | --- |
+| City-states | seems strong but not OP. you can contest it. Maybe remove the +4 combat bonus |
+| Coin | Maybe instead of it being a coin token, it just be a coin on the map so people can contest it |
+| Military unit | OP |
+| +4 production | OP |
+| +3-6 extra culture | OP |
+| Learn tech 1 for free | OP |
 
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
@@ -208,41 +208,22 @@ Harvest a single resource in your city’s outskirts (if the market has a corres
 * The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
-* Friendly figures may pass through, but they cannot end their movement in a city center
-* Starting travel speed for army and scout figures is 2
-* Starting stacking limit for army and scout figures is 2
-* Turn phase 4
-* One at a time
-Move each of their figures (armies and scouts) up to a number of squares equal to the player’s travel speed.
-Movement may cause battles to occur and facedown map tiles to be revealed
-Move all of your figures before it passes to the next player
+This phase is done in turns. The first player fully completes this phase before it passes to the next person
+
+Starting figure travel speed is 2
+
+Starting figure stacking limit is 2
+
 Figures cannot move diagonally
-When discovering, flat part of triangle touches the figure that exposed it An army figure that enters a square containing a hut or village marker must immediately end its movement and is considered to be exploring the hut or village.
-Scouts cannot enter a square containing enemy figures. If an army enters a square containing any enemy figures, its movement immediately ends. If the square contains only enemy scouts, the scouts are immediately killed and the attacking player collects loot as though they had won a battle (see page 25). If the square contains at least one enemy army, a battle occurs (see page 23). If the square contains a mix of both enemy armies and scouts, a battle occurs, but if the losing side in the battle has any scouts in the square, they are killed along with the armies; loot is then collected as normal.
-Instead of the figure moving for that square of movement, the map tile is turned faceup.
-Once a figure has begun its move, it must complete its move before any other figure may move.
-A player may move several of their figures as a group if they all begin the Movement Phase in the same square. Doing so can offer extra strength in battle (see page 23) or allow armies to protect scouts (see page 20). Figures that begin in the same square are not required to move together.
-A player may move their figures through their own city centers, but they may not end any figure’s movement in their city center. Scouts may enter enemy city outskirts, but they cannot enter enemy city centers. Armies may enter enemy city outskirts. They may also enter an enemy city center, but doing so immediately results in an attack on the city (see page 23).
-Military bonuses and wonders abilities can be blockaded, even by a scout only, but it doesn’t send such abilities or bonus to the scouts’ owner. It does send the culture icons on the wonders.
-In order to engage to a battle with a stack of 2 or more armies, they must be already in the same square at the beginning of your turn. This means that you have to group them in this turn if you want to attack with them all in the next turn.
-Figures can move on friendly squares containing friendly buildings, wonders, great people, etc  but cannot end their movement on city centers.Blockade: When a square in a city’s outskirts contains an enemy figure. The presence of the enemy figure prevents the use of that square by the city it is part of the outskirts of.
 
-An army figure that enters a square containing a hut
-or village marker must immediately end its movement and is
-considered to be exploring the hut or village.
+Any figure can blockade an enemy square by moving onto it and occupying it.
 
-Killing a lone enemy scout definitely gives you loot. I think it also counts as a battle. If
-an army enters a square containing any enemy figures, its
-movement immediately ends. If the square contains only enemy
-scouts, the scouts are immediately killed and the attacking player
-collects loot as though they had won a battle (see page 25).
+### Army Figure
+This figure represents your military power and presence. This is the only figure that can enter squares containing hugs, villages, or enemy figures. This triggers a battle.
 
+### Scout Figure
+This figure exists to further your economy. It cannot enter squares containing huts, villages, or enemy figures. Scouts are killed immediately any time they are attacked by an army, unless they have a friendly army escorting them (this triggers end of battle effects such as loot).
 
-1. Disband an army
-
-1. Disband a scout
-
-Scouts cannot enter a square containing enemy figures.
 
 ## Technology Research Phase
 
@@ -299,8 +280,7 @@ Great Person Card
 * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
 
 Great Person Tile
-1. Either add this great person tile to the outskirts of one of your cities immediately or 
-2. Reserve this tile on your civilization sheet to play later
+1. Either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
 
 ## Combat
 * Default combat unit hand size is 3
