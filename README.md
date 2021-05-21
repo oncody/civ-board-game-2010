@@ -309,19 +309,21 @@ the battle (see pages 23–24)
   * Limited to once per turn
   
 ### Metropolis
-Your capital can be upgraded to a larger metropolis by researching the agriculture tech. Metropolis benefits:
+Your capital can be upgraded to a larger metropolis by researching the agriculture tech. 
+
+Metropolis benefits:
 1. A metropolis has two extra squares in its city outskirts
 1. When harvesting culture, a metropolis produces a base of 2 culture instead of 1
 1. A metropolis receives an extra +2 combat bonus when a player is defending it
 
 To upgrade your capital the following conditions must be met:
-1. The metropolis must contain the square the capital previously occupied
-1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
+1. The metropolis must contain the square the capital occupies
+1. The metropolis's outskirts must contain ten revealed squares and must not overlap with another city’s outskirts
 1. The expansion square must not contain any enemy figures
-1. The expansion square may be a water square. 
+1. The expansion square may be a water square
 1. The expansion square may contain architecture
 
-To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
+To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square contained architecture, then replace that architecture. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
 ## Architecture
 Architecture includes buildings, wonders, and nobles. Architecture cannot be built on a square containing an enemy figure. When building architecture, you can replace existing architecture. If a building is replaced, it is returned to the market. If a wonder is replaced, both the wonder and its card are removed from the game forever. If a noble is replaced, reserve the noble on your civilization to be played later. While a noble is reserved, you cannot use its card.
