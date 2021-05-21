@@ -101,7 +101,7 @@ Requirements:
 
 1. Sacrifice your scout
 1. Move any other friendly figures in this square to a legal adjacent square
-1. Adopt a new social policy
+1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once.
 
 ### Play a reserved great person tile
 Play a reserved great person tile on your civilization sheet into one of your city's outskirts
@@ -194,6 +194,7 @@ Requirements:
 * Cannot be built on top of an enemy figure
 * Each city can only have 1 wonder 
 * Immediately replace the wonder from the market
+* A blockaded wonder tile prevents use of the corresponding wonder card
 
 #### Art Devotion
 * Gain 1 culture
@@ -212,28 +213,31 @@ Harvest a single resource in your city’s outskirts (if the market has a corres
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
-Starting figure travel speed is 2
 
-Starting figure stacking limit is 2
 
-Figures cannot move diagonally
+Requirements:
+* Starting figure travel speed is 2
+* Starting figure stacking limit is 2
+* Figures cannot move diagonally
+* Figures can move through their own city center, but they can only end their movement on it if they wish to sacrifice that figure
+* Figures can end their movement on their own buildings, wonders, and great person tiles
 
+### Blockade
 Any figure can blockade an enemy square by moving onto it and occupying it. A blockaded square cannot be used by its owner in any capacity.
 
-Figures can end their movement on their own buildings, wonders, and great person tiles.
-
-Figures can move through their own city center, but they can only end their movement on it if they wish to sacrifice that figure.
+### Exploration
+Any figure can explore a facedown map tile. Exploring a map tile consumes a point of the figure's movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
 
 ### Army Figure
 This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these (except exploring a hut) causes your army figure to end your movement and immediately triggers a battle.
 
-#### Army Sacrifice
+#### City Fortification
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
 
 ### Scout Figure
 This figure exists to further your economy. It cannot enter squares containing huts, villages, or enemy figures. Scouts are killed immediately any time they are attacked by an army, unless they have a friendly army escorting them (this triggers end of battle effects such as loot).
 
-#### Scout Sacrifice
+#### City Caravan
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan marker on that city center (max of 1 per city). When this city performs a city action that requires production, you may consume this caravan marker to gain an additional 2 production.
 
 ## Technology Research Phase
