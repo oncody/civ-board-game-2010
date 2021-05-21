@@ -130,7 +130,22 @@ Everyone does the following actions at the same time in any order
 ## City Management Phase
 Players take turns doing this phase
 
-At any time during this phase, you may pay to advance on the culture track as many times as you want (See the [Culture](#culture) section)
+At any time during this phase, you may pay to advance on the culture track as many times as you want
+
+### Culture Track Advancement Cost
+
+| Tier | Culture Cost | Trade Cost |
+| --- | --- | --- |
+| Tier 1 | 3 Culture | 0 Trade |
+| Tier 2 | 5 Culture | 3 Trade |
+| Tier 3 | 7 Culture | 6 Trade |
+
+### Culture Track Advancement Benefits
+
+| Square you advance to | Benefit |
+| --- | ---  |
+| Column Icon | Draw a culture event card |
+| Star Icon | Gain a great person |
 
 One at a time, for each of your cities do the following: 
 
@@ -252,21 +267,6 @@ Upgrading a city into a metropolis:
 * If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
 
 ## Culture
-Pay culture tokens and trade to advance on the culture track
-
-| Tier | Culture Cost | Trade Cost |
-| --- | --- | --- |
-| Tier 1 | 3 Culture | 0 Trade |
-| Tier 2 | 5 Culture | 3 Trade |
-| Tier 3 | 7 Culture | 6 Trade |
-
-Advance your culture token on the culture track
-
-| Square you advance to | Benefit |
-| --- | ---  |
-| Column Icon | Draw a culture event card |
-| Star Icon | Gain a great person |
-
 Culture Event Card
 
 * Starting culture event hand size is 2
