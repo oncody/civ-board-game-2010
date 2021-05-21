@@ -134,8 +134,9 @@ You can trade any of the following:
 * Culture event cards
 
 ## City Management Phase
-This phase is done in turns. The first player fully completes this phase before it passes to the next person.
+This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
+### Culture Track Advancement
 At any time during this phase, you may pay to advance on the culture track as many times as you want
 
 ### Culture Track Advancement Cost
@@ -155,49 +156,53 @@ At any time during this phase, you may pay to advance on the culture track as ma
 
 One at a time, for each of your cities do the following: 
 
-Gather Production: Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+### Count Production
+Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
-Perform one of the following city actions:
-1. Build an army figure 
-    * Costs 4 production 
-    * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
+### Perform only one of the following actions:
+#### Produce an army figure
+* Costs 4 production 
+* Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
-1. Build a scout figure
-    * Costs 6 production
-    * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
+#### Produce a scout figure
+* Costs 6 production
+* Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
 
-1. Build a military unit card
+#### Produce a military unit card
    
-    | Tier | Production Cost |
-    | --- | --- |
-    | Tier 1 | 5 production |
-    | Tier 2 | 7 production |
-    | Tier 3 | 9 production |
-    | Tier 4 | 11 production |
+| Tier | Production Cost |
+| --- | --- |
+| Tier 1 | 5 production |
+| Tier 2 | 7 production |
+| Tier 3 | 9 production |
+| Tier 4 | 11 production |
 
-1. Build a building (requires a tech to unlock it)
-    * Cannot be built on top of an enemy figure   
-    * Each city can only have a single building with a star in its outskirts
-    * Building tiles are limited
+#### Build a building
+Requirements:
+* The technology to be unlocked corresponding to this building
+* Cannot be built on top of an enemy figure 
+* Each city can only have a single building with a star in its outskirts
+* Building tiles are limited
     
-1. Build a wonder
-    * Cannot be built on top of an enemy figure
-    * Each city can only have 1 wonder 
-    * Immediately replace the wonder from the market
+#### Build a wonder
+Requirements:
+* Cannot be built on top of an enemy figure
+* Each city can only have 1 wonder 
+* Immediately replace the wonder from the market
 
-1. Devote to the Arts
-    * Gain 1 culture
-    * Gain 1 additional culture if your city is a metropolis
-    * Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure
-        * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+#### Art Devotion
+* Gain 1 culture
+* Gain 1 additional culture if your city is a metropolis
+* Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure
+    * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
-1. Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
+#### Resource Harvest
+Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
     
-1. Start a building program
-    * Place a building program marker on the city
-    * Max 1 building program marker on a city
-    * The next time this city spends production, double the production generated and remove the token
-
+####  Building Program
+* Place a building program marker on the city
+* Max 1 building program marker on a city
+* The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
 * Friendly figures may pass through, but they cannot end their movement in a city center
