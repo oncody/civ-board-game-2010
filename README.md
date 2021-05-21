@@ -88,33 +88,37 @@ Not necessarily have we all agreed on these
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
 
-This phase is done in turns. The new first player performs as many of the following actions as many times as they want in any order. Then it's the next person's turn
+This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
 
-1. Convert a scout to a new city
-    1. Requirements:
-        * Starting city limit is 2
-        * Cannot be built on water
-        * Requires eight adjacent revealed squares
-        * Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
-        * Cannot be adjacent to an enemy figure
-        * Its outskirts must not overlap with any other city’s outskirts
-    1. Sacrifice your scout
-    1. Move any other friendly figures in this square to a legal adjacent square
-    1. Adopt a new social policy
+### Build a city
+Requirements:
+* Starting city limit is 2
+* Cannot be built on water
+* Requires eight adjacent revealed squares
+* Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
+* Cannot be adjacent to an enemy figure
+* Its outskirts must not overlap with any other city’s outskirts
 
-2. Play a great person tile from your reserve
-   
-3. Change government
-    1. Either Change to a government you unlocked last turn or
-    1. Change to anarchy for a turn (on your next turn you can change to any government) or
-    1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
+1. Sacrifice your scout
+1. Move any other friendly figures in this square to a legal adjacent square
+1. Adopt a new social policy
 
-4. Invest a coin (if playing with this optional rule)
-    1. Requirements:
-        * Can only invest coin tokens
-        * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
-    1. Lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition
-    1. Place an investment marker on an investment card. Investments cannot be discarded from play by other players
+### Play a reserved great person tile
+Play a reserved great person tile on your civilization sheet into one of your city's outskirts
+
+### Change government
+Change your government in one of the following ways:
+1. Change to a government you unlocked last turn
+1. Change to anarchy for a turn (on your next turn you can change to any government)
+1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
+
+### Invest a coin (if playing with this optional rule)
+Requirements:
+* Can only invest coin tokens
+* Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+
+1. Lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition
+1. Place an investment marker on an investment card. Investments cannot be removed by other players
 
 ## Trade Phase
 Everyone does the following actions at the same time in any order
@@ -128,7 +132,7 @@ Everyone does the following actions at the same time in any order
     * Culture event cards
 
 ## City Management Phase
-Players take turns doing this phase
+This phase is done in turns. The first player fully completes this phase before it passes to the next person.
 
 At any time during this phase, you may pay to advance on the culture track as many times as you want
 
@@ -149,8 +153,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 
 One at a time, for each of your cities do the following: 
 
-Gather Production:
-Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+Gather Production: Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
 Perform one of the following city actions:
 1. Build an army figure 
