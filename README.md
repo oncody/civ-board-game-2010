@@ -88,36 +88,36 @@ Not necessarily have we all agreed on these
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game)
 
-One at a time, each player can do as many of these actions as they want in any order
+This phase is done in turns. The new first player performs as many of the following actions as many times as they want in any order. Then it's the next person's turn
 
 1. Convert a scout to a new city
-    * Starting city limit is 2
-    * Cannot build a city on water
-    * There must be eight revealed squares around it
-    * Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
-    * Cannot be adjacent to an enemy figure
-    * Its outskirts must not overlap with any other city’s outskirts
-    * Sacrifice your scout
-    * Move any other friendly figures in this square to a legal adjacent square
-    * Adopt a new social policy
+    1. Requirements:
+        * Starting city limit is 2
+        * Cannot be built on water
+        * Requires eight adjacent revealed squares
+        * Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
+        * Cannot be adjacent to an enemy figure
+        * Its outskirts must not overlap with any other city’s outskirts
+    1. Sacrifice your scout
+    1. Move any other friendly figures in this square to a legal adjacent square
+    1. Adopt a new social policy
 
 2. Play a great person tile from your reserve
    
 3. Change government
-    * Change to a government you unlocked last turn
-    * Change to anarchy for a turn (on your next turn you can change to any government)
-    * Change to any government you have unlocked (requires you to have been in anarchy for a turn)
+    1. Either Change to a government you unlocked last turn or
+    1. Change to anarchy for a turn (on your next turn you can change to any government) or
+    1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 
 4. Invest a coin (if playing with this optional rule)
-    * Can only invest coin tokens
-    * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
-    * Lower your economy coin dial by 1
-    * This coin no longer counts towards your 15 coin victory condition
-    * Gain an investment marker
-    * Investments cannot be discarded from play by other players
+    1. Requirements:
+        * Can only invest coin tokens
+        * Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+    1. Lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition
+    1. Place an investment marker on an investment card. Investments cannot be discarded from play by other players
 
 ## Trade Phase
-Everyone should do this phase at the same time
+Everyone does the following actions at the same time in any order
 
 1. Gather Trade: Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
    
