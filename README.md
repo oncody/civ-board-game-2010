@@ -342,14 +342,14 @@ When a battle commences, both players shuffle and draw unit cards equal to their
 | Each additional friendly army | +2 |
 | Defending a city center | +3 |
 
-The attacker typically has the advantage as they are catching the defenders off guard. The defender takes their turn first, except if they are defending a walled city (in which case the attacker takes their turn first). Combat consists of player 
-Your turn in a battle is Ability > Card > Ability.
-Battle Turns
-During the “Engaging in Battle” step of combat, players alternate taking battle turns, starting with the defender. Only the player currently taking his battle turn can use abilities (such as those found on tech cards or culture cards) or play units. A player’s battle turn consists of:
-1. Opportunity to use an ability
-2. Play a unit
-3. Opportunity to use an ability
-4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
+The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time. A turn consists of using an ability, playing a unit, using an ability. When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. When you play a unit, you can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many damage tokens on it. If a unit ever has damage tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
+
+### Unit Counter Table
+| Unit | Unit that it counters |
+| --- | --- |
+| Infantry | Cavalry |
+| Cavalry | Artillery |
+| Artillery | Infantry |
 
 When an army figure moves into a square containing a village token, an enemy army figure, or an enemy city, a battle takes place.
 
