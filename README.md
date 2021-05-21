@@ -36,13 +36,11 @@
 [Movement Phase](#movement-phase)
 * [Blockade](#movement-phase)
 * [Exploration](#exploration)
-* [Armies](#armies)
 * [Huts](#huts)
 * [Villages](#villages)
 * [Undefended Scouts](#undefended-scouts)
 * [Initiating Combat](#initiating-combat)
 * [Fortify City](#fortify-city)
-* [Scouts](#scouts)
 * [Caravans](#caravans)
 
 [Technology Phase](#technology-phase)
@@ -245,17 +243,14 @@ Any figure can blockade an enemy square by moving onto a square containing an en
 ### Exploration
 Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
 
-| Thing | Army | Scout |
+| Ability | Army | Scout |
 | --- | --- | --- |
 | Represents | Military | Economy |
-| Can enter huts | Military | Economy |
-| Can enter villages | Military | Economy |
-| Can enter enemy figures | Military | Economy |
-| Can enter enemy buildings, wonders, and nobles | Military | Economy |
-| Can enter enemy buildings, wonders, and nobles | Military | Economy |
-
-### Armies
-This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy figures, and enemy units. Doing any of these causes your army figure to end your movement. 
+| Can send resources home | No | Yes |
+| Can construct cities | No | Yes |
+| Can explore huts and villages | Yes | No |
+| Can blockade architecture | Yes | Yes |
+| Can attack enemy figures and cities | Yes | No |
 
 #### Huts
 If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
@@ -270,10 +265,10 @@ If an army figure enters a square containing only enemy scouts, it ends its move
 If an army figure enters a square containing an enemy figure or enemy city, it ends its movement and engages in a battle with that player. If that square only contained enemy scouts, see the Massacre Scout above.
 
 #### Fortify City
-Have an army figure end its movement in a city center and then remove it from the board. Add a fortification tile on that city center (may of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
+If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scouts
-This figure exists to further your economy. It can create new cities (at the start of the turn) and send resources on the square it's occupying home to a friendly city. It cannot enter squares containing huts, villages, enemy figures, or enemy cities (but can enter squares containing enemy buildings, wonders, and nobles). When scouts are blockading a building, wonder, or noble, they can send home any resources printed on that building.
+When scouts are blockading a building, wonder, or noble, they can send home any resources printed on that building.
 
 Resources a scout can send home:
 1. Resources (Wheat, Silk, Incense, Iron)
@@ -283,7 +278,7 @@ Resources a scout can send home:
 1. Culture
 
 #### Caravans
-Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
+If a scout figure ends its movement in a friendly city center, then remove it from the board to add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
 ## Technology Phase
 This phase is done in secret by all players at the same time. Each player can learn up to one technology if they wish.
