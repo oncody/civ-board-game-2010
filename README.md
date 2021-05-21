@@ -51,8 +51,8 @@
 
 [Combat](#combat)
 * [Combat Hand Size](#combat-hand-size)
-* [Single-loot Effects](#single-loot-effects)
-* [Double-loot Effects](#double-loot-effects)
+* [Minor Loot](#minor-loot)
+* [Major Loot](#major-loot)
 
 [Appendix](#appendix)
 
@@ -342,15 +342,6 @@ When a battle commences, both players shuffle and draw unit cards equal to their
 | Each additional friendly army | +2 |
 | Defending a city center | +3 |
 
-The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time until both players have played all of their units and are done using abilities.
-
-Combat Turn:
-1. Use an ability
-1. Play a unit in a front
-1. Use an ability
-
-When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many damage tokens on it. If a unit ever has damage tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
-
 ### Unit Counter Table
 | Unit | Unit that it counters |
 | --- | --- |
@@ -358,13 +349,8 @@ When you play a unit, you play it in a front. You cannot play a unit in a front 
 | Cavalry | Artillery |
 | Artillery | Infantry |
 
-When an army figure moves into a square containing a village token, an enemy army figure, or an enemy city, a battle takes place.
-
-* Finite resource
-  This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
-
 ### Combat Bonuses
-Architecture that is blockaded does not generate combat bonuses.
+Architecture that is blockaded does not generate combat bonuses
 
 | Ability | Combat Bonus |
 | --- | --- |
@@ -376,25 +362,45 @@ Architecture that is blockaded does not generate combat bonuses.
 | Capital city defense  | 12 |
 | Metropolis capital city defense  | 2 |
 
-All wounds go away at the end of the battle.
+### Combat Turn
+1. Use an ability
+1. Play a unit in a front
+1. Use an ability
 
- Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
+### Combat Loot
 
-If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
+| Loser | Reward |
+| --- | --- |
+| Only figures (not defending a city) | Minor Loot |
+| Defending non-capital city | Major Loot |
+The winner immediately spends the loot they received to purchase items from the table below. A winner receiving more than one loot may purchase as many effects as they can afford, and they may purchase the same effect multiple times. For instance, a player receiving 2 loot could purchase a 2-loot effect, two different 1-loot effects, or the same 1-loot effect twice.
 
-### Single-Loot Effects
+### Minor Loot
 Choose one of the following:
 1. Steal up to three points of trade from the loser’s trade dial
 1. Steal up to three culture tokens from the loser
 1. Steal any one resource token from the loser (facedown hut and village tokens may be chosen, but the winner does not get to see what they are before choosing)
 1. Force the loser to discard a coin token of the winner’s choice. This cannot affect investments.
 
-### Double-Loot Effects
+### Major Loot
 Choose one of the following:
 1. 2 single-loot effects (the same or different)
 1. Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
 1. Steal one of the loser’s culture cards. The winner only gets to look at the card backs when choosing.
 1. Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
+
+
+The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time until both players have played all of their units and are done using abilities.
+
+When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many wound tokens on it. If a unit ever has wound tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
+
+Once battle is done, each player calculates his combat score. To calculate your combat score, add the health value of all your surviving units and subtract it by the total number of wound tokens on your units. Then calculate your combat bonus below. Add your combat score to your combat bonus. Whichever player has the higher value wins that combat, with defender winning ties.
+
+After a battle is done, remove all wound tokens from units and return any units that survived to their owner hands. The loser loses all of their figures that took place in that battle. If the loser was defending a city, the city is destroyed along with all architecture in its outskirts. If the loser was defending their capital, the winner wins the game via a combat victory. For every two units the winner lost in battle, the winner loses one of their army figures (but never loses their last army unit).
+
+
+
+
 
 
 ## Appendix:
