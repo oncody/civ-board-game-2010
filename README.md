@@ -225,7 +225,7 @@ Figures can end their movement on their own buildings, wonders, and great person
 Figures can move through their own city center, but they can only end their movement on it if they wish to sacrifice that figure.
 
 ### Army Figure
-This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these causes your army figure to end your movement and immediately triggers a battle.
+This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these (except exploring a hut) causes your army figure to end your movement and immediately triggers a battle.
 
 #### Army Sacrifice
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
