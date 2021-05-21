@@ -283,10 +283,7 @@ To build a metropolis, remove your capital and replace it with a metropolis. If 
 
 ## Culture
 ### Culture Event Card
-* Starting hand size is 2
-* If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
-* Culture event cards are kept secret from other players until you play them
-* Culture event cards say at the top of the card which phase you can play these cards in
+When you advance on the culture track, you will often gain culture event cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture event card
   
 ### Great Person
 If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile. Otherwise, just draw a random great person tile
