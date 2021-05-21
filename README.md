@@ -42,6 +42,8 @@
 * [Villages](#villages)
 
 [Technology Phase](#technology-phase)
+* [Technology Cost](#technology-cost)
+* [Technology Pyramid](#technology-pyramid)
 
 [Architecture](#architecture)
 
@@ -66,10 +68,10 @@ Civilization is a turn-based strategy game where you play a civilization and bal
 ## Victory Conditions
 The first player to achieve one of these four victory conditions wins the game:
 
-1. Military Victory - Defeat an enemy capital in battle
+1. Military Victory - Conquer an enemy capital in battle
 1. Culture Victory - Advance to the end of the culture track
-1. Technology Victory - Research a level 5 technology card
 1. Economic Victory - Reach 15 coins
+1. Technology Victory - Research a tier 5 technology
 
 ## Game Setup
 1. Agree on optional rules
@@ -144,7 +146,7 @@ Change your government in one of the following ways:
 ### Investments
 Requirements:
 1. Can only invest coin tokens
-1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+1. Can not invest coins printed on the map, printed on technologies, or printed on buildings
 
 To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment token on an investment card. Investments cannot be removed by other players
 
@@ -209,7 +211,7 @@ Determine which military card you want to recruit. Pay the cost corresponding to
 | Rank 4 | 11 production |
 
 #### Recruit Aircraft
-This requires you to have the flight tech card unlocked. An aircraft costs 12 production. Add an aircraft card to your military hand.
+This requires you to have the flight technology unlocked. An aircraft costs 12 production. Add an aircraft card to your military hand.
 
 #### Construct Building
 A building is a type of architecture that you can purchase from the market. It can increase your trade, production, culture, coins, and military bonuses. Every building requires a specific technology to be researched to unlock it. Each city can only have a single building with a star in its outskirts. Architecture cannot be built on a square containing an enemy figure.
@@ -287,26 +289,29 @@ If an army enters a square containing a hut, it ends its movement. Then remove a
 If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
 
 ## Technology Phase
-This phase is done in secret by all players at the same time. Each player can learn up to one technology if they wish.
+This phase is done in secret by all players at the same time. Each player can research a single technology if they wish. To research a technology, a player needs to have enough trade available to pay for it. 
 
-To purchase a technology a player needs to have enough trade available to pay for it.
+### Technology Cost
+| Technology Tier | Trade Cost |
+| --- | --- |
+| Tier 1 | 6 trade |
+| Tier 2 | 11 trade |
+| Tier 3 | 16 trade |
+| Tier 4 | 21 trade |
+| Tier 5 | 26 trade |
 
-Technology Cost
- 
+Additionally, to research a technology you need to have a slot available for it in your tech pyramid.
+
+### Technology Pyramid
+Technologies are stored in a pyramid with tier 1 technologies being placed in the base of the pyramid. You can always purchase a tier 1 technology and add it to your base (tier 1 technologies can only be placed in the first row). Tier 2 technologies need to be placed above two tier 1 technologies and must be placed in the second row. Tier 3 technologies need to be placed above two tier 2 technologies and must be placed in the third row. Tier 4 technologies need to be placed above two tier 3 technologies and must be placed in the fourth row. Tier 5 technologies need to be placed above two tier 4 technologies and must be placed in the fifth row.
+
+You can research technology that unlocks upgraded buildings even if you don't know the basic form of that building. You can skip military upgrades as well. You can upgrade a military unit from tier 1 to tier 4 if you want. Once you research a technology, lower your trade to the number of coins you have (investments do not count as coins). If you had more coins than trade, then your trade remains the same (you can never gain trade from this). Add the technology to your tech pyramid.  When a player learns a tech unlocking an upgraded building, they immediately upgrade any of the corresponding basic buildings that they’ve already constructed in their cities. When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology.
+
+Resource abilities on technologies can only be used once per turn.
+
 Errata:
 The Metal Casting technology card should not have a coin icon.
 The Railroad technology card should have a coin icon printed on it.
-
-When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology. 
-
-City Walls are an excellent defensive measure for a player to
-build when it appears that one of their cities is in danger of being
-attacked. A wall provides +4 to a player’s strength total when
-defending that city and forces the attacker to play a unit first in
-the battle (see pages 23–24)
-
-* Technology card resource abilities
-  * Limited to once per turn
   
 ### Metropolis
 Your capital can be upgraded to a larger metropolis by researching the agriculture tech. 
