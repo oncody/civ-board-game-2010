@@ -195,6 +195,8 @@ Requirements:
 * Each city can only have 1 wonder 
 * Immediately replace the wonder from the market
 * A blockaded wonder tile prevents use of the corresponding wonder card
+* An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
+* When a wonder tile is destroyed, remove the corresponding wonder card
 
 #### Art Devotion
 * Gain 1 culture
@@ -286,8 +288,7 @@ Upgrading a city into a metropolis:
 * Culture event cards say at the top of the card which phase you can play these cards in
   
 ### Great Person
-1. If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile
-1. Otherwise, just draw a random great person tile
+If you are playing with the optional great person deck, then draw a great person card and then a matching great person tile. Otherwise, just draw a random great person tile
 
 #### Great Person Card
 * Great person cards are kept secret from other players until you play them
@@ -295,16 +296,16 @@ Upgrading a city into a metropolis:
 * A player cannot use a great person’s ability unless they have at least one great person marker of that great person’s type on the map and not blockaded by an enemy unit
 
 #### Great Person Tile
-1. Either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
+When you gain a great person tile, either immediately add this to the outskirts of one of your cities that is not occupied by an enemy figure or reserve this tile on your civilization sheet to play later.
+
+When a great person tile is killed, the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person tile of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ## Combat
-* Default combat unit hand size is 3
+Default combat unit hand size is 3
 * +2 for each friendly army figure in the square beyond the first
-* +1 if governed by Fundamentalism
 * +3 if defending a city or capital
+* +1 if governed by Fundamentalism
 
-slaughtering scouts generates loot and I think counts as a battle
-All wounds go away at the end of the battle.
 The defender plays first, except if defending a city with wall.
 Your turn in a battle is Ability > Card > Ability.
 The battle ends after 2 subsequent turns where no player play neither a card neither an ability
@@ -330,6 +331,9 @@ Combat Bonuses
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
 ## Post-combat
+
+All wounds go away at the end of the battle.
+
 After both players have played all of their battle forces, the battle is over. First, all wounds are removed from the surviving units in the battle. Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
 
 If the loser had one or more figures in the square: The winner gains 1 loot. If the loser was defending one of their non-capital cities: The winner gains 2 loot. If the loser was defending their capital city: The winner immediately wins the game with a military victory.
@@ -348,11 +352,7 @@ Each time a civilization’s social policy maximum decreases, its player chooses
 * Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
 * Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
 
-. If it is a wonder, the wonder marker and card are
-returned to the box and may not be rebuilt for the remainder of
-the game.
 
-When a great person marker is killed (normally by a culture event or the destruction of a city), the player must check to see whether they now have too many great person cards of that type. A player may only have one great person card for each great person marker of that type they possess (including markers on the map and those held in reserve), regardless of whether the cards are faceup or facedown. Thus, a player with two artist great person markers may have no more than two great artist cards total. If a player has too many of the same type of great person card, they must randomly discard cards of that type (one at a time) until they no longer have too many.
 
 ## Appendix:
 [Rulebook](https://images-cdn.fantasyflightgames.com/ffg_content/civilization/support/civilization-rules.pdf)
