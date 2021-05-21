@@ -23,31 +23,27 @@
 * [Culture Track](#culture-track)
 * [Harvest Production](#harvest-production)
 * [Rush Production](#rush-production)
+* [Store Production](#store-production)
 * [Deploy Army](#deploy-army)
 * [Deploy Scout](#deploy-scout)
 * [Recruit Military](#recruit-military)
 * [Recruit Aircraft](#recruit-aircraft)
+* [Construct Building](#construct-building)
 * [Construct Wonder](#construct-wonder)
 * [Harvest Culture](#harvest-culture)
 * [Harvest Resource](#harvest-resource)
 
-[Store Production](#building-program)
-
 [Movement Phase](#movement-phase)
-
-[Blockade](#movement-phase)
-
-[Exploration](#exploration)
-
-[Armies](#armies)
-
-[Huts](#huts)
-
-[Villages](#villages)
-
-[Undefended Scouts](#undefended-scouts)
-
-[Combat](#combat)
+* [Blockade](#movement-phase)
+* [Exploration](#exploration)
+* [Armies](#armies)
+* [Huts](#huts)
+* [Villages](#villages)
+* [Undefended Scouts](#undefended-scouts)
+* [Initiating Combat](#initiating-combat)
+* [Fortify City](#fortify-city)
+* [Scouts](#scouts)
+* [Caravans](#caravans)
 
 [Technology Research Phase](#technology-research-phase)
 
@@ -187,6 +183,9 @@ Add together the number of production icons in your city's outskirts that are no
 If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
 
 ### Perform only one of the following actions:
+#### Store Production
+Place a building program tile on the city (max 1 building program tile per city). The next time this city spends production, double the production generated and remove the token
+
 #### Deploy Army
 Costs 4 production. Limited to 6 army figures. Place an army figure in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
@@ -233,9 +232,6 @@ Harvest a single market resource in your city’s outskirts (if the market has a
 1. Silk
 1. Incense
 1. Iron
-    
-#### Store Production
-Place a building program tile on the city (max 1 building program tile per city). The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person. One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
@@ -274,7 +270,7 @@ Have an army figure end its movement in a city center and then remove it from th
 ### Scouts
 This figure exists to further your economy. It can create new cities (at the start of the turn) and it can send all income on the square beneath it home to a friendly cit. It cannot enter squares containing huts, villages, or enemy figures. 
 
-#### Caravan
+#### Caravans
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
 ## Technology Research Phase
