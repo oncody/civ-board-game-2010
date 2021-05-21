@@ -87,22 +87,18 @@ Not necessarily have we all agreed on these
 | Learn tech 1 for free | OP |
 
 ## Start of Turn Phase
-Advance first player token (skip this the first turn of the game)
-
-This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
+Advance first player token (skip this the first turn of the game). This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
 
 ### Build a city
 Requirements:
-* Starting city limit is 2
-* Cannot be built on water
-* Requires eight adjacent revealed squares
-* Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
-* Cannot be adjacent to an enemy figure
-* Its outskirts must not overlap with any other city’s outskirts
+1. Starting city limit is 2
+1. Cannot be built on water
+1. Requires eight adjacent revealed squares
+1. Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
+1. Cannot be adjacent to an enemy figure
+1. Its outskirts must not overlap with any other city’s outskirts
 
-1. Sacrifice your scout
-1. Move any other friendly figures in this square to a legal adjacent square
-1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
+To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
 
 ### Play a reserved great person tile
 Play a reserved great person tile on your civilization sheet into one of your city's outskirts
@@ -115,11 +111,10 @@ Change your government in one of the following ways:
 
 ### Invest a coin (if playing with this optional rule)
 Requirements:
-* Can only invest coin tokens
-* Can not invest coins printed on the map, printed on tech cards, or printed on buildings
+1. Can only invest coin tokens
+1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
 
-1. Lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition
-1. Place an investment marker on an investment card. Investments cannot be removed by other players
+To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment marker on an investment card. Investments cannot be removed by other players
 
 ## Trade Phase
 Everyone does the following actions at the same time in any order
@@ -129,10 +124,10 @@ Add together the number of trade icons in all of your cities' outskirts that are
    
 ### Trade with other players
 You can trade any of the following:
-* Points of trade
-* Culture tokens
-* Resource tokens
-* Culture event cards
+1. Points of trade
+1. Culture tokens
+1. Resource tokens
+1. Culture event cards
 
 ## City Management Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
@@ -164,54 +159,52 @@ Add together the number of production icons in your city's outskirts that are no
 If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
 
 ### Perform only one of the following actions:
-#### Produce an army figure
-* Costs 4 production
-* Limited to 6 army figures
-* Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
+#### Deploy an army figure
+Costs 4 production. Limited to 6 army figures. Place an army figure in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
-#### Produce a scout figure
-* Costs 6 production
-* Limited to 2 scout figures
-* Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
+#### Deploy a scout figure
+Costs 6 production. Limited to 2 scout figures. Place a scout figure in a legal square in your city's outskirts where you built this unit
 
-#### Produce a military unit card
-   
-| Tier | Production Cost |
+#### Recruit an artillery, infantry, or mounted military unit card
+Determine which type of military unit card you want to recruit. Pay the cost corresponding to what rank you are for that unit. Then add that military unit card to your military unit hand.
+
+| Rank | Production Cost |
 | --- | --- |
-| Tier 1 | 5 production |
-| Tier 2 | 7 production |
-| Tier 3 | 9 production |
-| Tier 4 | 11 production |
+| Rank 1 | 5 production |
+| Rank 2 | 7 production |
+| Rank 3 | 9 production |
+| Rank | 11 production |
+
+#### Recruit an aircraft military unit card
+This requires you to have the tech card flight unlocked. An aircraft unit costs 12 production. Add an aircraft military unit card to your military unit hand.
 
 #### Build a building
 Requirements:
-* The technology to be unlocked corresponding to this building
-* Cannot be built on top of an enemy figure 
-* Each city can only have a single building with a star in its outskirts
-* Building tiles are limited
+1. The technology to be unlocked corresponding to this building
+1. Cannot be built on top of an enemy figure 
+1. Each city can only have a single building with a star in its outskirts
+1. Building tiles are limited
+
+Place this building in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card.
     
 #### Build a wonder
 Requirements:
-* Cannot be built on top of an enemy figure
-* Each city can only have 1 wonder 
-* Immediately replace the wonder from the market
-* A blockaded wonder tile prevents use of the corresponding wonder card
-* An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
-* When a wonder tile is destroyed, remove the corresponding wonder card
+1. Cannot be built on top of an enemy figure
+1. Each city can only have 1 wonder 
+1. A blockaded wonder tile prevents use of the corresponding wonder card
+1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
+1. When a wonder tile is destroyed, remove the corresponding wonder card
+
+Place this wonder in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card. Replace the wonder from the market.
 
 #### Art Devotion
-* Gain 1 culture
-* Gain 1 additional culture if your city is a metropolis
-* Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure
-    * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+When you devote a city ot the arts, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
 #### Resource Harvest
 Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
     
 ####  Building Program
-* Place a building program marker on the city
-* Max 1 building program marker on a city
-* The next time this city spends production, double the production generated and remove the token
+Place a building program marker on the city (max 1 building program marker per city). The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
@@ -267,6 +260,8 @@ the battle (see pages 23–24)
   * Limited to once per turn
   
 ### Metropolis
+You capital can be upgraded to a larger metropolis by researching the agriculture tech. To upgrade your capital the following conditions must be met:
+
 * When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
 * A metropolis receives an extra +2 combat bonus when a player is defending it
 * A metropolis may extend partially into water and doesn’t count as water for movement, so its owner can use it as a makeshift bridge.
