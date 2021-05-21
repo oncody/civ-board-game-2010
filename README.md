@@ -123,13 +123,15 @@ Requirements:
 ## Trade Phase
 Everyone does the following actions at the same time in any order
 
-1. Gather Trade: Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
+### Gather Trade
+Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
    
-1. Trade with other players
-    * Points of trade
-    * Culture tokens
-    * Resource tokens
-    * Culture event cards
+### Trade with other players
+You can trade any of the following:
+* Points of trade
+* Culture tokens
+* Resource tokens
+* Culture event cards
 
 ## City Management Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person.
