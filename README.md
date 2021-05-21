@@ -55,7 +55,7 @@
 [Combat](#combat)
 * [Combat Hand Size](#combat-hand-size)
 * [Combat Turn](#combat-turn)
-* [Unit Counter Table](#unit-counter-table)
+* [Unit Counters](#unit-counters)
 * [Combat Bonuses](#combat-bonuses)
 * [Combat Loot](#combat-loot)
 * [Minor Loot](#minor-loot)
@@ -363,7 +363,7 @@ The attacker typically has the advantage as they are catching the defenders off 
 
 When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many wound tokens on it. If a unit ever has wound tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
 
-### Unit Counter Table
+### Unit Counters
 | Unit | Unit that it counters |
 | --- | --- |
 | Infantry | Cavalry |
