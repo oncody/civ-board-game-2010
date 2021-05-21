@@ -54,6 +54,8 @@
 [Combat](#combat)
 
 [Post-combat](#post-combat)
+* [Single-loot Effects](#single-loot-effects)
+* [Double-loot Effects](#double-loot-effects)
 
 [Appendix](#appendix)
 
@@ -175,7 +177,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 
 | Square you advance to | Benefit |
 | --- | ---  |
-| Column Icon | Draw a culture event card |
+| Column Icon | Draw a culture card |
 | Star Icon | Gain a noble |
 
 One at a time, for each of your cities do the following: 
@@ -378,7 +380,7 @@ Choose one of the following:
 Choose one of the following:
 1. 2 single-loot effects (the same or different)
 1. Learn one of the loser’s known techs that the winner does not know, without having to pay the trade cost. The winner must have a legal spot in their tech pyramid to do so.
-1. Steal one of the loser’s culture event cards. The winner only gets to look at the card backs when choosing.
+1. Steal one of the loser’s culture cards. The winner only gets to look at the card backs when choosing.
 1. Steal one of the loser’s coin tokens and place it on the winner’s civilization sheet. This cannot affect investments.
 
 
