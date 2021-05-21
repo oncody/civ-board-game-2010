@@ -136,10 +136,10 @@ You can trade any of the following:
 ## City Management Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
-### Culture Track Advancement
+### Culture Track
 At any time during this phase, you may pay to advance on the culture track as many times as you want
 
-### Culture Track Advancement Cost
+#### Culture Track Advancement Cost
 
 | Tier | Culture Cost | Trade Cost |
 | --- | --- | --- |
@@ -147,7 +147,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 | Tier 2 | 5 Culture | 3 Trade |
 | Tier 3 | 7 Culture | 6 Trade |
 
-### Culture Track Advancement Benefits
+#### Culture Track Advancement Benefits
 
 | Square you advance to | Benefit |
 | --- | ---  |
@@ -157,7 +157,10 @@ At any time during this phase, you may pay to advance on the culture track as ma
 One at a time, for each of your cities do the following: 
 
 ### Count Production
-Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though).
+
+#### Rush Production
+If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
 
 ### Perform only one of the following actions:
 #### Produce an army figure
