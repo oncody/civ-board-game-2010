@@ -207,25 +207,31 @@ Harvest a single resource in your city’s outskirts (if the market has a corres
 Place a building program marker on the city (max 1 building program marker per city). The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
-This phase is done in turns. The first player fully completes this phase before it passes to the next person
-
-One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
+This phase is done in turns. The first player fully completes this phase before it passes to the next person. One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
 
 Requirements:
-* Starting figure travel speed is 2
-* Starting figure stacking limit is 2
-* Figures cannot move diagonally
-* Figures can move through their own city center, but they can only end their movement on it if they wish to sacrifice that figure
-* Figures can end their movement on their own buildings, wonders, and great person tiles
+1. Starting figure travel speed is 2
+1. Starting figure stacking limit is 2
+1. Figures cannot move diagonally
+1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure
+1. Figures can end their movement on friendly buildings, wonders, and great person tiles
 
 ### Blockade
 Any figure can blockade an enemy square by moving onto it and occupying it. A blockaded square cannot be used by its owner in any capacity.
 
 ### Exploration
-Any figure can explore a facedown map tile. Exploring a map tile consumes a point of the figure's movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
+Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
 
 ### Army Figure
-This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these (except exploring a hut) causes your army figure to end your movement and immediately triggers a battle.
+This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these causes your army figure to end your movement. 
+
+#### Explore Hut
+If an army figure ends their movement in a square containing a hut, remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
+
+#### Village Pillage
+If an army figure ends their movement in a square containing a village, then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. 
+
+, enemy cities, and enemy figures immediately triggers a battle.
 
 #### City Fortification
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
