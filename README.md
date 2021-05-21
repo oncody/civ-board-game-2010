@@ -2,50 +2,52 @@
 
 ## Index
 [Game Overview](#game-overview)
-
-[Victory Conditions](#victory-conditions)
+* [Victory Conditions](#victory-conditions)
 
 [Game Setup](#game-setup)
-
-[Player Setup](#player-setup)
-
-[Optional Rules](#optional-rules)
-
-[House Rules](#house-rules)
+* [Player Setup](#player-setup)
+* [Optional Rules](#optional-rules)
+* [House Rules](#house-rules)
 
 [Start of Turn Phase](#start-of-turn-phase)
-
-[Build City](#build-city)
-
-[Play Noble](#play-noble)
-
-[Change Government](#change-government)
-
-[Invest](#invest)
+* [Construct City](#construct-city)
+* [Play Noble](#play-noble)
+* [Change Government](#change-government)
+* [Investments](#investments)
 
 [Trade Phase](#trade-phase)
-
-[Gather Trade](#gather-trade)
-
-[Trade](#trade)
+* [Harvest Trade](#harvest-trade)
+* [Trade Resources](#trade-resources)
 
 [City Management Phase](#city-management-phase)
+* [Culture Track](#culture-track)
+* [Harvest Production](#harvest-production)
+* [Rush Production](#rush-production)
+* [Deploy Army](#deploy-army)
+* [Deploy Scout](#deploy-scout)
+* [Recruit Military](#recruit-military)
+* [Recruit Aircraft](#recruit-aircraft)
+* [Construct Wonder](#construct-wonder)
+* [Harvest Culture](#harvest-culture)
+* [Harvest Resource](#harvest-resource)
 
-[Culture Track](#culture-track)
+[Store Production](#building-program)
 
-[Count Production](#count-production)
+[Movement Phase](#movement-phase)
 
-[Rush Production](#rush-production)
+[Blockade](#movement-phase)
 
-[Deploy Army](#deploy-army)
+[Exploration](#exploration)
 
-[Deploy Scout](#deploy-scout)
+[Armies](#armies)
 
-[Recruit Military](#recruit-military)
+[Huts](#huts)
 
-[Recruit Aircraft](#recruit-aircraft)
+[Villages](#villages)
 
-[Construct Wonder](#construct-wonder)
+[Undefended Scouts](#undefended-scouts)
+
+[Combat](#combat)
 
 [Technology Research Phase](#technology-research-phase)
 
@@ -118,7 +120,7 @@ Not necessarily have we all agreed on these
 ## Start of Turn Phase
 Advance first player token (skip this the first turn of the game). This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
 
-### Build City
+### Construct City
 Requirements:
 1. Starting city limit is 2
 1. Cannot be built on water
@@ -135,7 +137,7 @@ Change your government in one of the following ways:
 1. Change to anarchy for a turn (on your next turn you can change to any government)
 1. Change to any government you have unlocked (requires you to have been in anarchy for a turn)
 
-### Invest
+### Investments
 Requirements:
 1. Can only invest coin tokens
 1. Can not invest coins printed on the map, printed on tech cards, or printed on buildings
@@ -145,15 +147,15 @@ To invest a coin, lower your economy coin dial by 1. This coin no longer counts 
 ## Trade Phase
 Everyone does the following actions at the same time in any order
 
-### Gather Trade
+### Harvest Trade
 Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
    
-### Trade
-You can trade and make non-binding promises with other players. You can trade any of the following with other players:
-1. Points of trade
-1. Culture tokens
+### Trade Resources
+You can trade and make non-binding promises with other players. You can trade any of the following resources with other players:
+1. Trade Points
 1. Resource tokens
-1. Culture event cards
+1. Culture tokens
+1. Culture cards
 
 ## City Management Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
@@ -178,7 +180,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 
 One at a time, for each of your cities do the following: 
 
-### Count Production
+### Harvest Production
 Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though).
 
 #### Rush Production
@@ -222,13 +224,17 @@ Place this wonder in your city's outskirts. You may replace an existing building
 1. An obsoleted wonder removes the corresponding wonder card but leaves the wonder tile
 1. When a wonder tile is destroyed, remove the corresponding wonder card
 
-#### Art Devotion
-When you devote a city ot the arts, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+#### Harvest Culture
+When you harvest culture, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
-#### Resource Harvest
-Harvest a single resource in your city’s outskirts (if the market has a corresponding token available)
+#### Harvest Resource
+Harvest a single market resource in your city’s outskirts (if the market has a corresponding token available). Market resources include:
+1. Wheat
+1. Silk
+1. Incense
+1. Iron
     
-####  Building Program
+#### Store Production
 Place a building program tile on the city (max 1 building program tile per city). The next time this city spends production, double the production generated and remove the token
 
 ## Movement Phase
@@ -247,28 +253,28 @@ Any figure can blockade an enemy square by moving onto it and occupying it. A bl
 ### Exploration
 Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
 
-### Army Figure
+### Armies
 This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy figures, and enemy units. Doing any of these causes your army figure to end your movement. 
 
-#### Explore Hut
+#### Huts
 If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
 
-#### Pillage Village
+#### Villages
 If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
 
-#### Massacre Scout
+#### Undefended Scouts
 If an army figure enters a square containing only enemy scouts, it ends its movement. All of the defending scouts are killed and loot and other end-of-battle rewards are rewarded to the attacking player.
 
-#### Commence Combat
+#### Initiating Combat
 If an army figure enters a square containing an enemy figure or enemy city, it ends its movement and engages in a battle with that player. If that square only contained enemy scouts, see the Massacre Scout above.
 
-#### City Fortification
+#### Fortify City
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification tile on that city center (may of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
-### Scout Figure
+### Scouts
 This figure exists to further your economy. It can create new cities (at the start of the turn) and it can send all income on the square beneath it home to a friendly cit. It cannot enter squares containing huts, villages, or enemy figures. 
 
-#### City Caravan
+#### Caravan
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
 ## Technology Research Phase
@@ -297,7 +303,7 @@ the battle (see pages 23–24)
 ### Metropolis
 Your capital can be upgraded to a larger metropolis by researching the agriculture tech. Metropolis benefits:
 1. A metropolis has two extra squares in its city outskirts
-1. When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
+1. When harvesting culture, a metropolis produces a base of 2 culture instead of 1
 1. A metropolis receives an extra +2 combat bonus when a player is defending it
 
 To upgrade your capital the following conditions must be met:
