@@ -38,10 +38,10 @@
 * [Exploration](#exploration)
 * [Huts](#huts)
 * [Villages](#villages)
-* [Fortify City](#fortify-city)
-* [Caravans](#caravans)
 
 [Technology Phase](#technology-phase)
+
+[Architecture](#architecture)
 
 [Culture](#culture)
 * [Culture Cards](#culture-cards)
@@ -185,7 +185,7 @@ If you want to perform a city action, but you don't have enough production then 
 
 ### Perform only one of the following actions:
 #### Store Production
-Place a building program tile on the city (max 1 building program tile per city). The next time this city spends production, double the production generated and remove the token
+Place a building program token on the city (max 1 building program token per city). The next time this city spends production, double the production generated and remove the token
 
 #### Deploy Army
 Costs 4 production. Limited to 6 army figures. Place an army figure in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
@@ -249,10 +249,10 @@ Movement Rules:
 1. Figures can move through friendly city centers, but they can only end their movement on it if they wish to sacrifice that figure and gain a benefit
 
 ### Armies
-Armies represent a civilization's military power. They can explore facedown tiles, blockade architecture, explore huts and villages, fortify a city's defenses and attack enemy figures and cities. If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification tile on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
+Armies represent a civilization's military power. They can explore facedown map tiles, blockade architecture, explore huts and villages, fortify a city's defenses and attack enemy figures and cities. If an army figure ends its movement in a friendly city center, then remove it from the board to add a fortification token on that city center (max of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scouts
-Scouts represent an economical unit of a civilization. They can explore facedown tiles, blockade architecture, send resources home, construct cities, and bolster a city's production. Scouts always send the resources of the square they are occupying to a friendly city, effectively making that square included as part of that city's outskirts. When scouts are blockading architecture, they can send home any resources printed on that building too.
+Scouts represent an economical unit of a civilization. They can explore facedown map tiles, blockade architecture, send resources home, construct cities, and bolster a city's production. Scouts always send the resources of the square they are occupying to a friendly city, effectively making that square included as part of that city's outskirts. When scouts are blockading architecture, they can send home any resources printed on that building too.
 
 Resources a scout can send home:
 1. Resources (Wheat, Silk, Incense, Iron)
@@ -261,13 +261,13 @@ Resources a scout can send home:
 1. Production
 1. Culture
 
-If a scout figure ends its movement in a friendly city center, then remove it from the board to add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
+If a scout figure ends its movement in a friendly city center, then remove it from the board to add a caravan token on that city center (max of 1 per city). The token can be consumed to gain an additional 2 production.
 
 ### Blockade
 Any figure can blockade an enemy square by moving onto a square containing an enemy architecture. While blockaded, that architecture cannot be used in any capacity. While a wonder is blockaded, the wonder's card cannot be used. While a noble is blockaded, the noble's card cannot be used.
 
 ### Exploration
-Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
+Any figure can explore a facedown map tile. Exploring a facedown map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it with its triangle on the same side as the figure that explored it.
 
 #### Huts
 If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
@@ -304,7 +304,7 @@ Your capital can be upgraded to a larger metropolis by researching the agricultu
 1. A metropolis receives an extra +2 combat bonus when a player is defending it
 
 To upgrade your capital the following conditions must be met:
-1. The metropolis tile must contain the square the capital tile previously occupied
+1. The metropolis must contain the square the capital previously occupied
 1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
 1. The expansion square must not contain any enemy figures
 1. The expansion square may be a water square. 
@@ -320,7 +320,7 @@ Architecture includes buildings, wonders, and nobles. When building architecture
 When you advance on the culture track, you will often gain culture cards. These cards are kept secret from other players until you play them and they say at the top of the card which phase you can play these cards in. Your starting culture hand size is 2 and if you ever exceed your hand size, you must immediately discard down to it before you can play any culture card
   
 ### Nobles
-Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble's card and a matching noble. If you are not playing with the noble deck, then just draw a random noble. When you gain a Noble, either immediately add it to a square that is not occupied by an enemy figure in your outskirts (you may replace an existing architecture) or reserve this tile on your civilization sheet to play later.
+Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble's card and a matching noble. If you are not playing with the noble deck, then just draw a random noble. When you gain a Noble, either immediately add it to a square that is not occupied by an enemy figure in your outskirts (you may replace an existing architecture) or reserve this token on your civilization sheet to play later.
 
 Noble cards are kept secret from other players until you play them. They say in what phase they can be played. A player cannot use a noble's card unless they have at least one matching non-blockaded noble on the map.  A player may only have one noble card for each noble token they possess (on the map and in reserve), regardless of whether the noble cards are faceup or facedown. When a noble token is killed, the player must check to see whether they now have too many noble cards of that type.  If a player has too many, they must randomly discard cards of that type until they no longer have too many.
 
@@ -340,7 +340,7 @@ During the “Engaging in Battle” step of combat, players alternate taking bat
 3. Opportunity to use an ability
 4. Battle turn ends After a player plays his last unit, he does not take any more battle turns. Can a player win a battle if he has no units in the battle, but he has a high enough military bonus to win? A: Yes Can a player use resource abilities from tech cards during his “turn” in combat if he has no units left in his hand? A: Yes
 
-When an army figure moves into a square containing a village tile, an enemy army figure, or an enemy city, a battle takes place.
+When an army figure moves into a square containing a village token, an enemy army figure, or an enemy city, a battle takes place.
 
 * Finite resource
   This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
