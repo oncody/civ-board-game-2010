@@ -118,17 +118,13 @@ One at a time, each player can do as many of these actions as they want in any o
 ## Trade Phase
 Everyone should do this phase at the same time
 
-1. Gather trade
-    * Add together the number of trade icons in all of your cities' outskirts
-        * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
-    * Do not add trade icons on any square that is blockaded by your opponent
-    * Increment your trade dial equal to the total number of trade icons
+1. Gather Trade: Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
+   
 1. Trade with other players
     * Points of trade
     * Culture tokens
     * Resource tokens
     * Culture event cards
-        * If you ever exceed your hand size, you must immediately discard down to it before you can play any culture event cards
 
 ## City Management Phase
 Players take turns doing this phase
@@ -137,18 +133,17 @@ At any time during this phase, you may pay to advance on the culture track as ma
 
 One at a time, for each of your cities do the following: 
 
-Total up your production
+Gather Production:
+Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
 Perform one of the following action:
 1. Build an army figure 
     * Costs 4 production 
-    * Place this unit in a legal square in your city's outskirts where you built this unit
-        * If this square contains an enemy unit, a battle immediately takes place
+    * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
     
 1. Build a scout figure
     * Costs 6 production
-    * Place this unit in a legal square in your city's outskirts where you built this unit
-        * If this square contains an enemy unit, a battle immediately takes place
+    * Place this unit in a legal square in your city's outskirts where you built this unit. If this square contains an enemy unit, a battle immediately takes place
 
 1. Build a military unit card
    
@@ -158,7 +153,21 @@ Perform one of the following action:
     | Tier 2 | 7 production |
     | Tier 3 | 9 production |
     | Tier 4 | 11 production |
-   
+
+1. Build a building (requires a tech to unlock it)
+    * Each city can only have a single building with a star in its outskirts
+    * Building tiles are limited
+    
+1. Build a wonder
+    * Each city can only have 1 wonder 
+    * Immediately replace the wonder from the market
+
+1. Devote to the Arts
+    * Gain 1 culture
+    * Gain 1 additional culture if your city is a metropolis
+    * Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure
+        * All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+    
 ## Movement Phase
 * Friendly figures may pass through, but they cannot end their movement in a city center
 * Starting travel speed for army and scout figures is 2
