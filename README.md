@@ -44,6 +44,7 @@
 [Technology Phase](#technology-phase)
 * [Technology Cost](#technology-cost)
 * [Technology Pyramid](#technology-pyramid)
+* [Metropolis](#metropolis)
 
 [Architecture](#architecture)
 
