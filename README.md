@@ -50,9 +50,7 @@
 * [Nobles](#nobles)
 
 [Combat](#combat)
-[Combat Hand Size](#combat-hand-size)
-
-[Post-combat](#post-combat)
+* [Combat Hand Size](#combat-hand-size)
 * [Single-loot Effects](#single-loot-effects)
 * [Double-loot Effects](#double-loot-effects)
 
@@ -128,7 +126,7 @@ Requirements:
 
 To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. If your city has a gold coin printed on the map in one of its outskirts, then increase your coin tracker by 1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. 
 
-When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want). Additionally when you lose a city, if one of your outskirts had a gold coin, then lower your gold tracker by 1.
+When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want). Additionally, when you lose a city, if one of your outskirts had a gold coin, then lower your gold tracker by 1.
 
 ### Play Noble
 Play a reserved noble on your civilization sheet into one of your city's outskirts
@@ -344,9 +342,8 @@ When a battle commences, both players shuffle and draw unit cards equal to their
 | Each additional friendly army | +2 |
 | Defending a city center | +3 |
 
-The defender plays first, except if defending a city with wall.
+The attacker typically has the advantage as they are catching the defenders off guard. The defender takes their turn first, except if they are defending a walled city (in which case the attacker takes their turn first). Combat consists of player 
 Your turn in a battle is Ability > Card > Ability.
-The battle ends after 2 subsequent turns where no player play neither a card neither an ability
 Battle Turns
 During the “Engaging in Battle” step of combat, players alternate taking battle turns, starting with the defender. Only the player currently taking his battle turn can use abilities (such as those found on tech cards or culture cards) or play units. A player’s battle turn consists of:
 1. Opportunity to use an ability
@@ -358,17 +355,20 @@ When an army figure moves into a square containing a village token, an enemy arm
 
 * Finite resource
   This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
-  
-Combat Bonuses
-* Except cities, Do not include squares blockaded by an enemy
-* +2 for every Barracks the player has built
-* +4 for every Academy the player has built
-* +4 for every Great General the player has on the map
-* +6 if defending a non-capital city
-* +12 if defending a capital city
-* +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
-## Post-combat
+### Combat Bonuses
+Architecture that is blockaded does not generate combat bonuses.
+
+| Ability | Combat Bonus |
+| --- | --- |
+| Barracks | 2 |
+| Academy | 4 |
+| Great General | 4 |
+| Non-capital city defense | 6 |
+| Walled city defense | 4 |
+| Capital city defense  | 12 |
+| Metropolis capital city defense  | 2 |
+
 All wounds go away at the end of the battle.
 
  Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
