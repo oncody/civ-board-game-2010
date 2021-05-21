@@ -124,7 +124,9 @@ Requirements:
 1. Cannot be built on water
 1. Its outskirts must contain eight revealed squares, must not overlap with any other city’s outskirts, and cannot contain an enemy figure, hut, or village token (it is valid once the hut or village token is removed from the map)
 
-To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
+To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. If your city has a gold coin printed on the map in one of its outskirts, then increase your coin tracker by 1. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. 
+
+When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want). Additionally when you lose a city, if one of your outskirts had a gold coin, then lower your gold tracker by 1.
 
 ### Play Noble
 Play a reserved noble on your civilization sheet into one of your city's outskirts
@@ -270,7 +272,14 @@ If an army figure enters a square containing an enemy figure or enemy city, it e
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification tile on that city center (may of 1 per city). The next time this city is attacked consume the token to gain a +2 combat bonus.
 
 ### Scouts
-This figure exists to further your economy. It can create new cities (at the start of the turn) and it can send all income on the square beneath it home to a friendly cit. It cannot enter squares containing huts, villages, or enemy figures. 
+This figure exists to further your economy. It can create new cities (at the start of the turn) and send resources on the square it's occupying home to a friendly city. It cannot enter squares containing huts, villages, enemy figures, or enemy cities (but can enter squares containing enemy buildings, wonders, and nobles). When scouts are blockading a building, wonder, or noble, they can send home any resources printed on that building.
+
+Resources a scout can send home:
+1. Resources (Wheat, Silk, Incense, Iron)
+1. Coins
+1. Trade
+1. Production
+1. Culture
 
 #### Caravans
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
