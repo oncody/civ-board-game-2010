@@ -31,7 +31,21 @@
 
 [City Management Phase](#city-management-phase)
 
-[City Management Phase](#city-management-phase)
+[Culture Track](#culture-track)
+
+[Count Production](#count-production)
+
+[Rush Production](#rush-production)
+
+[Deploy Army](#deploy-army)
+
+[Deploy Scout](#deploy-scout)
+
+[Recruit Military](#recruit-military)
+
+[Recruit Aircraft](#recruit-aircraft)
+
+[Construct Wonder](#construct-wonder)
 
 [Technology Research Phase](#technology-research-phase)
 
