@@ -149,7 +149,7 @@ To invest a coin, lower your economy coin dial by 1. This coin no longer counts 
 Trade is used to research technologies and can be converted to production in the production phase. Trade is saved from turn to turn. Everyone does the following actions at the same time in any order
 
 ### Harvest Trade
-Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
+Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
    
 ### Trade Resources
 You can trade and make non-binding promises with other players. You can trade any of the following resources with other players:
@@ -180,7 +180,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 One at a time, for each of your cities do the following: 
 
 ### Harvest Production
-Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). You are able to spend this production only during this turn. Any unspent production at the end of this phase will be lost.
+Add together the number of production icons in your city's outskirts that are not blockaded by an enemy. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). You are able to spend this production only during this turn. Any unspent production at the end of this phase will be lost.
 
 #### Rush Production
 If you want to perform a city action, but you don't have enough production then you can rush production. You can convert 3 trade points to a single point of production, as many times as you want. 
@@ -216,10 +216,10 @@ To construct a building, place this building in your city's outskirts (you may r
 #### Construct Wonder
 A wonder is a type of architecture that you can purchase from the market. They are all unique and have special abilities. Each city can only have 1 wonder. Architecture cannot be built on a square containing an enemy figure. Place this wonder in your city's outskirts (you may replace an existing architecture) and gain the wonder's card. Replace the wonder from the market.
 
-Wonders are not buildings and abilities that affect buildings do not affect wonders unless explicitly stated. If a wonder is blockaded by an enemy figure, you cannot use the wonder's card. Obsoleting a wonder destroys the wonder card but leaves the wonder in play. When a wonder leaves play, also remove the wonder's card.
+Wonders are not buildings and abilities that affect buildings do not affect wonders unless explicitly stated. If a wonder is blockaded by an enemy, you cannot use the wonder's card. Obsoleting a wonder destroys the wonder card but leaves the wonder in play. When a wonder leaves play, also remove the wonder's card.
 
 #### Harvest Culture
-When you harvest culture, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
+When you harvest culture, gain culture as follows. Gain 1 culture (2 if the city is a metropolis). Gain 1 additional culture for each culture token in your outskirts that are not blockaded by an enemy. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though)
 
 #### Harvest Resource
 Harvest a single market resource in your city’s outskirts (if the market has a corresponding token available). Market resources include:
@@ -328,7 +328,7 @@ When you advance on the culture track, you will often gain culture cards. These 
 ### Nobles
 Sometimes when you advance on the culture track you will gain a noble. If you are playing with the optional noble deck, then draw a noble's card and a matching noble. If you are not playing with the noble deck, then just draw a random noble. When you gain a Noble, either immediately add it to a square that is not occupied by an enemy figure in your outskirts (you may replace an existing architecture) or reserve this token on your civilization sheet to play later.
 
-Noble cards are kept secret from other players until you play them. They say in what phase they can be played. A player cannot use a noble's card unless they have at least one matching non-blockaded noble on the map.  A player may only have one noble card for each noble token they possess (on the map and in reserve), regardless of whether the noble cards are faceup or facedown. When a noble token is killed, the player must check to see whether they now have too many noble cards of that type.  If a player has too many, they must randomly discard cards of that type until they no longer have too many.
+Noble cards are kept secret from other players until you play them. They say what phase they can be played. A noble card cannot be played or used unless you have a matching noble in play (not reserved). If a noble is blockaded by an enemy, you cannot use its card. When a noble is replaced, add it to your reserve. When a noble is destroyed, also lose its card.
 
 ## Combat
 Default combat unit hand size is 3
@@ -352,7 +352,7 @@ When an army figure moves into a square containing a village token, an enemy arm
   This relationship is shown on the unit cards by their trump symbols. For example, infantry units are particularly effective against mounted units (e.g., pikemen versus knights), so infantry units have the mounted unit symbol as their trump symbol. When a unit attacks or is attacked by a unit that it has pictured on its card as a trump symbol, it trumps that unit, dealing its damage before the other unit can do so. If this damage kills the trumped unit, the trumped unit deals no damage back to the unit trumping it, since it is already dead before it can deal its damage.
   
 Combat Bonuses
-* Except cities, Do not include squares blockaded by an enemy army or scout figure
+* Except cities, Do not include squares blockaded by an enemy
 * +2 for every Barracks the player has built
 * +4 for every Academy the player has built
 * +4 for every Great General the player has on the map
