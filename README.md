@@ -342,7 +342,14 @@ When a battle commences, both players shuffle and draw unit cards equal to their
 | Each additional friendly army | +2 |
 | Defending a city center | +3 |
 
-The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time. A turn consists of using an ability, playing a unit, using an ability. When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. When you play a unit, you can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many damage tokens on it. If a unit ever has damage tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
+The attacker typically has the advantage as they are catching the defenders off guard. If the defender is defending a walled village, the attacker takes their turn first. Otherwise, the defender takes their turn first. Combat consists of players taking combat turns one at a time until both players have played all of their units and are done using abilities.
+
+Combat Turn:
+1. Use an ability
+1. Play a unit in a front
+1. Use an ability
+
+When you play a unit, you play it in a front. You cannot play a unit in a front that you already have a unit in. You can choose any front to play it in, including a new front (you can make as many fronts as you want). When a unit is played in a front occupied by an enemy, the two units duel. A unit has a strength and health value. When units duel, they will deal damage to each other equal to their strength. If one unit counters another, then that unit deals its damage first. For each point of damage a unit takes, put that many damage tokens on it. If a unit ever has damage tokens on it equal to or greater than its health, then it dies. If a unit was countered, it can die before dealing damage to the other unit.
 
 ### Unit Counter Table
 | Unit | Unit that it counters |
