@@ -74,7 +74,7 @@ Not necessarily have we all agreed on these
 1. Change military tradition social policy to read: Once per turn, when you build a unit, you may pay 2/3/4 more production to build an army figure
 1. Scouts can steal combat bonuses from buildings and send them home
 1. Can choose when to consume a building program
-1. You can build cities on edges of the map (not next to unexplored map tiles)
+1. You can build cities and metropolises on edges of the map (not next to unexplored map tiles)
 1. Should we play with all hut/village tiles:
 
 | Tile | Cody's thoughts |
@@ -93,10 +93,7 @@ Advance first player token (skip this the first turn of the game). This phase is
 Requirements:
 1. Starting city limit is 2
 1. Cannot be built on water
-1. Requires eight adjacent revealed squares
-1. Cannot be adjacent to a hut or village token (it's valid once you remove this token from the map)
-1. Cannot be adjacent to an enemy figure
-1. Its outskirts must not overlap with any other city’s outskirts
+1. Its outskirts must contain eight revealed squares, must not overlap with any other city’s outskirts, and cannot contain an enemy figure, hut, or village token (it is valid once the hut or village token is removed from the map)
 
 To build a city, sacrifice your scout. Move any other friendly figures in this square to a legal adjacent square. Add a city token to the map where your scout was. Adopt a new social policy. Each “Start of Turn” ability on a social policy card can only be used once per turn. If a card has two abilities, both can be used once. When you lose a city, then you lose a social policy card (but can later re-learn that same one if you want)
 
@@ -185,7 +182,7 @@ Requirements:
 1. Each city can only have a single building with a star in its outskirts
 1. Building tiles are limited
 
-Place this building in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card.
+Place this building in your city's outskirts. You may replace an existing building, wonder, or great person tile. If it's a wonder, you lose the wonder card. If it's a great person tile, you will lose the great person card. If you build a water building on a water tile, that tile is still considered to be a water tile for the sake of figure movement.
     
 #### Build a wonder
 Requirements:
@@ -270,18 +267,19 @@ the battle (see pages 23–24)
   * Limited to once per turn
   
 ### Metropolis
-You capital can be upgraded to a larger metropolis by researching the agriculture tech. To upgrade your capital the following conditions must be met:
+Your capital can be upgraded to a larger metropolis by researching the agriculture tech. Metropolis benefits:
+1. A metropolis has two extra squares in its city outskirts
+1. When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
+1. A metropolis receives an extra +2 combat bonus when a player is defending it
 
-* When devoted to the arts, a metropolis produces a base of 2 culture instead of 1
-* A metropolis receives an extra +2 combat bonus when a player is defending it
-* A metropolis may extend partially into water and doesn’t count as water for movement, so its owner can use it as a makeshift bridge.
-* The metropolis marker must occupy the square that the capital marker occupied plus one of its four nondiagonally adjacent squares (this square is called its expansion square).
-* The expansion square must not contain any enemy figures.
-* If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
-* If the expansion square contains a wonder, great person, or building, then the square’s previous contents are overbuilt, as described in the core rulebook.
-* An expansion square may be a water square. If so, the square is no longer considered to be water for purposes of movement.
-* The metropolis’s new outskirts cannot overlap another city’s outskirts, nor can the outskirts extend off the map or into unexplored territory
-* If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in.
+To upgrade your capital the following conditions must be met:
+1. The metropolis marker must contain the square the capital marker previously occupied
+1. The metropolis's outskirts must contain ten revealed squares and must not overlap another city’s outskirts
+1. The expansion square must not contain any enemy figures
+1. The expansion square may be a water square. 
+1. The expansion square may contain a wonder, great person, or a building, but they will be lost.
+
+To build a metropolis, remove your capital and replace it with a metropolis. If the expansion square contains a wonder, great person, or building, then they will be lost. If it is a wonder or great person, you will lose that card. If the expansion square contains any friendly figures, the player immediately moves them to an adjacent square that they can legally end their movement in. If the expansion square was a water square, then this square is no longer treated as a water square (relevant for the sake of movement).
 
 ## Culture
 ### Culture Event Card
