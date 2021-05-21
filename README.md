@@ -244,21 +244,19 @@ This figure exists to further your economy. It cannot enter squares containing h
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan marker on that city center (max of 1 per city). When this city performs a city action that requires production, you may consume this caravan marker to gain an additional 2 production.
 
 ## Technology Research Phase
-
 The Tech Pyramid
 
 Explain how much a technology csots
 
-* Certain techs (Monarchy and Gunpowder) allow a player to obsolete a wonder. When a wonder is obsoleted, turn its wonder card facedown, but leave its wonder marker on the map. The wonder’s special ability is negated and cannot be used for the rest of the game. However, the wonder marker still produces culture when the city it is in is devoted to the arts.
-* Turn phase 5
 * parallel
 Each player may learn one new tech by spending trade They then add their newly learned tech to their tech pyramid When a player learns a tech unlocking an upgraded building, they immediately flip over any of the corresponding basic buildings that they’ve already produced in their cities. Researching a tech spends all of the player’s remaining trade, no matter how much trade they had before researching. The only exception to this rule is for players who possess coins. Coins allow a player to retain 1 trade after researching for each coin the player possesses. Having coins never increases a player’s current trade; it only allows a player to retain trade they already have. A player does not need to know the tech that unlocks the basic form of a building in order to learn the tech that unlocks the upgraded form of that building.
+  
 The Railroad technology card should have a coin icon.
-The Metal Casting technology card should not have a coin icon.
-When you research a tech that grants you a coin, you gain it immediately for the sake of paying trades for that research.
-When you invest a coin that was over a tech, you can freely refill the tech
 
-When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology. For example, a player with 1 coin on his economic dial that researches Bureaucracy, will immediately increase his economic dial by 1, and so will retain 2 trades.
+The Metal Casting technology card should not have a coin icon.
+
+When you research a technology that grants you a coin, this coin will count for the purpose of the trade you keep after researching that technology. 
+
 City Walls are an excellent defensive measure for a player to
 build when it appears that one of their cities is in danger of being
 attacked. A wall provides +4 to a player’s strength total when
