@@ -36,7 +36,7 @@
 [Movement Phase](#movement-phase)
 * [Armies](#armies)
 * [Scouts](#scouts)
-* [Blockade](#movement-phase)
+* [Blockade](#blockade)
 * [Exploration](#exploration)
 * [Huts](#huts)
 * [Villages](#villages)
