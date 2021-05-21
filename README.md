@@ -19,7 +19,7 @@
 * [Harvest Trade](#harvest-trade)
 * [Trade Resources](#trade-resources)
 
-[Economy Phase](#economy-phase)
+[Production Phase](#production-phase)
 * [Culture Track](#culture-track)
 * [Harvest Production](#harvest-production)
 * [Rush Production](#rush-production)
@@ -147,7 +147,7 @@ Requirements:
 To invest a coin, lower your economy coin dial by 1. This coin no longer counts towards your 15 coin victory condition 1. Place an investment token on an investment card. Investments cannot be removed by other players
 
 ## Trade Phase
-Everyone does the following actions at the same time in any order
+Trade is used to research technologies and can be converted to production in the production phase. Trade is saved from turn to turn. Everyone does the following actions at the same time in any order
 
 ### Harvest Trade
 Add together the number of trade icons in all of your cities' outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). Increment your trade dial equal to the total number of trade icons
@@ -159,14 +159,13 @@ You can trade and make non-binding promises with other players. You can trade an
 1. Culture tokens
 1. Culture cards
 
-## Economy Phase
+## Production Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
 ### Culture Track
 At any time during this phase, you may pay to advance on the culture track as many times as you want
 
 #### Culture Track Advancement Cost
-
 | Tier | Culture Cost | Trade Cost |
 | --- | --- | --- |
 | Tier 1 | 3 Culture | 0 Trade |
@@ -174,7 +173,6 @@ At any time during this phase, you may pay to advance on the culture track as ma
 | Tier 3 | 7 Culture | 6 Trade |
 
 #### Culture Track Advancement Benefits
-
 | Square you advance to | Benefit |
 | --- | ---  |
 | Column Icon | Draw a culture card |
@@ -183,7 +181,7 @@ At any time during this phase, you may pay to advance on the culture track as ma
 One at a time, for each of your cities do the following: 
 
 ### Harvest Production
-Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though).
+Add together the number of production icons in your city's outskirts that are not blockaded by an enemy army or scout figure. All squares friendly scouts occupy are considered to be part of one of your city's outskirts (you can never get double income from a square though). You are able to spend this production only during this turn. Any unspent production at the end of this phase will be lost.
 
 #### Rush Production
 If you want to perform a city action but you don't have enough production from this city then you can rush production. You can convert 3 trade points to a single point of production. You can do this as many times as you want.
