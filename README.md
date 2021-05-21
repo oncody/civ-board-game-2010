@@ -34,6 +34,8 @@
 * [Harvest Resource](#harvest-resource)
 
 [Movement Phase](#movement-phase)
+* [Armies](#armies)
+* [Scouts](#scouts)
 * [Blockade](#movement-phase)
 * [Exploration](#exploration)
 * [Huts](#huts)
@@ -269,10 +271,10 @@ Any figure can blockade an enemy square by moving onto a square containing an en
 ### Exploration
 Any figure can explore a facedown map tile. Exploring a facedown map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it with its triangle on the same side as the figure that explored it.
 
-#### Huts
+### Huts
 If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
 
-#### Villages
+### Villages
 If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
 
 ## Technology Phase
