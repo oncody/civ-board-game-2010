@@ -231,14 +231,17 @@ If an army figure enters a square containing a hut, it ends its movement. Then r
 #### Pillage Village
 If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
 
+#### Massacre Scout
+If an army figure enters a square containing only enemy scouts, it ends its movement. All of the defending scouts are killed and loot and other end-of-battle rewards are rewarded to the attacking player.
+
 #### Commence Combat
-If an army figure enters a square containing an enemy figure or enemy cit, it ends its movement and engages in a battle with that player.
+If an army figure enters a square containing an enemy figure or enemy city, it ends its movement and engages in a battle with that player. If that square only contained enemy scouts, see the Massacre Scout above.
 
 #### City Fortification
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
 
 ### Scout Figure
-This figure exists to further your economy. It cannot enter squares containing huts, villages, or enemy figures. Scouts are killed immediately any time they are attacked by an army, unless they have a friendly army escorting them (this triggers end of battle effects such as loot).
+This figure exists to further your economy. It can create new cities (at the start of the turn) and it can send all income on the square beneath it home to a friendly cit. It cannot enter squares containing huts, villages, or enemy figures. 
 
 #### City Caravan
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan marker on that city center (max of 1 per city). When this city performs a city action that requires production, you may consume this caravan marker to gain an additional 2 production.
