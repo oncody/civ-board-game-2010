@@ -223,13 +223,16 @@ Any figure can blockade an enemy square by moving onto it and occupying it. A bl
 Any figure can explore a facedown map tile. Exploring a map tile requires the figure to have a point of movement speed available and it consumes that point of movement speed. When the map tile is flipped faceup, orient it so the triangle is on the same side as the figure that explored it.
 
 ### Army Figure
-This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy cities, and enemy figures. Doing any of these causes your army figure to end your movement. 
+This figure represents your military power and presence. This is the only figure that can enter squares containing huts, villages, enemy figures, and enemy units. Doing any of these causes your army figure to end your movement. 
 
 #### Explore Hut
-If an army figure ends their movement in a square containing a hut, remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
+If an army figure enters a square containing a hut, it ends its movement. Then remove and add the hut resource token from the map to your civilization sheet. Keep this hidden from others until you use it. 
 
 #### Pillage Village
-If an army figure ends their movement in a square containing a village, then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
+If an army figure enters a square containing a village, it ends its movement and then that player will fight the barbarians. The next player will represent the barbarians in battle. The barbarians (being played by the next player) receive a rank 1 archer unit card, a rank 1 spearman unit card, and a rank 1 horseman unit card. Then they engage in battle until it is finished. If the main player wins, they remove the village token from the map and add it to their civilization sheet. Keep this hidden from other players until you use it. After the battle, ignore loot effects.
+
+#### Commence Combat
+If an army figure enters a square containing an enemy figure or enemy cit, it ends its movement and engages in a battle with that player.
 
 #### City Fortification
 Have an army figure end its movement in a city center and then remove it from the board. Add a fortification marker on that city center (may of 1 per city). The next time it is attacked, it gains a +2 combat bonus and is then discarded.
