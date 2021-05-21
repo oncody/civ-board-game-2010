@@ -9,7 +9,7 @@
 * [Optional Rules](#optional-rules)
 * [House Rules](#house-rules)
 
-[Start of Turn Phase](#start-of-turn-phase)
+[Initial Phase](#initial-phase)
 * [Construct City](#construct-city)
 * [Play Noble](#play-noble)
 * [Change Government](#change-government)
@@ -19,7 +19,7 @@
 * [Harvest Trade](#harvest-trade)
 * [Trade Resources](#trade-resources)
 
-[City Management Phase](#city-management-phase)
+[Economy Phase](#economy-phase)
 * [Culture Track](#culture-track)
 * [Harvest Production](#harvest-production)
 * [Rush Production](#rush-production)
@@ -45,7 +45,7 @@
 * [Scouts](#scouts)
 * [Caravans](#caravans)
 
-[Technology Research Phase](#technology-research-phase)
+[Technology Phase](#technology-phase)
 
 [Culture](#culture)
 * [Culture Cards](#culture-cards)
@@ -117,7 +117,7 @@ Not necessarily have we all agreed on these
 | +3-6 extra culture | OP |
 | Learn tech 1 for free | OP |
 
-## Start of Turn Phase
+## Initial Phase
 Advance first player token (skip this the first turn of the game). This phase is done in turns. The first player fully completes this phase before it passes to the next person. You may any of the following actions as many times as you want.
 
 ### Construct City
@@ -159,7 +159,7 @@ You can trade and make non-binding promises with other players. You can trade an
 1. Culture tokens
 1. Culture cards
 
-## City Management Phase
+## Economy Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
 ### Culture Track
@@ -286,12 +286,9 @@ Resources a scout can send home:
 #### Caravans
 Have a scout figure end its movement in a city center and then remove it from the board. Add a caravan tile on that city center (max of 1 per city). The caravan tile can be consumed to gain an additional 2 production.
 
-## Technology Research Phase
-The Tech Pyramid
+## Technology Phase
+This phase is done in secret by all players at the same time.
 
-Explain how much a technology csots
-
-* parallel
 Each player may learn one new tech by spending trade They then add their newly learned tech to their tech pyramid When a player learns a tech unlocking an upgraded building, they immediately flip over any of the corresponding basic buildings that they’ve already produced in their cities. Researching a tech spends all of the player’s remaining trade, no matter how much trade they had before researching. The only exception to this rule is for players who possess coins. Coins allow a player to retain 1 trade after researching for each coin the player possesses. Having coins never increases a player’s current trade; it only allows a player to retain trade they already have. A player does not need to know the tech that unlocks the basic form of a building in order to learn the tech that unlocks the upgraded form of that building.
   
 The Railroad technology card should have a coin icon.
@@ -362,7 +359,6 @@ Combat Bonuses
 * +4 if defending a walled capital or non-capital city (stacks with either of the two other city bonuses).
 
 ## Post-combat
-
 All wounds go away at the end of the battle.
 
  Then, each player tallies up the strength of all of their surviving units, adding in the value of the combat bonus card (if they have it). The player with the highest total wins the battle, with ties going to the defender. Winner’s Figure Losses The winner then loses one army figure in the square for every two units of theirs that were killed in the battle. A player’s last army figure in the square can never be lost this way
