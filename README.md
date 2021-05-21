@@ -213,7 +213,7 @@ Harvest a single resource in your city’s outskirts (if the market has a corres
 ## Movement Phase
 This phase is done in turns. The first player fully completes this phase before it passes to the next person
 
-
+One at a time, for each of your figures you can perform a move action. If multiple figures start the movement phase in the same square, then they can choose to perform their move action together if the player wants (they don't have to move together). This can be beneficial to increase your combat hand size. Move up to your figure travel speed. You must fully finish this move action before beginning a move action with any other figure.
 
 Requirements:
 * Starting figure travel speed is 2
